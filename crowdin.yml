@@ -1,0 +1,3 @@
+files:
+  - source: /general/*
+    translation: /translations/%two_letters_code%/%file_name%.%file_extension%
