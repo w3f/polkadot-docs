@@ -27,11 +27,11 @@
     "tr": "filter=\"id:-{{id}}+tags:hash-tr\""
   },
   "global.footer.from_the_blog": {
-    "en": "From the blog"
+    "en": "Из блога"
   },
   "global.footer.get_involved": {
-    "en": "Want to get involved?",
-    "ru": "Заинтересован?",
+    "en": "Как принять участие?",
+    "ru": "Заинтересованы?",
     "ko": "폴카닷과 함께 하고 싶으신가요?",
     "es": "¿Quiere colaborar?",
     "tr": "Katılmak ister misin?"
