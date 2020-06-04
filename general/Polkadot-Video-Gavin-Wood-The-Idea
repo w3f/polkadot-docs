@@ -1,0 +1,94 @@
+POLKADOT_VIDEO 1_THE_IDEA_FINAL.m4a (https://www.youtube.com/watch?v=GcOKXAOh4Xw)
+
+Gavin [00:00:18] We were just kind of thinking how we could maybe create the next version of Ethereum. 
+
+Gavin [00:00:30] If we sort of had a green field to design upon. 
+
+Gavin [00:00:40] So we already have technologies such as Bitcoin and Ethereum, which are able to, in some sense disintermediate many of the middlemen, many of the institutions and authorities, and remove the need for much of the trust in society. 
+
+Gavin [00:00:58] But what we currently have is a patchwork of, if you like, independent and isolated, legal systems of the Internet. 
+
+Gavin [00:01:10] And this is problematic, because it creates many different groups who, although they share the same vision, have misalignment in how they wish to achieve it. 
+
+Gavin [00:01:19] Creating borders where borders don't need to be there. 
+
+Gavin [00:01:25] We have this great new technology that is allowing us to automate one of the sort of very fundamental aspects of an economy,
+
+[00:01:32] which is trust. 
+
+[00:01:32] Which is this idea that I can have reasonable expectations of what's going to happen without having to trust someone. 
+
+Gavin [00:01:51] There was a general idea back in 2014, when we were starting Ethereum, that Ethereum Two should be being under development by late 2016. 
+
+Gavin [00:02:00] And here we were sitting around in autumn of 2016 and there was absolutely no indication that there was going to be any development significant at least on Ethereum Two for some time. 
+
+Gavin [00:02:13] So really, we wanted to push forward with that one way or another. 
+
+Gavin [00:02:19] Let's embark on something that we think will be complementary to Ethereum Two, a system in parallel that can fulfil things that probably Ethereum Two is going to be less than optimal fulfilling. 
+
+Gavin [00:02:29] And ideally that will interoperate with Ethereum Two as well. 
+
+Gavin [00:02:34] So Polkadot is a multi-chain. 
+
+Gavin [00:02:37] The idea is that it's a blockchain, but we bundle lots of different blocks up all at the same time that can be executed in parallel. 
+
+Gavin [00:02:46] So these things can all be executed at the same time. 
+
+Gavin [00:02:49] In doing so, we create this sort of idea of a multi-chain, because every block is actually lots of different blocks that we can in principle run a hundred times the amount of transaction throughput that just one chain, like Bitcoin or Ethereum could. 
+
+Gavin [00:03:10] Polkadot is in many respects the biggest bet in this ecosystem against chain maximalism. 
+
+Gavin [00:03:17] Even if there were one perfect chain, I don't think it would stay perfect for very long. 
+
+Gavin [00:03:23] I would try to convince people that it's really not such a good plan to be so focussed on backing one winner above all others. 
+
+Gavin [00:03:34] I have here, fresh from the Apple store, a shrink-wrapped MacBook Pro. 
+
+Gavin [00:03:43] And I'm going to give you a demo of developing a custom blockchain and upgrading it online using this very computer. 
+
+Gavin [00:03:55] So let's see what I can do in 15 minutes. 
+
+Gavin [00:03:59] So we've downloaded a package called the Substrate Node Template. 
+
+Gavin [00:04:03] What this is, is a very small repository that acts as a sort of skeleton blockchain. 
+
+Gavin [00:04:11] Ultimately, we didn't end up using our sort of Ethereum technology set for implementing Polkadot. 
+
+Gavin [00:04:18] Instead, we created a sort of whole other one, Substrate. 
+
+Gavin [00:04:22] Now, Substrate is basically this blockchain framework. 
+
+Gavin [00:04:26] The idea is that you can make new blockchains from it. 
+
+Gavin [00:04:29] You can place this specialised logic and use the specialised logic in order to process transactions. 
+
+Gavin [00:04:38] It's written in such a way that it works both as a blockchain that just exists on its own, like Bitcoin and Ethereum and all the others. 
+
+Gavin [00:04:48] And it exists as a blockchain that exists under the Polkadot umbrella as one of these, what we call parachains, what some people call shards. 
+
+Gavin [00:04:59] At the moment, if you think you've got what it takes to develop a sort of low level technology, you go the whole hog and you write a whole new blockchain. 
+
+Gavin [00:05:08] And that takes a very, very, very long time and a lot of skill. 
+
+Gavin [00:05:12] I really hope we can create a whole new class of development teams and development application where, you don't have to know everything, you don't have to do everything to develop your whole new blockchain. 
+
+Gavin [00:05:23] But you can do just enough that you do have a, you know, a domain specific chain that has its own parameterisation and its own features that allow you to get a particular job done, and done well, that wouldn't have been possible before, because smart contracts are too bloaty and writing your own chain is too much work. 
+
+Gavin [00:05:42] And that is as simple as it is to create a whole new different chain, that has this whole new piece of functionality in Substrate. 
+
+Gavin [00:06:07] I feel that my value add for the world is in creating technical solutions for things and delivering them. 
+
+Gavin [00:06:17] If I don't build stuff for a while, then... 
+
+Gavin [00:06:19] I am in some sense addicted to it. 
+
+Gavin [00:06:24] This basically allows every coder to also be a businessman. 
+
+Gavin [00:06:29] They just place an algorithmic service online and it's a self-sovereign, autonomous, economically strong business. 
+
+Gavin [00:06:39] You heard the phrase, the pen is mightier than the sword? 
+
+Gavin [00:06:42] Well, you know, the keyboard is going to become even mightier than the pen, pretty soon. 
+
+Gavin [00:06:50] The world, in some sense, belongs to coders. 
+
