@@ -27,18 +27,18 @@
     "tr": "filter=\"id:-{{id}}+tags:hash-tr\""
   },
   "global.footer.from_the_blog": {
-    "en": "Из блога"
+    "en": "From the blog"
   },
   "global.footer.get_involved": {
-    "en": "Как принять участие?",
-    "ru": "Заинтересованы?",
+    "en": "Want to get involved?",
+    "ru": "Заинтересован?",
     "ko": "폴카닷과 함께 하고 싶으신가요?",
     "es": "¿Quiere colaborar?",
     "tr": "Katılmak ister misin?"
   },
   "global.footer.join_community": {
-    "en": "Присоединиться к сообществу",
-    "ru": "Присоединяйтесь к сообществу",
+    "en": "Join the Community",
+    "ru": "Присоединяйтесь к сообществу",
     "ko": "폴카닷 커뮤니티에 합류하시고,",
     "es": "Únase a la comunidad",
     "tr": "Topluluğa Katıl"
