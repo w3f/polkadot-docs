@@ -134,10 +134,10 @@
   "global.grants.subheading": {
     "en": "Polkadot is a brand new network with a burgeoning ecosystem. The Web3 Foundation is sponsoring community development of software services, including:",
     "zh-cn": "Polkadot是一个新兴的生态系统网络。Web3基金资助社区开发软件服务，包括:",
-    "ja": "Polkadotは、急成長するエコシステムを持つ新しいネットワークです。 Web3Foundationは、ソフトウェア・サービスのコミュニティ開発を後援しています。",
+    "ja": "有关建立在Polkadot上的问题?",
     "ru": "Polkadot - это новая сеть с развивающейся экосистемой. Web3 Foundation спонсирует разработку программного обеспечения сообщества, в том числе:",
     "es": "Polkadot es una red totalmente nueva con un ecosistema en crecimiento. La fundación Web3 está patrocinando el desarrollo comunitario de servicios de software, incluyendo:",
-    "tr": "Polkadot, gelişen bir ekosisteme sahip yepyeni bir ağdır. Web3 Vakfı, yazılım hizmetlerini geliştiren toplulukları deskteklemektedir. Bunlar:"
+    "tr": "Polkadot, gelişen bir ekosisteme sahip yepyeni bir ağdır. Web3 Foundation, yazılım hizmetlerini geliştiren toplulukları desteklemektedir. Bunlar:"
   },
   "global.grants.1": {
     "en": "Development and deployment tooling (e.g. IDEs, parachain development kits)",
@@ -169,7 +169,7 @@
     "ja": "監視（例: エクスプローラ）",
     "ru": "Мониторинг ( напр. блок-эксплореры)",
     "es": "Monitoreo (por ejemplo exploradores)",
-    "tr": "İzleme (örn. tarayıcılar)"
+    "tr": "İzleme Araçları (örn. tarayıcılar)"
   },
   "global.grants.5": {
     "en": "Protocol integrations (e.g. bridges to other blockchains, distributed file storage)",
