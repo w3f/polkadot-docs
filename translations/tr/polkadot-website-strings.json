@@ -94,7 +94,7 @@
   "global.subscribe_newsletter_field": {
     "en": "Enter your email address",
     "es": "Introduzca su dirección de correo electrónico",
-    "tr": "Eposta adresinizi girin"
+    "tr": "E-posta adresinizi girin"
   },
   "global.privacy_notice": {
     "en": "* To see how we use your information please see our {{privacy_link}}.",
@@ -137,7 +137,7 @@
     "ja": "有关建立在Polkadot上的问题?",
     "ru": "Polkadot - это новая сеть с развивающейся экосистемой. Web3 Foundation спонсирует разработку программного обеспечения сообщества, в том числе:",
     "es": "Polkadot es una red totalmente nueva con un ecosistema en crecimiento. La fundación Web3 está patrocinando el desarrollo comunitario de servicios de software, incluyendo:",
-    "tr": "Polkadot, gelişen bir ekosisteme sahip yepyeni bir ağdır. Web3 Foundation, yazılım hizmetlerini geliştiren toplulukları desteklemektedir. Bunlar:"
+    "tr": "Polkadot, gelişen bir ekosisteme sahip yepyeni bir ağdır. Web3 Vakfı, yazılım hizmetlerini geliştiren toplulukları deskteklemektedir. Bunlar:"
   },
   "global.grants.1": {
     "en": "Development and deployment tooling (e.g. IDEs, parachain development kits)",
@@ -507,7 +507,7 @@
     "ja": "Polkadotは、プライベート、コンソーシアムチェーン、パブリックおよびパーミッションレスネットワーク、オラクルや将来来たるべき技術を繋げるために構築されています。Polkadotは、独立したブロックチェーンがPolkadotリレーチェーンを介してトラストレスな方法で情報や取引を交換することができるインターネットを目指しています。",
     "ru": "Polkadot создан для соединения частных сетей и сетей консорциумов, публичных сетей и сетей без разрешения, оракулов и технологий будущего, которые еще предстоит создать. Polkadot облегчает Интернет, где независимые блокчейны могут обмениваться информацией и транзакциями без доверия через цепочку ретрансляции Polkadot.",
     "es": "Polkadot está construido para conectar cadenas privadas y de consorcios, redes públicas y sin permisos, oráculos, y tecnologías futuras que aún no se han creado. Polkadot facilita un internet donde las blockchains independientes puedan intercambiar información y transacciones de forma fiable a través de la relay chain de Polkadot.",
-    "tr": "Polkadot özel ve konsorsiyum zincirlerini, halka açık ve izin gerektirmeyen ağları, oraclelları ve henüz yaratılmamış olan gelecekteki teknolojileri bağlamak için inşa edilmiştir. Polkadot, bağımsız blokajların Polkadot röle zinciri üzerinden bilgi ve işlemlerin güvenilir bir şekilde alışverişinde bulunabileceği bir interneti kolaylaştırıyor."
+    "tr": "Polkadot özel ve konsorsiyum zincirlerini, halka açık ve izin gerektirmeyen ağları, oraclelları ve henüz yaratılmamış olan gelecekteki teknolojileri birleştirmek için inşa edilmiştir. Polkadot, bağımsız blokzincirlerin Polkadot Relay Chain üzerinden bilgi ve işlemlerin güvenilir bir şekilde alışverişinde bulunabileceği bir interneti kolaylaştırıyor."
   },
   "about.mission.3": {
     "en": "Polkadot makes it easier than ever to create and connect decentralized applications, services, and institutions. By empowering innovators to build better solutions, we seek to free society from its reliance on a broken web where its large institutions can’t violate our trust.",
@@ -515,7 +515,7 @@
     "ja": "Polkadotは分散型アプリケーション、サービス、および機関を作成、接続することをかつてないほどに簡単にします。より良いソリューションを構築するためにイノベーターを支えることによって、私たちは社会を壊れたウェブの依存から解き放つことを目指しています。",
     "ru": "Polkadot упрощает создание и подключение децентрализованных приложений, служб и учреждений. Предоставляя инноваторам возможность создавать лучшие решения, мы стремимся освободить общество от его зависимости от сломанной сети, где его крупные институты не могут нарушить наше доверие",
     "es": "Polkadot facilita más que nunca la creación y conexión de aplicaciones, servicios e instituciones descentralizadas. Al potenciar a los innovadores para que construyan mejores soluciones, buscamos liberar a la sociedad de su dependencia de una red rota donde sus grandes instituciones no puedan violar nuestra confianza.",
-    "tr": "Polkadot, dağıtık uygulama, hizmetler ve kurumlar ağı oluşturmayı her zamankinden daha kolay hale getiriyor. İnovatörlerin daha iyi çözümler üretmelerini sağlayarak toplumu, büyük kurumların güvenliğimizi ihlal edemediği, hasarlı bir ağa güvenmekten kurtarmaya çalışıyoruz."
+    "tr": "Polkadot, dağıtık uygulama, hizmetler ve kurumlar ağı oluşturmayı her zamankinden daha kolay hale getiriyor. İnovatörlerin daha iyi çözümler üretmelerini sağlayarak toplumu, büyük kurumların güvenliğimizi ihlal edemediği, zararlı bir ağa güvenmekten kurtarmaya çalışıyoruz."
   },
   "about.mission.technology_link": {
     "en": "Learn About the Technology",
@@ -539,7 +539,7 @@
     "ja": "Polkadotはスイス財団が設立した{{web3_link}}によって、完全に機能しユーザーフレンドリーな分散型ウェブを促進するために作られた1番最初のプロジェクトです。",
     "ru": "Polkadot из {{web3_link}}, швейцарского фонда, созданного для содействия созданию полнофункциональной и удобной в использовании децентрализованной сети",
     "es": "Polkadot es el primer proyecto de {{web3_link}}, una fundación Suiza creada para facilitar una web descentralizada totalmente funcional y fácil de usar",
-    "tr": "Bir İsviçre Vakfı olan {{web3_link}}'nin ilk projesi olan Polkadot, tamamen işlevsel ve kullanıcı dostu merkeziyetsiz ağoluşturmak için kurulmuştur."
+    "tr": "Bir İsviçre Vakfı olan {{web3_link}}'nin ilk projesi olan Polkadot, tamamen işlevsel ve kullanıcı dostu merkeziyetsiz bir ağ oluşturmak için kurulmuştur."
   },
   "about.builders.subheading.web3_link": {
     "en": "Web3 Foundation",
@@ -547,7 +547,7 @@
     "ja": "Web3 Foundation",
     "ru": "Web3 Foundation",
     "es": "Fundación Web3",
-    "tr": "Web3 Vakfı"
+    "tr": "Web3 Foundation"
   },
   "about.builders.1": {
     "en": "The Web3 Foundation is partnering with best-in-class entities to build Polkadot and foster development of the services and applications that will run on it.",
@@ -555,7 +555,7 @@
     "ja": "Web3Foundationはクラス最高のチームと提携し、Polkadotを構築、その上で動作するサービスとアプリケーションの開発を促進しています。",
     "ru": "Фонд Web3 сотрудничает с лучшими в своем классе организациями по созданию Polkadot и содействует разработке сервисов и приложений, которые будут на ней работать",
     "es": "La fundación Web3 se está asociando con las mejores instituciones de su sector para construir Polkadot y fomentar el desarrollo de los servicios y aplicaciones que se ejecutarán en él.",
-    "tr": "Web3 Vakfı, Polkadot'u oluşturmak ve üzerinde çalışacak hizmetlerin ve uygulamaların geliştirilmesini desteklemek için alanınında en iyi kuruluşlarla ortaklık kuruyor."
+    "tr": "Web3 Foundation, Polkadot'u oluşturmak ve üzerinde çalışacak hizmetlerin ve uygulamaların geliştirilmesini desteklemek için alanınında en iyi kuruluşlarla ortaklık kuruyor."
   },
   "about.builders.2": {
     "en": "Researchers from Inria Paris and ETH Zurich, developers from Parity Technologies, and capital partners from crypto-funds such as Polychain Capital are all working together to develop a superlative realization of Web3, with Polkadot at its core.",
@@ -570,7 +570,7 @@
     "ja": "{{grants_link}}",
     "ru": "{{grants_link}}",
     "es": "{{grants_link}}",
-    "tr": "Web3 Vakfı ekosistemin gelişmesi için {{grants_link}}."
+    "tr": "Web3 Foundation ekosistemin gelişmesi için {{grants_link}}."
   },
   "about.builders.3.grants_link": {
     "en": "providing grants",
@@ -759,7 +759,7 @@
     "ja": "Web3 Foundation",
     "ru": "Web3 Foundation",
     "es": "Fundación Web3",
-    "tr": "Web3 Vakfı"
+    "tr": "Web3 Foundation"
   },
   "about.get_in_touch.join.text.paritytech_link": {
     "en": "Parity Technologies",
@@ -1363,7 +1363,7 @@
     "ko": "成为验证人",
     "ru": "Стать валидатором",
     "es": "Sea un validador",
-    "tr": "Doğrulayıcı olun"
+    "tr": "Validatör olun"
   },
   "community.section2.1.heading": {
     "en": "1. Set up your machine",
@@ -1412,7 +1412,7 @@
     "ja": "新しいバリデータは、メインネットで24時間ごとに選ばれます。まずはPolkadotのUI（({{ui_link}})）で３つ別々のアカウント(Controller, Session, Stash）を作成する必要があります。これらのアカウントは、あなたが設定したばかりのノードを管理や表すために使われます。",
     "ru": "Новые валидаторы выбираются каждые 24 часа (или около того). Вам нужно будет создать новую учетную запись (Учетные записи> Создать учетную запись) в пользовательском интерфейсе polkadot ({{ui_link}}). с использованием того же, что и раньше. Эта учетная запись представляет собой только что настроенный узел.",
     "es": "Los nuevos validadores serán elegidos cada 24 horas en mainnet. Deberá crear cuentas separadas para las claves de Controller, Session y Stash en la interfaz de Polkadot ({{ui_link}}. Estas cuentas se utilizarán para representar y controlar el nodo validador que acaba de configurar.",
-    "tr": "Ana ağda Her 24 saatte bir yeni ağ doğrulayıcıları seçilir. PolkadotUI'da Denetleyici, Oturum ve Stash anahtarları için ayrı hesaplar oluşturmanız gerekir ({{ui_link}}). Az önce kurduğunuz onaylayıcı düğümü temsil edin ve kontrol edin."
+    "tr": "Ana ağda Her 24 saatte bir yeni ağ validatörleri seçilir. PolkadotUI'da Denetleyici, Oturum ve Stash anahtarları için ayrı hesaplar oluşturmanız gerekir ({{ui_link}}). Az önce kurduğunuz onaylayıcı düğümü temsil edin ve kontrol edin."
   },
   "community.section2.2.2": {
     "en": "Next you will need to get some DOTs from the faucet or by asking on Riot. Assuming you have more DOTs than the lowest staked validator or there is an open validator slot, you can register to be staked. A step-by-step guide demonstrating how to set up your accounts and bond your DOTs is available on the {{wiki_link}}.",
@@ -1435,7 +1435,7 @@
     "ru": "Хотите стать валидатором?",
     "zh-cn": "想成为验证者吗?",
     "es": "¿Quiere ser validador?",
-    "tr": "Doğrulayıcı olmak ister misin?"
+    "tr": "Validatör olmak ister misin?"
   },
   "community.section3.read_more_link": {
     "en": "Read More",
@@ -1449,7 +1449,7 @@
     "zh-cn": "您可以在{{telemetry_link}}上看到验证者统计信息并了解更多信息。",
     "ja": "{{telemetry_link}}でバリデーター情報を確認することができます。",
     "es": "Puede ver las estadísticas de validador en {{telemetry_link}}.",
-    "tr": "Doğrulayıcı istatistiklerini {{telemetry_link}} üzerinden görebilirsin."
+    "tr": "Validatör istatistiklerini {{telemetry_link}} üzerinden görebilirsin."
   },
   "community.section3.telemetry_link": {
     "en": "Telemetry",
@@ -1462,7 +1462,7 @@
   "community.section4.heading": {
     "en": "Become a Polkadot Ambassador",
     "es": "Conviertase en un Embajador de Polkadot",
-    "tr": "Polkadot Elçisi Olun"
+    "tr": "Polkadot Temsilcisi Olun"
   },
   "community.section4.text": {
     "en": "Check out the {{post_link}} and apply to join the vibrant polkadot community.",
@@ -1471,12 +1471,12 @@
   },
   "community.section4.text.post_link": {
     "en": "post",
-    "tr": "post"
+    "tr": "gönder"
   },
   "community.section4.button": {
     "en": "Apply to Become an Ambassador",
     "es": "Solicite ser un embajador",
-    "tr": "Elçi olmak için başvurun"
+    "tr": "Temsilci olmak için başvurun"
   },
   "community.events.heading": {
     "en": "Upcoming events",
@@ -1538,7 +1538,7 @@
   "contact.general": {
     "en": "For general chat",
     "es": "Para el chat general",
-    "tr": "Genel chat"
+    "tr": "Genel sohbet"
   },
   "contact.general.text": {
     "en": "Join the {{watercooler_link}} or {{telegram_link}}",
@@ -1586,7 +1586,7 @@
   },
   "contact.join_teams.text.web3_link": {
     "en": "Web3 Foundation",
-    "tr": "WEeb3 Vakfı"
+    "tr": "Web3 Foundation"
   },
   "contact.join_teams.text.paritytech_link": {
     "en": "Parity Technologies",
@@ -1748,7 +1748,7 @@
   },
   "dot.faq.3.answer.2": {
     "en": "the ability to act as a validator, collator, nominator or fisherman;",
-    "tr": "doğrulayıcı, düzenleyici, aday gösterici veya balıkçı olarak görev yapabilme"
+    "tr": "validatör, düzenleyici, atayıcı veya balıkçı olarak görev yapabilme"
   },
   "dot.faq.3.answer.3": {
     "en": "the ability to participate in the governance of Polkadot;",
@@ -1812,7 +1812,7 @@
   },
   "dot.faq.9.answer": {
     "en": "The initial development cycle for Polkadot is expected to be at least two years following the completion of the first general sale. This estimated time period anticipates a research phase culminating in a set of technology proofs-of-concept, a series of prototypes with an eventual formal protocol specification, the deployment of a testnet, a fully refined implementation, an external auditing process, and a bounty programme. To the extent these phases are successful, the Web3 Foundation will proceed to make the Polkadot genesis block available for deployment such that participants in the first general sale can access DOTs allocated to them.",
-    "tr": "Polkadotun üretim döngüsünün tamamlanması ilk genel satışın gerçekleşmesinden itibaren iki sene sonrası için bekleniyor. Bu zaman sürecinde Proofs-of-concept'in tamamlanması, resmi protokollerin prototiplerinin üretilmesi, testnetin başlatılması, tam hatasız uygulamaya konulması, dış denetim süreçleri ve bounty programı hedefleniyor. Bu aşamalar başarılı olduğunda Web3 Vakfı Polkadot genesis bloğunun üretilip ilk DOT satış ve dağıtımlarının yapılması aşamasına geçilecek."
+    "tr": "Polkadotun üretim döngüsünün tamamlanması ilk genel satışın gerçekleşmesinden itibaren iki sene sonrası için bekleniyor. Bu zaman sürecinde Proofs-of-concept'in tamamlanması, resmi protokollerin prototiplerinin üretilmesi, testnetin başlatılması, tam hatasız uygulamaya konulması, dış denetim süreçleri ve bounty programı hedefleniyor. Bu aşamalar başarılı olduğunda Web3 Foundation Polkadot genesis bloğunun üretilip ilk DOT satış ve dağıtımlarının yapılması aşamasına geçilecek."
   },
   "dot.faq.10.question": {
     "en": "How can DOTs be accessed once allocated?",
@@ -1848,7 +1848,7 @@
   },
   "dot.faq.13.answer": {
     "en": "In respect of those DOTs in existence that are not bonded for the purposes of supporting and operating Polkadot, the Web3 Foundation does not intend to provide, develop or support any infrastructure to enable the trading of DOTs, and the possibility of any third party offering such infrastructure will be entirely outside the control of the Web3 Foundation.",
-    "tr": "Web3 Vakfı DOT'ların alım satıma konu olabileceği hiçbir altyapıyı sağlamayacak, geliştirmeyecek ya da desteklemeyecektir aynı zamanda DOT'ların var oluşu itibari ile Polkadotu desteklemek ya da operasyonları yönlendirmek gibi bir görevi yoktur. Eğerki herhangibir üçüncü taraf bu şekilde bir alt yapı sağlar ise bu tamamen Web3 Vakfının kontrolü dışında gerçekleşmiştir."
+    "tr": "Web3 Foundation DOT'ların alım satıma konu olabileceği hiçbir altyapıyı sağlamayacak, geliştirmeyecek ya da desteklemeyecektir aynı zamanda DOT'ların var oluşu itibari ile Polkadot'u desteklemek ya da operasyonları yönlendirmek gibi bir görevi yoktur. Eğerki herhangi bir üçüncü taraf bu şekilde bir alt yapı sağlar ise bu tamamen Web3 Foundation'ın kontrolü dışında gerçekleşmiştir."
   },
   "dot.faq.14.question": {
     "en": "Are DOTs going to be another virtual currency?",
@@ -1856,7 +1856,7 @@
   },
   "dot.faq.14.answer": {
     "en": "It is not the intention of the Web3 Foundation for DOTs to be used as a virtual currency, as detailed in the sections above. The Web3 Foundation does not intend to provide, develop or support any mechanism by which DOTs can be exchanged into an underlying value of fiat currency. On this basis, the Web3 Foundation considers it is unlikely that DOTs would be appropriate for use as a form of virtual currency. Notwithstanding this, it is possible that under the laws of certain jurisdictions, DOTs may be considered virtual currencies. The Web3 Foundation provides no comment as to what such classification may entail for holders of DOTs, and any potential holders seeking further information as to the potential impact of holding a virtual currency should seek independent legal advice.",
-    "tr": "Web3 Vakfının yukarıda da belirtildiği üzere DOT'ların sanal para birimi olarak kullanılmaya yönelik bir amacı bulunmamaktadır. Web3 Vakfı, DOT'ların bir fiat para birimine bağlı bir değere göre alım satıma konu olmasına yönelik sistemleri desteklemeye, geliştirmeye, sağlamaya yönelik iradesi bulunmamaktadır."
+    "tr": "Web3 Foundation'ın yukarıda da belirtildiği üzere DOT'ların sanal para birimi olarak kullanılmaya yönelik bir amacı bulunmamaktadır. Web3 Foundation, DOT'ların bir fiat para birimine bağlı bir değere göre alım satıma konu olmasına yönelik sistemleri desteklemeye, geliştirmeye, sağlamaya yönelik iradesi bulunmamaktadır."
   },
   "gavin.meta.title": {
     "en": "Gavin Wood | Polkadot",
@@ -1879,7 +1879,7 @@
   },
   "gavin.3": {
     "en": "At {{parity_link}}, {{gavin_link}} currently leads innovation on Substrate and Polkadot.",
-    "tr": " {{gavin_link}} şuanda {{parity_link}}'de Substrate ve Polkadot projelerinin inovasyonları yönetiyor."
+    "tr": " {{gavin_link}} şu anda {{parity_link}}'de Substrate ve Polkadot projelerinin inovasyonları yönetiyor."
   },
   "gavin.3.parity_link": {
     "en": "Parity",
@@ -1895,7 +1895,7 @@
   },
   "gavin.4.web3_link": {
     "en": "Web3 Foundation",
-    "tr": "Web3 Vakfı"
+    "tr": "Web3 Foundation"
   },
   "gavin.5.quote": {
     "en": "In the future, trusting an institution with our interests will be as archaic a concept as reckoning on an abacus is today.",
@@ -2044,7 +2044,7 @@
     "ko": "포크리스(Forkless) 미래 증명",
     "ru": "Отсутствие форков и простота обновления",
     "es": "Sin fork y a prueba de futuro",
-    "tr": "Çatallanmasız ve gelecek değişikliklerden etkilenmeyecek"
+    "tr": "Çatallanma gerektirmeyen ve gelecek değişikliklerden etkilenmeyecek"
   },
   "home.3.4.text": {
     "en": "Polkadot can upgrade without hard forks to integrate new features or fix bugs. This capability enables Polkadot to easily adapt to changes and upgrade itself as better technologies become available.",
@@ -2053,7 +2053,7 @@
     "ko": "폴카닷은 설계적으로 탄력적인 네트워크로, 포크(Fork) 없이도 업그레이드 및 적용이 가능합니다. 이를 통해 폴카닷은 더 나은 기술을 더 빠르게 적용하고 업그레이드 할 수 있습니다.",
     "ru": "Polkadot спроектирован таким образом, чтобы быть по-настоящему отказоустойчивой сетью: он может адаптироваться и обновляться без форков. Это позволяет Polkadot легко адаптироваться к изменениям и обновляться по мере появления более совершенных технологий",
     "es": "Polkadot está diseñado para ser una red verdaderamente resistente: es capaz de adaptarse y actualizarse sin necesidad de bifurcarse. Esto permite a Polkadot adaptarse fácilmente a los cambios y actualizarse a medida que se dispone de mejores tecnologías.",
-    "tr": "Polkadot gerçekten güçlü bir ağ olması için tasarlandı: Çatallanma olmadan sistem yükseltmesi gerçekleştirilebilir ve kendisini adapte edebilir. Bu Polkadot'u değişikliklere kolayca uyum sağlayabilir hale getiriyor ve kendisi daha iyi teknolojiler ortaya çıktığında geliştirme imkanı sunuyor."
+    "tr": "Polkadot gerçekten güçlü bir ağ olması için tasarlandı: Çatallanma olmadan sistem güncellenmesini gerçekleştirilebilir ve kendisini adapte edebilir. Bu Polkadot'u değişikliklere kolayca uyum sağlayabilir hale getiriyor ve kendisi daha iyi teknolojiler ortaya çıktığında geliştirme imkanı sunuyor."
   },
   "home.3.5": {
     "en": "Security for everyone",
@@ -2132,7 +2132,7 @@
     "ko": "가버넌스",
     "ru": "Управление",
     "es": "Gobernanza",
-    "tr": "Yönetim"
+    "tr": "Yönetişim"
   },
   "home.4.1.text": {
     "en": "Polkadot token holders have complete control over the protocol. All privileges, which on other platforms are exclusive to miners, will be given to the Relay Chain participants (DOT holders), including managing exceptional events such as protocol upgrades and fixes.",
@@ -2290,7 +2290,7 @@
   },
   "impressum.2": {
     "en": "This website is owned and operated by the Web 3.0 Technologies Foundation.",
-    "tr": "Bu websitesi Web 3.0 Teknolojileri Vakfı tarafından açılmış ve yönetilmektedir."
+    "tr": "Bu websitesi Web 3.0 Technologies Foundation tarafından açılmıştır ve yine Web 3.0 Technologies Foundation tarafından yönetilmektedir."
   },
   "impressum.3": {
     "en": "Registered office",
@@ -2298,15 +2298,15 @@
   },
   "impressum.4": {
     "en": "Web 3.0 Technologies Stiftung",
-    "tr": "Web 3.0 Teknolojileri Stiftung"
+    "tr": "Web 3.0 Technologies Foundation"
   },
   "impressum.5": {
     "en": "Reiffergässli 4<br>6300 Zug<br>Switzerland",
-    "tr": "Reiffergässli 4<br>6300 Zug<br> İsviçte"
+    "tr": "Reiffergässli 4<br>6300 Zug<br> İsviçre"
   },
   "impressum.6": {
     "en": "Contact: {{mail}}",
-    "tr": "İletişime Geç:{{mail}} "
+    "tr": "İletişim: {{mail}} "
   },
   "impressum.7": {
     "en": "Commercial register",
@@ -2326,7 +2326,7 @@
   },
   "impressum.11": {
     "en": "Web3 Foundation Council members",
-    "tr": "Web3 Vakıf mecleri üyeleri"
+    "tr": "Web3 Foundation Meclis Üyeleri"
   },
   "impressum.12": {
     "en": "Dr. Gavin Wood, Aeron Buchanan and Reto Trinkler",
@@ -2435,7 +2435,7 @@
   },
   "mediakit.4": {
     "en": "Web3 Foundation logos",
-    "tr": "Web3 Vakfı Logoları"
+    "tr": "Web3 Foundation Logoları"
   },
   "memorandum.meta.title": {
     "en": "Memorandum | Polkadot",
@@ -2511,7 +2511,7 @@
   },
   "memorandum.18": {
     "en": "Swiss foundations are required to appoint a statutory auditor. The current statutory auditor of the Foundation is MUTARA Treuhand AG, having its seat in Baar, Switzerland.",
-    "tr": "İsviçre vakıfları yasal denetmen tayin etmek zorundadırlar. Şuanda vakfın yasal denetmeni MUTARA Treuhand AG olup ikamet yeri Baar, İsviçre'dir.."
+    "tr": "İsviçre vakıfları yasal denetmen tayin etmek zorundadırlar. Şu anda vakfın yasal denetmeni MUTARA Treuhand AG olup ikamet yeri Baar, İsviçre'dir."
   },
   "memorandum.19": {
     "en": "Foundation council members",
@@ -2555,15 +2555,15 @@
   },
   "memorandum.29": {
     "en": "DOTs are intended to perform three key functions in Polkadot, namely: (i) to facilitate participation by holders of DOTs in protocol governance, (ii) to facilitate participation by holders of DOTs in the relay-chain’s proof of stake consensus mechanism and (iii) to serve as a value metric.",
-    "tr": "DOT'lar Polkadot içerisinde üç anahtar işlevi yerine getirmek için oluşturulacak: 1) protokolün yönetim sürecini DOT sahiplerinin katılımı ile gerçekleştirmek, 2)Merkez zincirdeki DOT sahiplerinin katılımı Proof of Stake mutabakat mekanizmasına katılımını sağlamak, 3) değer ölçütü olarak hizmet etmesi. "
+    "tr": "DOT'lar Polkadot içerisinde üç anahtar işlevi yerine getirmek için oluşturulacaktır 1) protokolün yönetim sürecini DOT sahiplerinin katılımı ile gerçekleştirmek, 2)Merkez zincirdeki DOT sahiplerinin katılımı Proof of Stake mutabakat mekanizmasına katılımını sağlamak, 3) değer ölçütü olarak hizmet etmek. "
   },
   "memorandum.30": {
     "en": "It is intended that the first function of DOTs will be to entitle holders to exercise certain functions in relation to the governance of Polkadot, including the determination of fee structures and associated fee waivers, the addition or removal of parachains and upgrades and changes to the Polkadot protocol as a whole. These functions are not formally granted to the holders of DOTs, but rather the underlying code of Polkadot will enable a holder of DOTs to participate in the decision-making process in respect of these activities.",
-    "tr": "DOT'ların ilk işlevinin Polkadot ağındaki belirli işlevleri DOT sahiplerinin denemesi olacaktır: işlem ücreti yapısının belirlenmesi, işlem ücretinden vazgeçenlerin belirlenmesi, yan zincirlerin eklenmesi, çıkartılması, güncellenmesi ve yükseltilmesi ve bunların Polkadot protokolünün tamamına yansıması. Bu işlevler normal düzende DOT sahiplerine resmi olarak tanınmayacaktır ancak Polkadot'u oluşturan sistemde DOT sahipleri bu yukarıda bahsi geçen aktivitelerin karar verme aşamasında yer almasına imkan tanıyacaktır."
+    "tr": "DOT'ların ilk görevi, Polkadot ağındaki belirli işlevlerin DOT sahiplerince denenmesi olacaktır: işlem ücreti yapısının belirlenmesi, işlem ücretinden vazgeçenlerin belirlenmesi, yan zincirlerin eklenmesi, çıkarılması, güncellenmesi, yükseltilmesi ve bunların Polkadot protokolünün tamamına yansıması. Bu işlevler normal düzende DOT sahiplerine resmi olarak tanınmayacaktır ancak Polkadot'u oluşturan sistemde DOT sahipleri bu yukarıda bahsi geçen aktivitelerin karar verme aşamasında yer almasına imkan tanıyacaktır."
   },
   "memorandum.31": {
     "en": "It is intended that the second function of DOTs will be to facilitate the consensus mechanism that underpins Polkadot. As detailed further below under the heading “Active participation in Polkadot” in order for the protocol to function and allow for valid transactions to be carried out across parachains, Polkadot will rely on holders of DOTs to play active roles. Active participants will put certain proportions of their DOTs at risk (referred to as “bonding”) on an ongoing basis in order to act as a disincentive for malicious participation in the consensus mechanism. Please see“Reallocation and deletion of DOTs” for further information. Depending on the activity undertaken, the time during which DOTs are bonded within the protocol and the number of DOTs required to make up the security bond in respect of such activity, will vary.",
-    "tr": "DOT'ların ikincil işlevi ise Polkadot'un mutabakat mekanizmasının çalışmasını sağlamak olacaktır. Aşağıda detaylıca anlatıldığı üzere “Polkadot Üzerinde Aktif Katılım“ ile protokolün işlemesi ve gçeerli işlemlerin yanzincirlere taşınmasında, Polkadot DOT sahiplerine aktif rol oynamaları hususunda güvenecektir. Aktif katılımcılar DOT varlıklarının bir kısmını risk kapsamında (Bağlayarak) ortaya koyarak zararlı hareketlere karşı kırıcı bir rol oynayacaktır. Lütfen “DOT'ların yeniden dağıtımı ve kaldırılması“ başlığına daha detaylı bilgi için göz atın. Taahhüt edilen aktivitilere göre, DOT'ların protokol içinde bağlandığı süre ve sayıya göre güvenliği oluşturma şartları değişikliklik gösterecektir."
+    "tr": "DOT'ların ikincil işlevi ise Polkadot'un mutabakat mekanizmasının çalışmasını sağlamak olacaktır. Aşağıda detaylı olarak anlatıldığı üzere “Polkadot Üzerinde Aktif Katılım“ ile protokolün işlemesi ve geçerli işlemlerin yan zincirlere taşınmasında, Polkadot DOT sahiplerine aktif rol oynamaları hususunda güvenecektir. Aktif katılımcılar DOT varlıklarının bir kısmını risk kapsamında (Bağlayarak) ortaya koyarak zararlı hareketlere karşı kırıcı bir rol oynayacaktır. Lütfen “DOT'ların yeniden dağıtımı ve kaldırılması“ başlığına daha detaylı bilgi için göz atın. Taahhüt edilen aktivitelere göre, DOT'ların protokol içinde bağlandığı süre ve sayıya göre güvenliği oluşturma şartları değişiklik gösterecektir."
   },
   "memorandum.32": {
     "en": "It is intended that the third function of DOTs will be to provide a value mechanism within Polkadot, such that rewards for active participation in the network can be denominated in DOTs, with higher value contributions being rewarded with a higher number of DOTs.",
@@ -2579,7 +2579,7 @@
   },
   "memorandum.35": {
     "en": "the ability to actively participate in the operation of Polkadot by acting as a validator, nominator or fisherman;",
-    "tr": "doğrulayıcı, düzenleyici, aday gösterici veya balıkçı olarak görev yapabilme"
+    "tr": "validatör, nominatör veya fisherman olarak görev yapabilme"
   },
   "memorandum.36": {
     "en": "the ability to participate in the decision-making process in relation to fee structures and associated fee waivers that are proposed to be implemented within Polkadot;",
@@ -2591,7 +2591,7 @@
   },
   "memorandum.38": {
     "en": "the ability to participate in the decision-making process in relation to global upgrades and / or changes to Polkadot.",
-    "tr": "parachainlerin eklenmesi veya kaldırılması gibi süreçlerde karar alıcı mekanizmalarda yer almak ve"
+    "tr": "Polkadot'ta yapılacak global yükseltme ve/veya değişiklik süreçlerinde karar alıcı mekanizmalarda yer almak ve"
   },
   "memorandum.39": {
     "en": "DOTs will not confer any ownership or voting right or interest in the Foundation, nor will a holder of DOTs be entitled to any share of the income of the Foundation or any other party. Further, a holder of DOTs will not be entitled to any proceeds raised in connection with the sale of DOTs, nor will a person have any right against the Foundation or any other person in respect of any funds provided in connection with the general sale of DOTs.",
@@ -2603,23 +2603,23 @@
   },
   "memorandum.41": {
     "en": "As noted under the section headed “Functions conferred by DOTs on their holders” and “Uncapped supply of DOTs”, Polkadot will be designed to encourage active participation in Polkadot by holders of DOTs. Active participation in this context involves a holder of DOTs performing at least one of the following roles within Polkadot:",
-    "tr": "DOT'ların sahiplerine verdiği işlevler ”ve“ DOT'ların ucu açık arzı ”başlıklı başlıkta belirtildiği gibi, Polkadot, DOT sahiplerinin Polkadot'a aktif katılımını teşvik etmek için tasarlanacaktır. Polkadot'ta aşağıdaki rollerden en az birini yerine getiren DOT'ların sahibi:"
+    "tr": "\"DOT'ların sahiplerine verdiği işlevler” ve “DOT'ların ucu açık arzı” başlıklı başlıkta belirtildiği gibi, Polkadot, DOT sahiplerinin Polkadot'a aktif katılımını teşvik etmek için tasarlanacaktır. Polkadot'ta aktif katılımcı olmak için DOT sahibi aşağıdaki rollerden en az birini yerine getirmelidir:"
   },
   "memorandum.42": {
     "en": "<strong>Validators:</strong> it is intended that these participants will play a crucial role in adding new blocks to the relay-chain and, by extension, to all parachains such that parties can complete cross-chain transactions via the relay-chain. In performing this role, validators will perform two functions. First, ratifying the information contained in an assigned set of parachain blocks (such as the identities of the transacting parties, the subject matter of the contract etc.) to confirm that the transaction is valid. The second role will be to participate in the consensus mechanism to produce the relay chain blocks based on validity statements from other validators. Any instances of non-compliance with the consensus algorithms developed and chosen by Polkadot results in punishment by removal of some or all of their DOTs, thereby discouraging bad actors. Good performance, however, will be rewarded, with validators receiving transaction fees in the form of DOTS in exchange for their activities.",
-    "tr": "<strong> Doğrulayıcılar: </strong>, katılımcıların, aktarma zincirine ve buna ek olarak tarafların çapraz zinciri tamamlayabilmeleri için tüm parachainlere yeni bloklar eklemesinde çok önemli bir rol oynaması amaçlanmaktadır. Aktarma zinciri yoluyla yapılan işlemler: Doğrulayıcılar bu rolün gerçekleştirilmesinde iki işlevi yerine getirecektir: Öncelikle, atanmış bir parachain bloklarında yer alan bilgileri (işlem yapan tarafların kimlikleri, sözleşmenin konusu vb.) onaylamak ve işlemin geçerli olduğunu teyit etmek diğer validatörlerin geçerlilik beyanlarına dayanarak relay zinciri blokları üretmek için mutabakat mekanizmasına katılmak olacaktır. Polkadot tarafından geliştirilen ve seçilen mutabakat algoritmalarındaki uyumsuzluk örnekleri, DOT'larının bir kısmının veya tamamının yok edilmesiyle cezalandırma, dolayısıyla güvenilir olmayan tarafların cesaretini kıracaktır. Buna rağmen iyi performans gösteren güvenilir taraflar ise ödüllendirilecektir."
+    "tr": "<strong> Validatörler: </strong>, katılımcıların, aktarma zincirine ve buna ek olarak tarafların çapraz zinciri tamamlayabilmeleri için tüm parachainlere yeni bloklar eklemesinde çok önemli bir rol oynaması amaçlanmaktadır. Aktarma zinciri yoluyla yapılan işlemler: Validatörler bu rolün gerçekleştirilmesinde iki işlevi yerine getirecektir: Öncelikle, atanmış bir parachain bloklarında yer alan bilgileri (işlem yapan tarafların kimlikleri, sözleşmenin konusu vb.) onaylamak ve işlemin geçerli olduğunu teyit etmek diğer validatörlerin geçerlilik beyanlarına dayanarak relay zinciri blokları üretmek için mutabakat mekanizmasına katılmak olacaktır. Polkadot tarafından geliştirilen ve seçilen mutabakat algoritmalarındaki uyumsuzluk örnekleri, DOT'larının bir kısmının veya tamamının yok edilmesiyle cezalandırma, dolayısıyla güvenilir olmayan tarafların cesaretini kıracaktır. Buna rağmen iyi performans gösteren güvenilir taraflar ise ödüllendirilecektir."
   },
   "memorandum.43": {
     "en": "<strong>Nominators:</strong> it is anticipated that these participants may not be willing or capable of engaging in the validation of transactions occurring on Polkadot. Instead, these participants may nominate validators to carry out validation work on their behalf and contribute to the security bond of their nominated validators. It is anticipated that a significant number of DOTs in existence at any particular point in time are likely to be bonded to validators for the purpose of being staked to enable the carrying out of the validation activities that form the basis of the consensus mechanism employed in Polkadot. Bonding DOTs to a validator requires nominators to perform due diligence and constant analysis in order to select the validators which are the most likely to behave according to the Polkadot protocol rules. Nominators receive a pro-rata increase or reduction in their DOT holding according to the growth or depletion of the security bond to which their DOTs were contributed.",
-    "tr": "<strong> Aday Göstericiler: </strong>, katılımcıların Polkadot'ta gerçekleşen işlemlerin onaylanmasında istekli olamayacakları tahmin edilmektedir. Bunun yerine, bu katılımcılar doğrulama işlemlerini yürütmek için doğrulayıcıları atayabilirler ve aday gösterdikleri doğrulayıcıların yapıtkları işlemler sayesinde ağın güvenliğine katkıda bulunabilirler. Üretilen önemli miktardaki DOT'un Polkadot’ta kullanılan mutabakat mekanizmasının temelini oluşturan doğrulama faaliyetlerinin gerçekleşmesi sonucunda işlemlerin yapılmasını mümkün kılan doğrulayıcılara aktarılması beklenmektedir. Aday göstericilerin Polkadot protokol kurallarına göre davranan en muhtemel olan doğrulayıcıları seçerken gerekli titizliği sağlamasını ve sürekli analiz yapmasını gerektirir. DOT'larının bağlı olduğu güvenlik bonosunun büyümesine veya azalmasına göre aday göstericiler DOT vey DOT'lar kazanabilir."
+    "tr": "<strong> Nominatörler: </strong>, katılımcıların Polkadot'ta gerçekleşen işlemlerin onaylanmasında istekli olamayacakları tahmin edilmektedir. Bunun yerine, bu katılımcılar doğrulama işlemlerini yürütmek için doğrulayıcıları atayabilirler ve aday gösterdikleri doğrulayıcıların yapıtkları işlemler sayesinde ağın güvenliğine katkıda bulunabilirler. Üretilen önemli miktardaki DOT'un Polkadot’ta kullanılan mutabakat mekanizmasının temelini oluşturan doğrulama faaliyetlerinin gerçekleşmesi sonucunda işlemlerin yapılmasını mümkün kılan validatörlere aktarılması beklenmektedir. Nominatçrlerin, Polkadot protokol kurallarına göre davranan en muhtemel olan doğrulayıcıları seçerken gerekli titizliği sağlamasını ve sürekli analiz yapmasını gerektirir. DOT'larının bağlı olduğu güvenlik bonosunun büyümesine veya azalmasına göre aday göstericiler DOT veya DOT'lar kazanabilir."
   },
   "memorandum.44": {
     "en": "<strong>Fishermen:</strong> it is intended that these participants do not participate in the process of validating transactions in the same way as validators or nominators, but rather they act as a mechanism to deter bad actors by monitoring activity across the Polkadot protocol to determine whether any of the other participants have acted in breach of the rules governing Polkadot. Fisherman will be required to provide significantly fewer DOTs by way of a security bond in order to participate in Polkadot but will receive proportionately larger DOT rewards (in comparison to rewards received by validators and nominators in proportion to the size of their security bond) upon demonstrating proof that a particular breach has occurred.",
-    "tr": "<strong> Balıkçılar: </strong>, bu katılımcıların, işlemlerini doğrulayıcılar veya adaylar ile aynı şekilde doğrulama sürecine katılmaması, aksine kötü oyuncuları caydırıcı bir mekanizma olarak hareket etmeleri amaçlanmaktadır. Polkadot protokolünü ihlal eden diğer katılımcıların herhangi birinin Polkadot'u yöneten kuralları ihlal edip etmediğini belirlemek için etkinliğin izlenmesi, Balıkçı'dan Polkadot’a katılmak için bir güvenlik bonosu yoluyla önemli ölçüde daha az DOT sağlamak zorunda kalacak, ancak orantılı olarak daha büyük DOT (belirli bir ihlalin gerçekleştiğine dair kanıtı göstererek) alacaktır. Balıkçılar, Polkadot’a katılmak için Doğrulayıcılar ve Aday Göstericilere oranla önemli ölçüde daha az DOT vermeleri gerekecektir, ancak belirli bir ihlalin meydana geldiğinin kanıtını sunduklarında aldıkları DOT ödülü Doğrulayıcılar ve Aday Göstericiler'in kazandıkları ödüle göre çok daha büyük olabilir."
+    "tr": "<strong> Fisherman: </strong>, bu katılımcıların, işlemlerini validatörler veya nominatörler ile aynı şekilde doğrulama sürecine katılmaması, aksine kötü oyuncuları caydırıcı bir mekanizma olarak hareket etmeleri amaçlanmaktadır. Polkadot protokolünü ihlal eden diğer katılımcıların herhangi birinin Polkadot'u yöneten kuralları ihlal edip etmediğini belirlemek için etkinliğin izlenmesi, Fisherman'den Polkadot’a katılmak için bir güvenlik bonosu yoluyla önemli ölçüde daha az DOT sağlamak zorunda kalacak, ancak orantılı olarak daha büyük DOT (belirli bir ihlalin gerçekleştiğine dair kanıtı göstererek) alacaktır. Fisherman rolündekilerin, Polkadot’a katılmak için validatörler ve nominatörlere oranla önemli ölçüde daha az DOT vermeleri gerekecektir, ancak belirli bir ihlalin meydana geldiğinin kanıtını sunduklarında aldıkları DOT ödülü validatörler ve nominatörlerin kazandıkları ödüle göre çok daha büyük olabilir."
   },
   "memorandum.45": {
     "en": "Reallocation and deletion of DOTs",
-    "tr": "Reallocation and deletion of DOTs"
+    "tr": "DOT'ların yeniden tahsis edilmesi ve silinmesi"
   },
   "memorandum.46": {
     "en": "Certain active participant behaviour may result in a punitive reduction of that participant’s security bond (through deletion or reallocation) or a reduction in the amount of their DOT reward. The extent of the punishment will depend on the misbehaviour in question and will be pre-determined by the protocol.",
@@ -2627,11 +2627,11 @@
   },
   "memorandum.47": {
     "en": "Allocation of DOTs",
-    "tr": "DOT'ların Tahsisi"
+    "tr": "DOT'ların tahsisi"
   },
   "memorandum.48": {
     "en": "The Foundation intends to create 10 million DOTs as part of the Polkadot genesis block. Of those 10 million DOTs, it is intended that 5 million DOTs will be made available for sale through private sale agreements and a first general sale or otherwise distributed as determined by the Foundation at its sole discretion. Participants in the private sale will receive a minimum 15% discount on the final price per DOT in the first general sale. Participants participating within the first hour following commencement of the first general sale will receive a 15% discount on the final price per DOT in the first general sale. Participants participating in the first 24 hours following commencement of the first general sale (other than those participating in the first hour) may receive up to a maximum 15% discount on the final price per DOT in the first general sale, which will be awarded at the sole discretion of the Foundation and calculated pursuant to the DOT Sale smart contract protocol.",
-    "tr": "Vakıf, Polkadot üretim bloğunun bir parçası olarak 10 milyon DOT yaratmayı hedefliyor. Bu 10 milyon DOT'dan 5 milyon DOT'un özel satış anlaşmaları ve ilk genel satış yoluyla satışa sunulması planlanıyor. Özel satışa katılanlar, ilk genel satışta DOT başına nihai fiyattan en az% 15 indirim alacaklardır. İlk genel satışın başlamasından sonraki ilk bir saat içinde katılan katılımcılar, ilk genel satışta DOT başına nihai fiyatta% 15 indirim alacaklardır. İlk genel satışın başlamasından sonraki ilk 24 saate katılan katılımcılar (ilk saate katılanlar dışında) ilk genel satışta DOT başına nihai fiyatta% 15'e varan indirim alabilirler. Vakfın takdir yetkisi ve DOT satışı, akıllı sözleşme protokolüne uygun olarak hesaplanmıştır."
+    "tr": "Vakıf, Polkadot üretim bloğunun bir parçası olarak 10 milyon DOT yaratmayı hedeflemektedir. Bu 10 milyon DOT'dan 5 milyon DOT'un özel satış anlaşmaları ve ilk genel satış yoluyla satışa sunulması planlanlanmaktadır. Özel satışa katılanlar, ilk genel satışta DOT başına nihai fiyattan en az% 15 indirim alacaklardır. İlk genel satışın başlamasından sonraki ilk bir saat içinde katılan katılımcılar, ilk genel satışta DOT başına nihai fiyatta% 15 indirim alacaklardır. İlk genel satışın başlamasından sonraki ilk 24 saate katılan katılımcılar (ilk saate katılanlar dışında) ilk genel satışta DOT başına nihai fiyatta% 15'e varan indirim alabilirler. Vakfın takdir yetkisi ve DOT satışı, akıllı sözleşme protokolüne uygun olarak hesaplanmıştır."
   },
   "memorandum.49": {
     "en": "For the avoidance of doubt, this means that (i) there is no guarantee that there will be any discount offered after the expiry of the first hour following commencement of the DOT Sale; and (ii) to the extent that any discount is offered after the expiry of the first hour following commencement of the DOT Sale, the period during which such discount is offered may be significantly shorter than 24 hours following the commencement of the DOT Sale and/or the level of discount offered may be significantly lower than 15% on the final price per DOT in the DOT Sale.",
@@ -2803,11 +2803,11 @@
   },
   "memorandum.91": {
     "en": "‘Bad actors’ may lose some or all of their DOTs",
-    "tr": "Kötü katılımcılar belirli bir miktar yada tüm DOT'larını kaybedebilir"
+    "tr": "'Kötü katılımcılar' belirli bir miktar yada tüm DOT'larını kaybedebilir"
   },
   "memorandum.92": {
     "en": "It is envisaged that holders of DOTs who are deemed to be ‘bad actors’ under the governance framework of Polkadot may lose some or all of their DOTs.",
-    "tr": "Polkadot'un yönetişim çerçevesinde “kötü katılımcı” olarak adlandırılan DOT sahiplerinin DOT'larının bir kısmını veya tamamını kaybedebileceği öngörülmektedir."
+    "tr": "Polkadot'un yönetişimi çerçevesinde “kötü katılımcı” olarak adlandırılan DOT sahiplerinin DOT'larının bir kısmını veya tamamını kaybedebileceği öngörülmektedir."
   },
   "memorandum.93": {
     "en": "Nature of the legal relationship between holders of DOTs is uncertain",
@@ -2827,7 +2827,7 @@
   },
   "memorandum.97": {
     "en": "Regulatory treatment of DOTs is uncertain",
-    "tr": "DOT'ların regülatörlerce muamelesi belirsizdir"
+    "tr": "regülatörlerin DOT'lara muamelesi net değildir"
   },
   "memorandum.98": {
     "en": "As the sale of tokens is a nascent practice, the treatment of DOTs by regulatory and governmental authorities is uncertain and may vary across jurisdictions. The legal and regulatory treatment of DOTs may be prone to change in the future, which may have a materially adverse impact on the legal status of DOTs, the economic value (if any) of DOTs and the liquidity of DOTs, as well as the development, function or governance of Polkadot and / or the Foundation itself.",
@@ -2835,7 +2835,7 @@
   },
   "memorandum.99": {
     "en": "There may not be a secondary market for DOTs",
-    "tr": "DOT'lar için ikinci bir pazar olmuşmayabilir"
+    "tr": "DOT'lar için ikinci bir pazar oluşmayabilir"
   },
   "memorandum.100": {
     "en": "As it is intended that the majority of DOTs created will be illiquid, and as the Foundation does not intend to provide, develop or support any infrastructure to allow for the trading of DOTs, the nature and extent of any secondary market for DOTs cannot be predicted. As a consequence, any person intending to participate in the first general sale should consider lack of liquidity in DOTs as a risk.",
@@ -2863,7 +2863,7 @@
   },
   "memorandum.106": {
     "en": "Viruses and other malicious code",
-    "tr": "Virüsler ve diğer kötücül kodlar"
+    "tr": "Virüsler ve diğer kötücül/zararlı kodlar"
   },
   "memorandum.107": {
     "en": "The Foundation may not be able to ensure that material made available to participants by the Foundation or any third party in relation to Polkadot will be free from viruses or any other code that has contaminating properties or is otherwise destructive in its effect.",
@@ -2871,7 +2871,7 @@
   },
   "memorandum.108": {
     "en": "Mining attacks",
-    "tr": "Madencilik saldırıları"
+    "tr": "Madencilik atakları"
   },
   "memorandum.109": {
     "en": "The blockchain on which the funds sent to the Foundation pursuant to the DOT Sale and the cryptographic wallet in which funds are stored may be subject to successful attacks, including but not limited to double-spend attacks, majority mining power attacks, \"selfish-mining\" attacks, and race condition attacks.",
@@ -2959,7 +2959,7 @@
   },
   "memorandum.130": {
     "en": "The Foundation intends to use a substantial amount of all of the proceeds of the DOT Sale to finance the development of Web 3.0 Technologies, including Polkadot.",
-    "tr": "Vakıf, Polkadot da dahil olmak üzere Web 3.0 Teknolojilerinin gelişimini finanse etmek için DOT Satışının tüm gelirlerinin önemli bir kısmını kullanmayı amaçlamaktadır."
+    "tr": "Vakıf, Polkadot da dahil olmak üzere Web 3.0 Technologies gelişimini finanse etmek için DOT Satışının tüm gelirlerinin önemli bir kısmını kullanmayı amaçlamaktadır."
   },
   "memorandum.131": {
     "en": "To this end, the Foundation intends to work closely with third parties. The Foundation intends to enter into a software development agreement with Parity Technologies Limited (Parity Technologies) under which Parity Technologies will conduct research and develop the Polkadot protocol and, following a deployment of the Polkadot genesis block.",
@@ -2979,7 +2979,7 @@
   },
   "privacy.2": {
     "en": "Web 3.0 Technologies Stiftung, Reiffergässli 4, 6300 Zug, Switzerland (<strong>we</strong> or <strong>us</strong> or <strong>Web 3.0 Foundation</strong>) is committed to compliance with data protection laws and this policy (the <strong>Privacy Policy</strong>) sets out our personal information gathering and sharing practices for <a href=\"https://polkadot.network/\">https://polkadot.network</a> (the <strong>Website</strong>).",
-    "tr": "Web 3.0 Teknolojileri Stiftung, Reiffergässli 4, 6300 Zug, Switzerland (<strong>biz</strong> veya <strong>kendimiz</strong> veya <strong>Web 3.0 Vakfı</strong>) veri koruma yasalarına uymayı taahhüt eder ve bu politika (<strong>Gizlilik Sözleşmesi</strong>) <a href=\"https://polkadot.network/\">https://polkadot.network</a> (<strong>Web Sitesi</strong> için) kişisel bilgi toplama ve paylaşma uygulamalarımızı belirler."
+    "tr": "Web 3.0 Technologies Foundation, Reiffergässli 4, 6300 Zug, Switzerland (<strong>biz</strong> veya <strong>kendimiz</strong> veya <strong>Web 3.0 Foundation</strong>) veri koruma yasalarına uymayı taahhüt eder ve bu politika (<strong>Gizlilik Sözleşmesi</strong>) <a href=\"https://polkadot.network/\">https://polkadot.network</a> (<strong>Web Sitesi</strong> için) kişisel bilgi toplama ve paylaşma uygulamalarımızı belirler."
   },
   "privacy.3": {
     "en": "This Website contains links to other third party websites. If you follow a link to any of those third party websites (including our blog on <a href=\"https://medium.com\" target=\"_blank\">https://medium.com</a>), please note that they have their own privacy policies and that we do not accept any responsibility or liability for their policies or processing of your personal information.",
@@ -2999,7 +2999,7 @@
   },
   "privacy.7": {
     "en": "Who we may disclose your personal information to",
-    "tr": "Kişisel verilerinizi kimlere ifşa edebiliriz"
+    "tr": "Kişisel verilerinizi kimlerle paylaşabiliriz"
   },
   "privacy.8": {
     "en": "How we protect your personal information",
@@ -3011,11 +3011,11 @@
   },
   "privacy.10": {
     "en": "How long we may store your personal information",
-    "tr": "Kişisel verilerinizi ne kadar süre ile tutmaktayız"
+    "tr": "Kişisel verilerinizi ne kadar süre ile saklamaktayız"
   },
   "privacy.11": {
     "en": "Contacting us & your rights to access and update your personal information",
-    "tr": "İletişim ve kişisel verilerinize erişmek veya güncellemk ile ilgili haklarınız"
+    "tr": "İletişim ve kişisel verilerinize erişmek veya güncellemek ile ilgili haklarınız"
   },
   "privacy.12": {
     "en": "How we use Cookies",
@@ -3043,7 +3043,7 @@
   },
   "privacy.18": {
     "en": "Site and communication usage Details of your visits to the Website and information collected through cookies and other tracking technologies including, but not limited to, your IP address and domain name, your browser version and operating system, traffic data, location data, web logs and other communication data, and the resources that you access",
-    "tr": "Web sitesine yapılan ziyaretlerinizin konum ve iletişim ayrıntıları,IP adresi, etki alanı adı, tarayıcı sürümünüz, işletim sisteminiz, trafik verileri, konum verileri, web günlükleri, çerezler, eriştiğiniz kaynaklar, ve bunlarla sınırlı olmamyan diğer izleme teknolojiileriyle birlikte diğer iletişim verileri"
+    "tr": "Web sitesine yapılan ziyaretlerinizin konum ve iletişim ayrıntıları, IP adresi, etki alanı adı, tarayıcı sürümünüz, işletim sisteminiz, trafik verileri, konum verileri, web günlükleri, çerezler, eriştiğiniz kaynaklar, ve bunlarla sınırlı olmayan diğer izleme teknolojileriyle birlikte diğer iletişim verileri"
   },
   "privacy.19": {
     "en": "Uses made of your personal information and justification of uses",
@@ -3059,15 +3059,15 @@
   },
   "privacy.22": {
     "en": "To ensure our Website functions correctly: to ensure that content from our Website is presented in the most effective manner for you and for your computer.<br>Use justification: contract performance, legitimate interests (to allow us to provide you with the content and services on the Website);",
-    "tr": "Websitemizin doğru çalıştığından emin olmak için: Web Sitemizdeki içeriğin sizin ve bilgisayarınız için en etkili şekilde sunulmasını sağlamak için <br>Kullanım gerekçesi: sözleşme performansı, yasal çıkarlar (Size Web Sitesinde içerik ve hizmetleri sunmamıza izin vermek için);"
+    "tr": "Web Sitemizin doğru çalıştığından emin olmak için: Web Sitemizdeki içeriğin sizin ve bilgisayarınız için en etkili şekilde sunulmasını sağlamak için <br>Kullanım gerekçesi: sözleşme performansı, yasal çıkarlar (Size Web Sitesinde içerik ve hizmetleri sunmamıza izin vermek için);"
   },
   "privacy.23": {
     "en": "Disclosures to third parties and justification of uses",
-    "tr": "Üçüncü şahıslara ifşa ve kullanımların gerekçesi"
+    "tr": "Üçüncü şahıslarla paylaşım ve kullanımların gerekçesi"
   },
   "privacy.24": {
     "en": "To allow us to effectively provide our services to you, we may disclose your information to selected third parties:<br>We may permit selected third parties such as business partners, suppliers, service providers, agents and contractors to use your personal information, for the purposes set out in paragraph 2 above, who will be subject to obligations to process such information in compliance with the same safeguards that we deploy. Use justification: legitimate interests (to enable us to effectively provide our services to you);",
-    "tr": "Hizmetlerimizi size etkili bir şekilde sunmamıza izin vermek için bilgilerinizi seçilen üçüncü taraflara ifşa edebiliriz:<br> İş ortakları, tedarikçiler, hizmet sağlayıcılar, acenteler ve müteahhitler gibi seçilen üçüncü tarafların kişisel bilgilerinizi kullanmasına izin verebiliriz. yukarıda 2. paragrafta belirtilen amaçlar, bu bilgileri dağıttığımız aynı güvencelere uygun olarak işleme koymakla yükümlü olacaklardır. Kullanım gerekçesi: meşru çıkarlar (size hizmetlerimizi etkin bir şekilde sunmamızı sağlamak için);"
+    "tr": "Hizmetlerimizi size etkili bir şekilde sunmamıza izin vermek için bilgilerinizi seçilen üçüncü taraflarla paylaşabiliriz:<br> İş ortakları, tedarikçiler, hizmet sağlayıcılar, acenteler ve müteahhitler gibi seçilen üçüncü tarafların kişisel bilgilerinizi kullanmasına izin verebiliriz. yukarıda 2. paragrafta belirtilen amaçlar, bu bilgileri dağıttığımız aynı güvencelere uygun olarak işleme koymakla yükümlü olacaklardır. Kullanım gerekçesi: meşru çıkarlar (size hizmetlerimizi etkin bir şekilde sunmamızı sağlamak için);"
   },
   "privacy.25": {
     "en": "To carry out legal disputes: we may transfer your personal information to the competent courts and appointed lawyers.<br>Use justification: legitimate interests (to represent, enforce and / or defend our legal interests);",
