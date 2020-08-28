@@ -3087,7 +3087,7 @@
   },
   "privacy.29": {
     "en": "Export outside Switzerland and the EEA",
-    "tr": "EEA ve İsviçre dışına taşınması"
+    "tr": "EEA ve İsviçre dışına ihracatı"
   },
   "privacy.30": {
     "en": "Your personal information may be accessed by staff or suppliers in, transferred to, and/or stored at, a destination outside Switzerland and/or the European Economic Area (EEA) in which data protection laws may not grant an adequate protection of your personal data. If we transfer your personal data to other jurisdictions, we will make sure to protect your personal data by applying an adequate level of protection of your personal data as required under applicable data privacy laws.",
@@ -3099,7 +3099,7 @@
   },
   "privacy.32": {
     "en": "Storage limits",
-    "tr": "Depolama sınırları"
+    "tr": "Depolama limitleri"
   },
   "privacy.33": {
     "en": "We will retain your personal information for as long as is necessary for the processing purpose(s) for which it was collected. We restrict access to your personal information to those persons who need to use it for the relevant purpose(s). Our retention periods are based on business needs and your information that is no longer needed is either irreversibly anonymised (and the anonymised information may be retained) or securely destroyed.",
@@ -3115,7 +3115,7 @@
   },
   "privacy.36": {
     "en": "If you have any questions in relation to our use of your personal information, you should first contact us as per paragraph 7.7 below.",
-    "tr": "Kişisel bilgilerinizi kullanımımızla ilgili herhangi bir sorunuz varsa, önce aşağıdaki 7.7 paragrafı dahilinde bizimle iletişime geçmelisiniz."
+    "tr": "Kişisel bilgilerinizi kullanımımızla ilgili herhangi bir sorunuz olması durumunda, öncelikle aşağıdaki paragraf 7.7 kapsamında bizimle iletişime geçmeniz gerekmektedir."
   },
   "privacy.37": {
     "en": "Under certain conditions, you may have the right to require us to:",
@@ -3167,7 +3167,7 @@
   },
   "privacy.43": {
     "en": "Our Website uses cookies to helps us provide you with a good experience when you browse our Website and also allows us to improve our Website.",
-    "tr": "Web Sitemiz, Web Sitemize göz atarken size iyi bir deneyim sunmamıza yardımcı olmak için çerezleri kullanır ve Web Sitemizi geliştirmemize izin verir."
+    "tr": "Web Sitemiz, ziyaretiniz esnasında size iyi bir deneyim sunmamıza yardımcı olmak için çerezleri kullanır ve Web Sitemizi geliştirmemize izin verir."
   },
   "privacy.44": {
     "en": "Changes to our privacy policy",
@@ -3179,7 +3179,7 @@
   },
   "privacy.46": {
     "en": "Web 3.0 Foundation, April 2019",
-    "tr": "Web 3.0 Vakfı, Nisan 2019"
+    "tr": "Web 3.0 Foundation, Nisan 2019"
   },
   "tech.meta.title": {
     "en": "Technology | Polkadot",
@@ -3207,7 +3207,7 @@
     "ja": "最新の変更＆バージョン履歴",
     "ru": "Последние изменения и история версий.",
     "es": "Últimos cambios e historial de versiones.",
-    "tr": "Son değişiklikler ve sürüm geçmişi"
+    "tr": "Son değişiklikler ve sürüm geçmişi."
   },
   "tech.3": {
     "en": "Documentation",
@@ -3215,7 +3215,7 @@
     "ja": "ドキュメンテーション",
     "ru": "Документация",
     "es": "Documentación",
-    "tr": "Dokümentasyon"
+    "tr": "Dokümantasyon"
   },
   "tech.3.text": {
     "en": "Read the documentation.",
@@ -3386,7 +3386,7 @@
     "ja": "リレーチェーン：パラチェーンへの接続と検証",
     "ru": "<strong>Relay chain.</strong> Соединяет и валидирует parachain",
     "es": "<strong>Relay chain:</strong> conecta y valida parachains",
-    "tr": "<strong>Relay(Röle) zincir:</strong> parachain'leri birbirilerine bağlar ve doğrulanmaları sağlar"
+    "tr": "<strong>Relay (Röle) zincir:</strong> parachain'leri birbirlerine bağlar ve doğrulanmaları sağlar"
   },
   "tech.6.2.text": {
     "en": "The relay chain connects the components of the Polkadot network. It provides security to parachains and relays messages between them, as well as bridge chains. The messages can be transactions or any arbitrary data.",
@@ -3394,7 +3394,7 @@
     "ja": "リレーチェーンがPolkadotネットワークを接合します。これは、パラチェーンやリレーチェーン内のメッセージを保護ています。メッセージは、トランザクションまたは任意のデータを扱うこともできます。",
     "ru": "Relay chain - это связующее звено сети Polkadot. Он защищает parachain и передает информацию между ними. Сообщения могут быть транзакциями или любыми произвольными данными.",
     "es": "La relay chain conecta los componentes de la red Polkadot. Proporciona seguridad a las parachains y transmite mensajes entre ellos, así como a las cadenas de puentes. Los mensajes pueden ser transacciones o cualquier dato arbitrario.",
-    "tr": "Relay(Röle) zincirler Polkadot ağı bileşelerini birbirine bağlamaya yarar. Bridge(Köprü) zincirler gibi Parachain'lere güvenlik sağlar ve birbirleri arasında mesaj iletimini sağlar. Bu mesajlar parasal işlemler veya herhangi bir veri olabilir."
+    "tr": "Relay (Röle) zincirler Polkadot ağı bileşenlerini birbirine bağlamaya yarar. Bridge(Köprü) zincirler gibi Parachain'lere güvenlik sağlar ve birbirleri arasında mesaj iletimini sağlar. Bu mesajlar parasal işlemler veya herhangi bir veri olabilir."
   },
   "tech.6.3": {
     "en": "<strong>Bridges chains:</strong> connect Polkadot to external blockchains",
@@ -3402,7 +3402,7 @@
     "ja": "ブリッジ：Polkadotを外部のブロックチェーンに接続する",
     "ru": "<strong>Bridges:</strong> соединяют Polkadot с внешними блокчейнами",
     "es": "<strong>Bridges chains:</strong> conecta Polkadot con blockchains externas",
-    "tr": "<strong>Bridge(Köprü) zincirler:</strong> Polkadot'u dış blokzincirlere bağlar"
+    "tr": "<strong>Bridge (Köprü) zincirler:</strong> Polkadot'u dış blokzincirlere bağlar"
   },
   "tech.6.3.text": {
     "en": "Bridges are special parachains that allow communication to independent blockchains that are not secured by Polkadot's relay chain and instead use their own security, like Bitcoin or Ethereum.",
@@ -3450,7 +3450,7 @@
     "ja": "コレイターはパラチェーンのトランザクションを収集しブロックの中のトランザクションを監視します。そして、ブロックの証明書をバリデーターに送ります。コレイターはフィッシャーマンとしても機能することができます。",
     "ru": "Collator собирают (или сопоставляют) транзакции в parachain, в которых они работают, в блоки и отправляют подтверждение этого блока Validator. Collator могут также действовать в роли Fishermen.",
     "es": "Los collators agrupan (o cotejan) transacciones en la parachain que monitorean en bloques, y envían una prueba de este bloque a los validadores. Los collators también pueden actuar como fishermen.",
-    "tr": "Collator'ler takip ettikleri parachain içerisindeki işlemleri bir araya getirir ve paketler (veya harmanlar), bu işlemin kanıtınıda validator'lere gönderirler. Harmanlayıcılar, fisherman olarakta rol alabilirler."
+    "tr": "Collator'ler takip ettikleri parachain içerisindeki işlemleri bir araya getirir ve paketler (veya harmanlar), bu işlemin kanıtınıda validator'lere gönderirler. Collator'ler, fisherman olarakta rol alabilirler."
   },
   "tech.6.4.3": {
     "en": "<strong>Nominators:</strong> nominate validators",
@@ -3458,7 +3458,7 @@
     "ja": "ノミネーター：バリデータを指名する",
     "ru": "Nominator: голосуют за Validator",
     "es": "<strong>Nominators:</strong> designan validadores",
-    "tr": "<strong>Nominators:</strong> Doğrulayıcı tayin ederler"
+    "tr": "<strong>Nominators:</strong> Validator tayin ederler"
   },
   "tech.6.4.3.text": {
     "en": "Nominators put up stake and select validators to stake on their behalf. When a nominator's chosen validator is rewarded or punished, the nominator receives a corresponding reward or punishment.",
@@ -3466,7 +3466,7 @@
     "ja": "ノミネーターは賭け金を各自で選択し、バリデーターに自己責任で賭けます。ノミネーターが賭けたバリデーターが報酬を受けるか罰せられた場合、ノミネーターも同様の報酬もしくは罰を受けます。",
     "ru": "Nominator стекают токены и выбирают Validator. Когда выбранный validator получает вознаграждение или наказывается, Nominator получает соответствующее вознаграждение или наказание.",
     "es": "Los nominators ponen en juego y seleccionan a los validadores para que participen en su nombre.",
-    "tr": "Atayıcılar hisseleri ile kendilerinin yerine işlem yapacak doğrulayıcıları seçerler. Atayıcıların seçtiği bir doğrulayıcı cezalandırıldığı veya ödüllendirildiği zaman, atayanda aynı doğrultuda ceza veya ödül alır."
+    "tr": "Nominator'ler hisseleri ile kendilerinin yerine işlem yapacak validatorleri seçerler. Nominator'lerin seçtiği bir validator cezalandırıldığı veya ödüllendirildiği zaman, nominator'de aynı doğrultuda ceza veya ödül alır."
   },
   "tech.7.1": {
     "en": "Relay Chain",
@@ -3482,7 +3482,7 @@
     "ja": "パラチェーン",
     "ru": "Parachains",
     "es": "Parachains",
-    "tr": "Parachains"
+    "tr": "Parachain'ler"
   },
   "tech.7.3": {
     "en": "Bridges",
@@ -3490,7 +3490,7 @@
     "ja": "ブリッジ",
     "ru": "Bridges",
     "es": "Bridges",
-    "tr": "Bridges"
+    "tr": "Bridge'ler"
   },
   "tech.7.4": {
     "en": "Validators",
@@ -3498,7 +3498,7 @@
     "ja": "バリデーター",
     "ru": "Validators",
     "es": "Validadores",
-    "tr": "Validators"
+    "tr": "Validator'ler"
   },
   "tech.7.5": {
     "en": "Collators",
@@ -3506,7 +3506,7 @@
     "ja": "コレイター",
     "ru": "Collators",
     "es": "Collators",
-    "tr": "Collators"
+    "tr": "Collator'ler"
   },
   "tech.8": {
     "en": "Built with the best technology",
@@ -3546,7 +3546,7 @@
     "ja": "PolkadotのネットワークはP2Pアプリケーションのための柔軟なクロスプラットフォーム・ネットワーク・フレームワークであるlibp2p、を使用しています。将来の分散型アプリケーションのための標準であることを位置付け、libp2pはPolkadotエコシステムにおけるピア発見と通信を処理します。",
     "ru": "Сеть Polkadot использует libp2p, гибкий кроссплатформенный сетевой фреймворк для одноранговых приложений. Libp2p позиционируется как стандарт для будущих децентрализованных приложений, а также обеспечивает обнаружение пиров и обмен данными в экосистеме Polkadot",
     "es": "La red de Polkadot utiliza libp2p, un marco de trabajo de red multiplataforma flexible para aplicaciones peer-to-peer. Posicionado como el estándar para futuras aplicaciones descentralizadas, libp2p maneja el descubrimiento y la comunicación entre pares en el ecosistema de Polkadot.",
-    "tr": "Polkadot'un ağ yapısı çoklu platformu desteği sunan esnek bir eşler ararası uygulama yapısı olan birlibp2p'yi kullanmaktadır. Gelecekteki dağıtık uygulamarın standardı olacak olan libp2p, Polkadot ekosistemindeki eşlerin keşfi ve haberleşme görevini üstlenmiş durumdadır."
+    "tr": "Polkadot'un ağ yapısı çoklu platformu desteği sunan esnek bir eşler arası uygulama yapısı olan libp2p'yi kullanmaktadır. Gelecekteki dağıtık uygulamaların standardı olacak olan libp2p, Polkadot ekosistemindeki eşlerin keşfi ve haberleşme görevini üstlenmiş durumdadır."
   },
   "tech.8.4": {
     "en": "The Polkadot runtime environment is being coded in Rust, C++, and Golang, making Polkadot accessible to a wide range of developers.",
@@ -3640,7 +3640,7 @@
     "ja": "Proof of WorkとProof of Stakeのシステムにおいて、ネットワークを安全に保つためにリソースの取り合いが行われます。そしてブロックチェーンが大規模なコミュニティに成長するまで簡単に攻撃されるリスクがあります。",
     "ru": "Как в системах Proof-of-Work, так и Proof-of-Stake, блокчейны конкурируют друг с другом за ресурсы, чтобы защитить свои сети, и блокчейны могут быть легко атакованы, пока они не сформируют значительное сообщество для поддержки своей сети",
     "es": "Tanto en los sistemas de prueba de trabajo como en los de prueba de participación, las blockchains compiten entre sí por los recursos para proteger sus redes, y las blockchains son fácilmente atacadas hasta que desarrollan una comunidad significativa para dar soporte a su red.",
-    "tr": "Proof-of-Work ve Proof-of-Stake sistemlerinde tüm blokzincirler, güvenliği sağlamak adına özkaynak için birbirleri ile yarışır, ağlarına destek sağlayacak bir topluluk oluşana kadarda saldırıya maruz kalırlar."
+    "tr": "Proof-of-Work ve Proof-of-Stake sistemlerinde tüm blokzincirler, güvenliği sağlamak adına özkaynak için birbirleri ile yarışır, ağlarına destek sağlayacak bir topluluk oluşana kadar da saldırıya maruz kalırlar."
   },
   "tech.10.2": {
     "en": "Polkadot takes a different approach by letting blockchains pool their security, which means that the blockchains' security is aggregated and applied to all.",
@@ -3656,7 +3656,7 @@
     "ja": "Polkadotへブロックチェーンを接続することによって開発者は最初からブロックチェーンの安全性を保つことができます。",
     "ru": "Подключив блокчейн к Polkadot, разработчики могут защитить свой блокчейн с первого дня.",
     "es": "Al conectarse a Polkadot, los desarrolladores de blockchains pueden proteger su blockchain desde el primer día.",
-    "tr": "Geliştiriciler Polkadot'a bağlanarak blokzincirlerinin güvenlikleğini ilk günden itibaren sağlarlar."
+    "tr": "Geliştiriciler Polkadot'a bağlanarak blokzincirlerinin güvenliklerini ilk günden itibaren sağlarlar."
   },
   "tech.11": {
     "en": "Transparent on-chain governance",
@@ -3664,7 +3664,7 @@
     "ja": "透明なオンチェーンガバナンス",
     "ru": "Ончейн управление",
     "es": "Gobernanza transparente en la cadena",
-    "tr": "Şeffaf zincir üzeri yönetişim"
+    "tr": "Zincirde şeffaf yönetişim"
   },
   "tech.11.1": {
     "en": "Updates to the protocol happen fork-free via transparent on-chain voting, so protocol development never stalls due to the lack of a clear process. The relay chain uses a sophisticated governance mechanism that is designed to establish a transparent, accountable and binding process for resolving disputes and upgrading the network.",
@@ -3712,7 +3712,7 @@
     "ja": "Polkaodtは最も安全で耐性に強いネットワークを築く為に、GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement) コンセンサスを使っています。",
     "ru": "Polkadot использует GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement), безопасный и отказоустойчивый алгоритм консенсуса.",
     "es": "Polkadot utiliza su consenso original GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement) para lograr una red más segura y resistente.",
-    "tr": "Polkadot daha güçlü ve esnek bir ağ için kendi orjinal GRANDPA konsensunu kullanır. GHOST-based Recursive Ancestor Deriving Prefix Agreement)"
+    "tr": "Polkadot daha güçlü ve esnek bir ağ için kendi orjinal GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement) konsensusunu kullanır."
   },
   "tech.12.2": {
     "en": "Under good network conditions, GRANDPA can finalize blocks nearly instantly. Under bad network conditions, like a network partition, GRANDPA can finalize large quantities of blocks (theoretically millions) at once when the partitions resolve.",
@@ -3720,7 +3720,7 @@
     "ja": "優れたネットワーク条件の下では、GRANDPAは、ほぼ瞬時にブロックを確定することができます。ネットワークの分離など悪いネットワーク環境下でも、一度問題が解決すれば一気に大量のブロック（理論的には数百）を確定することができます。",
     "ru": "При хороших условиях сети GRANDPA может финализировать блоки почти мгновенно. При хороших условиях сети, дедушка может завершить блоки почти мгновенно. В плохих сетевых условиях, таких как разделение в сети, GRANDPA может финализировать большое количество блоков (теоретически миллионы).",
     "es": "Bajo buenas condiciones de red, GRANDPA puede finalizar bloques casi instantáneamente. Bajo malas condiciones de red, como una división de red, GRANDPA puede finalizar grandes cantidades de bloques (teóricamente millones) a la vez cuando las divisiones se resuelven.",
-    "tr": "İyi ağ koşulları altında GRANDPA, blokları neredeyse anında tamamlayabilir. Bir ağ bölünmesi gibi kötü ağ koşullarında ise bölümler çözüldüğkten sonra büyük miktarda bloğu tamamlatabilir (teorik olarak milyonlarca)."
+    "tr": "İyi ağ koşulları altında GRANDPA, blokları neredeyse anında tamamlayabilir. Bir ağ bölünmesi gibi kötü ağ koşullarında ise bölümler çözüldükten sonra büyük miktarda bloğu tamamlayabilir (teoride milyonlarca)."
   },
   "tech.12.3": {
     "en": "Learn more about GRANDPA.",
@@ -3800,7 +3800,7 @@
   },
   "tech.13.7.1": {
     "en": "1.0 Release Candidate 1",
-    "tr": "1.0 Release Candidate 1"
+    "tr": "1.0 Sürüm Adayı 1"
   },
   "tech.13.8.1": {
     "en": "1.0 RCL<br>1.0 Final",
@@ -3808,7 +3808,7 @@
   },
   "tech.13.9.1": {
     "en": "Genesis",
-    "tr": "Başlangıç"
+    "tr": "Genesis"
   },
   "tech.14": {
     "en": "What are teams building on Polkadot? Just a few examples:",
@@ -3999,7 +3999,7 @@
     "en": "Unlike previous blockchain implementations that provide a single chain of varying degrees of generality, Polkadot provides a Relay Chain upon which a large number of verifiable data structures may be hosted. We call these data-structures “parallelized” chains or parachains. Polkadot provides a networking and consensus layer that allows blockchain developers to focus on creating a state machine with unique features, such as formal verification or anonymity.",
     "zh-cn": "与之前提供不同通用性的单链区块链实现不同，Polkadot提供一条中继链， 可以托管多种不同的数据结构。我们称这种数据结构并行链或平行链。 Polkadot提供网络和共识层，允许区块链开发者专注于创建特色功能， 比如形式化验证和匿名。",
     "es": "A diferencia de las implementaciones anteriores de blockchains que proporcionan una sola cadena de diferentes grados de generalidad, Polkadot proporciona una Relay chain en la que se puede alojar un gran número de estructuras de datos verificables. A estas estructuras de datos las llamamos cadenas o parachains “paralelizadas“. Polkadot proporciona una capa de red y consenso que permite a los desarrolladores de blockchains centrarse en la creación de una máquina de estado con características únicas, como la verificación formal o el anonimato.",
-    "tr": "Farklı derecelerde genelliğe sahip tek bir zincir sağlayan önceki blok zinciri uygulamalarından farklı olarak Polkadot, üzerine çok sayıda doğrulanabilir veri yapısının barındırılabileceği bir Relay Chain (Röle Zincir) sağlar. Bu zincirlere paralel zincir yada Parachain adı verilir. Polkadot, blockchain geliştiricilerinin resmi doğrulama veya anonimlik gibi benzersiz özelliklere sahip bir durum makinesi oluşturmaya odaklanmalarını sağlayan bir ağ oluşturma ve konsensus katmanı sağlar."
+    "tr": "Farklı derecelerde genelliğe sahip tek bir zincir sağlayan önceki blok zinciri uygulamalarından farklı olarak Polkadot, üzerine çok sayıda doğrulanabilir veri yapısının barındırılabileceği bir Relay Chain (Röle Zincir) sağlar. Bu zincirlere paralel zincir yada Parachain adı verilir. Polkadot, blokzincir geliştiricilerinin resmi doğrulama veya anonimlik gibi benzersiz özelliklere sahip bir durum makinesi oluşturmaya odaklanmalarını sağlayan bir ağ oluşturma ve konsensus katmanı sağlar."
   },
   "faq.7": {
     "en": "Polkadot consists of many parachains with potentially differing characteristics. Transactions can be spread out across the chains, allowing many more transactions to be processed in the same period of time. Polkadot ensures that the security of all blockchains in the network is robust and that any dealings between them are faithfully executed. All parachains share security and state, meaning if one chain has a message reverted, all chains get reverted. It is also possible for independent chains with their own validators to be linked to Polkadot via bridges, thereby foregoing Polkadot’s shared state and security system. These chains can benefit from Polkadot’s interoperability without being hosted on the platform, examples of these would be Bitcoin and Ethereum.",
@@ -4035,7 +4035,7 @@
     "en": "There is no specific limit to the number of chains that can be connected to the Polkadot network, which is scalable by design. Initial predictions suggest the basic Polkadot design will be able to handle at least dozens and perhaps hundreds of parachains. There are also paths to more enhanced models. For example, there is no reason why Polkadot cannot be composed in a recursive fashion, making some of the chains that Polkadot connects be themselves \"mini Polkadots.\" Should this be introduced, it is difficult to imagine an upper limit on the number of chains it could connect and thus the number of transactions it could process.",
     "zh-cn": "Polkadot网络对可接入的链没有一个特别的限制，而是设计为可扩展的。 最初的预测表明，基本的Polkadot设计可以处理至少几十条甚至可能几百条平行链。 其他设计可以支持加强的模型。比如Polkadot可以设计为递归的模式， 把链接到Polkadot上的链变为迷你Polkadot。这种模式一旦引入， 无法想象Polkadot上连接的链的上限，可以处理的交易数也是如此。",
     "es": "No hay un límite específico en el número de cadenas que pueden conectarse a la red Polkadot, que es escalable por diseño. Las predicciones iniciales sugieren que el diseño básico de Polkadot será capaz de manejar al menos docenas y quizás cientos de parachains. También hay rutas para modelos más avanzados. Por ejemplo, no hay razón por la que Polkadot no pueda ser compuesta de forma recursiva, haciendo que algunas de las cadenas que Polkadot conecta sean ellas mismas. Si esto se introdujera, es difícil imaginar un límite máximo en el número de cadenas que podría conectar y, por lo tanto, en el número de transacciones que podría procesar.",
-    "tr": "Tasarımı ölçeklenebilir olduğu için Polkadot ağına bağlanabilecek zincirler için bir üst sınır bulunmamaktadır. İlk tahminler, temel Polkadot tasarımının en az onlarca ve belki de yüzlerce para cezasını idare edebileceğini göstermektedir. Ayrıca daha gelişmiş modellere giden yollar da mevcuttur. Örneğin, Polkadot'un özyinelemeli bir şekilde birleşememesi, Polkadot'un bağlandığı zincirlerden bazılarının \"mini Polkadot\" olmaması için bir neden bulunmamaktadır. Bunun tanıtılması durumunda, sayının üst sınırını hayal etmek zordur, dolayısıyla bağlanabileceği zincirlerin ve yapabileceği işlemlerin sayısınında."
+    "tr": "Tasarımı ölçeklenebilir olduğu için Polkadot ağına bağlanabilecek zincirler için bir üst sınır bulunmamaktadır. İlk tahminler, temel Polkadot tasarımının en az onlarca ve belki de yüzlerce parachain'i idare edebileceğini göstermektedir. Ayrıca daha gelişmiş modellere giden yollar da mevcuttur. Örneğin, Polkadot'un özyinelemeli bir şekilde birleşememesi, Polkadot'un bağlandığı zincirlerden bazılarının \"mini Polkadot\" olmaması için bir neden bulunmamaktadır. Bunun tanıtılması durumunda, sayının üst sınırını hayal etmek zordur, dolayısıyla bağlanabileceği zincirlerin ve yapabileceği işlemlerin sayısınında."
   },
   "faq.13": {
     "en": "Can Polkadot connect any blockchain?",
@@ -4047,7 +4047,7 @@
     "en": "Polkadot can connect any previously existing blockchain if it matches two criteria:",
     "zh-cn": "Polkadot可以连接现存的区块链，只要满足以下两个条件",
     "es": "Polkadot puede conectar cualquier blockchain previamente existente si cumple dos criterios:",
-    "tr": "Polkadot iki şartı sağlaması durumundadaha önceden var olan herhangi bir blokzicire bağlanabilir."
+    "tr": "Polkadot iki şartı sağlaması durumunda daha önceden var olan herhangi bir blokzicire bağlanabilir."
   },
   "faq.15": {
     "en": "It must have the ability to form compact and fast light-client proofs over the finality and validity of its blocks and state change information (this would include new UTXOs in a Bitcoin-like chain or logs in an Ethereum-like chain).",
@@ -4089,7 +4089,7 @@
     "en": "What is the difference between a Parachain and a blockchain connected via a Bridge?",
     "zh-cn": "平行链和通过桥连接的区块链有什么区别？",
     "es": "¿Cuál es la diferencia entre una Parachain y una blockchain conectada a través de un Bridge?",
-    "tr": "Parachain ve Köprü ile bağlanmış blokzincir arasındaki fark nedir?"
+    "tr": "Parachain ve Bridge ile bağlanmış blokzincir arasındaki fark nedir?"
   },
   "faq.22": {
     "en": "Parachains are the name given to the parallelized chains that participate in the Polkadot network. Polkadot’s natively supported blockchains achieve consensus using the greater network’s consensus mechanism, both adding to and benefiting from pooled security.",
@@ -4117,19 +4117,19 @@
   "faq.26": {
     "en": "<strong>Validators:</strong> These participants will play a crucial role in adding new blocks to the Relay Chain and, by extension to all parachains, such that parties can complete cross-chain transactions via the Relay Chain. Validators perform two functions. First, verifying the information contained in an assigned set of parachain blocks is valid (such as the identities of the transacting parties and the subject matter of the contract). Their second role is to participate in the consensus mechanism to produce the Relay Chain blocks based on validity statements from other validators. Any instances of non-compliance with the consensus algorithms result in punishment by removal of some or all of the validator’s staked DOTs, thereby discouraging bad actors. Good performance, however, will be rewarded, with validators receiving transaction fees in the form of DOTs in exchange for their activities.",
     "zh-cn": "验证人: 这些参与者将扮演一个至关重要的角色，他们在中继链上加入新的区块， 并通过延长所有的平行链，这样各方可以通过中继链完成跨连交易。验证者执行两个功能。 第一，验证包含在一组指定的平行链区块中的信息是合法的（比如交易各方的身份和合约的主题）。 第二个角色是参与共识机制，基于其他验证者的合法性的判断，来生产中继链上合法的区块。 发生任何不合共识算法的事件，验证人都会收到剥夺部分或者全部质押的DOTs的惩罚， 以此防止恶意验证人。验证人正确履行支持将得到奖励，验证人通过工作来交换以DOTs为形式的交易费。",
-    "tr": "<strong>Validators:</strong> Bu katılımcılar Relay Chain(Aktarım Zinciri)'e yeni blokların eklenmesinde çok önemli bir rol alırlar; tüm parachain'lerin bir uzantısı olarak Relay Chain(Aktarım Zinciri) ile zincirler arası işlemler gerçekleştirilmesini sağlarlar. Öncelikli görevleri atanmış olan parachain bloğunun içerisindeki bilgieri doğrulamaktır(Kimlikler, işlemin tarafları, sözleşmenin konusu gibi). İkinci görevleri ise diğer validator'lerin beyanlarına dayanarak Relay Chain(Aktarım Zinciri) blokları oluşturmak için konsensu mekanizmasına katkıda bulunmaktır."
+    "tr": "<strong>Validator'ler:</strong> Bu katılımcılar Relay Chain(Aktarım Zinciri)'e yeni blokların eklenmesinde çok önemli bir rol alırlar; tüm parachain'lerin bir uzantısı olarak Relay Chain(Aktarım Zinciri) ile zincirler arası işlemler gerçekleştirilmesini sağlarlar. Öncelikli görevleri atanmış olan parachain bloğunun içerisindeki bilgileri doğrulamaktır (Kimlikler, işlemin tarafları, sözleşmenin konusu gibi). İkinci görevleri ise diğer validator'lerin beyanlarına dayanarak Relay Chain(Aktarım Zinciri) blokları oluşturmak için konsensus mekanizmasına katkıda bulunmaktır."
   },
   "faq.27": {
     "en": "<strong>Nominators:</strong> these participants may nominate validators to carry out validation work on their behalf by contributing to the security bond of their nominated validators. It is anticipated that a significant portion of DOTs in existence at any particular point in time are likely to be bonded to validators for the purpose staking. Bonding DOTs to a validator requires nominators to perform due diligence and constant analysis in order to select the validators which are the most likely to behave according to Polkadot’s rules. Nominators receive a pro-rata increase or reduction in their DOT holding according to the growth or depletion of the security bond to which their DOTs were contributed.",
     "zh-cn": "提名人：这些参与者通过向验证人的保证金做贡献来提名验证人来代 表他们进行验证工作。预计很可能大部分的DOTs将在任何时间都被质 押在验证人那里。把DOTs质押给验证人的保证金需要提名人进行尽职 调查和长期的分析来选择最有可能按Polkadot的规则履行职责的验证人。 根据保证金的增长或消耗，提名人的DOTs也按贡献比例得到增加或减少。",
     "es": "<strong>Nominators:</strong> estos participantes podrán designar validadores para llevar a cabo el trabajo de validación en su nombre contribuyendo a la garantía de seguridad de sus validadores designados. Se prevé que una parte significativa de los DOTs existentes en un momento determinado probablemente estarán vinculados a los validadores con el fin de realizar el replanteo. La vinculación de los DOTs a un validador requiere que los nominadores realicen una investigación diligente y un análisis constante con el fin de seleccionar los validadores que tienen más probabilidades de comportarse de acuerdo con las reglas de Polkadot. Los nominadores reciben un aumento o una reducción prorrateada de su participación en el DOT de acuerdo con el crecimiento o el agotamiento de la participación que contribuyeron sus DOTs.",
-    "tr": "<strong>Nominators:</strong> Bu katılımcılar validator'ler ile aralarındaki güvenlik sözleşmesi dahilinde, validator'leri doğrulama işlemi yapmaları için aday olarak gösterebilirler. Zamanda herhangi bir t anında DOT'ların önemli bir kısmı staking amaçlı olarak validator'lere bağlı bulunur. DOT'ların bağlanacağı validator'lerden Polkadot kurallarına en çok uyanların hangileri olduğunu belirlemek için nominator'lerin özenli ve sürekli şekilde analizini gerektirir. DOT katkısında bulundukları güvenlik bağının büyümesi veya küçülmesine göre DOT'ları orantısal bir şekilde artar veya azalır."
+    "tr": "<strong>Nominator'ler:</strong> Bu katılımcılar validator'ler ile aralarındaki güvenlik sözleşmesi dahilinde, validator'leri doğrulama işlemi yapmaları için aday olarak gösterebilirler. Zamanda herhangi bir t anında DOT'ların önemli bir kısmı staking amaçlı olarak validator'lere bağlı bulunur. DOT'ların bağlanacağı validator'lerden Polkadot kurallarına en çok uyanların hangileri olduğunu belirlemek için nominator'lerin özenli ve sürekli şekilde analizini gerektirir. DOT katkısında bulundukları güvenlik bağının büyümesi veya küçülmesine göre DOT'ları orantısal bir şekilde artar veya azalır."
   },
   "faq.28": {
     "en": "<strong>Collators:</strong> These participants will sit atop parachains and provide proofs to validators based on transactions from parachains. Collators maintain parachains by aggregating parachain transactions into parachain blocks and producing state transition proofs for validators based on those blocks. They also monitor the network and prove bad behaviour to validators. Collators maintain a “full-node” for a particular parachain; meaning they retain all necessary information to be able to author new blocks and execute transactions in much the same way as miners do on current PoW blockchains. Under normal circumstances, they will collate and execute transactions to create an unsealed block and provide it, together with a zero-knowledge proof, to one or more validators responsible for proposing a parachain block.",
     "zh-cn": "校对人：这些参与者在平行链上根据平行链的交易提供证明给验证人。 维持平行链的校对人把平行链的交易集成区块并根据这些区块产生状态转移的证明， 提供给验证人。他们也关注网络情况，向验证人证明恶意行为。 校对人为一个特定的平行链维持一个全节点‘意味着他们保持所有所需信息来创建新 的区块并像现有的工作证明的区块链上的矿工一样执行交易。正常情况下， 他们通过校对执行交易来创建一个未开封的区块，向一个或多个负责提出区块的验证人交付， 并给出一个零知识证。",
     "es": "<strong>Collators:</strong> Estos participantes se sentarán encima de las parachains y proporcionarán pruebas a los validadores basadas en las transacciones de las parachains. Los collators mantienen las parachains agregando las transacciones de parachains en bloques de parachains y produciendo pruebas de transición estatales para los validadores basadas en esos bloques. También monitorean la red y prueban el mal comportamiento de los validadores. Los collators mantienen un “nodo completo“ para una parachain en particular, lo que significa que retienen toda la información necesaria para poder crear nuevos bloques y ejecutar transacciones de forma muy similar a como lo hacen los mineros en las blockchains PoW actuales. En circunstancias normales, cotejarán y ejecutarán transacciones para crear un bloque sin sellar y lo proporcionarán, junto con una prueba de conocimiento cero, a uno o más validadores responsables de proponer un bloque de parachain.",
-    "tr": "<strong>Collators:</strong> Parachain'lerin en üzerinde bulunurlar ve parachain'lerden gelen işlemler için validator kullanıcılara ispat temin ederler. Parachain işlemlerini kümeleyip parachain blokları haline getirerek validator'ler için state transition proof(durum geçiş ispatı) üretirler ve parachain'lerin sürekliliğini sağlarlar. Ayrıca ağı izleyerek validator'lere kötü davranışları da iletirler. Belirli bir parachain için “full-node” sürdürürler; yani gerekli tüm bilgileri saklayarak, günümüz PoW blokzincirlerindeki mining işlemine benzer şekilde yeni blokların yazılmasını ve işlemlerin yapılmasını sağlarlar. Normal şartlarda, işlemleri sıraya koyarak ve çalıştırarak mühürlenmemiş bir blok oluştururlar ve zero-knowledge proof ile birlikte bir veya daha çok parachain bloğu oluşturmaktan sorumlu validator'lere iletirler."
+    "tr": "<strong>Collator'ler:</strong> Parachain'lerin en üzerinde bulunurlar ve parachain'lerden gelen işlemler için validator kullanıcılara ispat temin ederler. Parachain işlemlerini kümeleyip parachain blokları haline getirerek validator'ler için state transition proof(durum geçiş ispatı) üretirler ve parachain'lerin sürekliliğini sağlarlar. Ayrıca ağı izleyerek validator'lere kötü davranışları da iletirler. Belirli bir parachain için “full-node” sürdürürler; yani gerekli tüm bilgileri saklayarak, günümüz PoW blokzincirlerindeki mining işlemine benzer şekilde yeni blokların yazılmasını ve işlemlerin yapılmasını sağlarlar. Normal şartlarda, işlemleri sıraya koyarak ve çalıştırarak mühürlenmemiş bir blok oluştururlar ve zero-knowledge proof ile birlikte bir veya daha çok parachain bloğu oluşturmaktan sorumlu validator'lere iletirler."
   },
   "faq.29": {
     "en": "<strong>Fishermen:</strong> these participants are not engaged in the process of validating transactions in the same way as validators or nominators, but rather they deter bad actors by monitoring activity across the platform to determine whether any other participants have acted in breach of the rules. Fisherman will be required to provide significantly fewer DOTs by way of a security bond but can receive proportionately larger DOT rewards (in comparison to rewards received by validators and nominators) in proportion to the size of their security bond.",
@@ -4195,7 +4195,7 @@
     "en": "Navigate to the <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> and click \"Create Account\". Once you have saved your password, post your public address to our <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot channel</a>.",
     "zh-cn": "前往测试网，点击创建账户。当保存了密码后，把公钥贴到Riot频道。",
     "es": "Navege a <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> y haga click en \"Create Account\". Una vez que haya guardado su contraseña, publique su dirección en nuestro <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">canal de Riot</a>.",
-    "tr": "<a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> adresine gidin ve \"Hesap Oluştur\"a tıklayın. Parolanızı kaydettikten sonra halka açık adresinizi <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot kanalımızda</a> paylaşın."
+    "tr": "<a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">Testnet</a> adresine gidin ve \"Hesap Oluştur\"a tıklayın. Parolanızı kaydettikten sonra halka açık adresinizi <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot kanalımızda</a> paylaşın."
   },
   "faq.40": {
     "en": "Community",
