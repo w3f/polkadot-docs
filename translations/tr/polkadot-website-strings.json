@@ -666,7 +666,7 @@
     "ja": "一般的なチャットは",
     "ru": "Для общего чата",
     "es": "Para el chat general",
-    "tr": "Genl chat"
+    "tr": "Genel chat"
   },
   "about.get_in_touch.general.text": {
     "en": "Join the {{watercooler_link}} or {{telegram_link}}",
@@ -929,7 +929,7 @@
     "ja": "Substrateなら、WebAssembly（Rust、C / C ++、C＃、Go、など）にコンパイルすることができるどの言語でもブロックチェーンロジックを記述することができます。",
     "ru": "С помощью Substrate вы можете написать свою блокчейн-логику на любом языке, который можно скомпилировать в WebAssembly (Rust, C / C ++, C #, Go и т. д.).",
     "es": "Con Substrate puede escribir la lógica de la blockchain en cualquier lenguaje que pueda compilar para WebAssembly (Rust, C/C++, C#, Go, etc)",
-    "tr": "Substrate ile blokzincir mantığınızı WebAssembly (Rust, C / C ++, C #, Go, etc) derleyebilecek herhangi bir dilde yazabilirsiniz."
+    "tr": "Substrate ile blokzincir uygulamanızı WebAssembly (Rust, C / C ++, C #, Go, etc) derleyebilecek herhangi bir dilde yazabilirsiniz."
   },
   "build.section2.heading": {
     "en": "Tools that come with Substrate",
@@ -1009,7 +1009,7 @@
     "ja": "Validatorモニター",
     "ru": "Мониторинг валидатора",
     "es": "Monitor del validador",
-    "tr": "Doğrulayıcı monitörü"
+    "tr": "Validator monitörü"
   },
   "build.section2.5.heading": {
     "en": "Polkabot",
@@ -1089,7 +1089,7 @@
     "zh-cn": "学到更多。",
     "ru": "узнайте больше",
     "es": "conozca más",
-    "tr": "daha fazlasını öğren"
+    "tr": "daha fazla bilgi"
   },
   "community.meta.title": {
     "en": "Community | Polkadot",
@@ -1168,7 +1168,7 @@
     "ja": "質問をする",
     "ru": "Задайте вопросы",
     "es": "Haga sus preguntas",
-    "tr": "Sorular sorun"
+    "tr": "Soru sorun"
   },
   "community.telegram.1": {
     "en": "Telegram",
@@ -1254,7 +1254,7 @@
     "ko": "如果你想测试Polkadot，你需要安装和运行 Parity Polkadot客户端. <br class=\"d-none d-lg-block\">{{polkadot_repo_link}}",
     "ru": "Если вы хотите протестировать Polkadot, вам нужно установить и запустить клиент Parity Polkadot. <br class=\"d-none d-lg-block\">{{polkadot_repo_link}}",
     "es": "Si desea experimentar con Polkadot, deberá instalar y ejecutar el cliente de Parity para Polkadot. <br class=\"d-none d-lg-block\">Obtenga el cliente en {{polkadot_repo_link}}",
-    "tr": "Polkadot ile oynamak istiyorsanız, Parity Polkadot istemcisini çalıştırmanız yeterli. <br class=\"d-none d-lg-block\">İstemciyi buradan {{polkadot_repo_link}} erişebilirsiniz."
+    "tr": "Polkadot ile oynamak istiyorsanız, Parity Polkadot istemcisini çalıştırmanız yeterli. <br class=\"d-none d-lg-block\">İstemciye buradan {{polkadot_repo_link}} erişebilirsiniz."
   },
   "community.section1.1.polkadot_repo_link": {
     "en": "Parity’s Polkadot repo",
@@ -1517,7 +1517,7 @@
     "en": "build on Polkadot",
     "ru": "как использовать Polkadot",
     "es": "Desarrolle en Polkadot",
-    "tr": "Polkadot ile geliştirin"
+    "tr": "Polkadot'ta geliştirin"
   },
   "community.chat.text": {
     "en": "{{join_link}} <span class=\"d-block mt-3 mt-3\">or learn how to {{build_link}}.</span>",
@@ -1623,7 +1623,7 @@
   },
   "disclaimer.6": {
     "en": "Foundation does not provide investment, legal or tax advice through the Website and nothing herein should be construed as being financial, legal, tax or other advice.",
-    "tr": "Vakıf Web Sitesi aracılığıyla yatırım, yasal ya da vergi danışmanlığı sağlamaz ve buradaki hiçbir şey finansal, yasal, vergi ya da başka bir tavsiye olarak yorumlanmamalıdır."
+    "tr": "Foundation Web Sitesi aracılığıyla yatırım, yasal ya da vergi danışmanlığı sağlamaz ve buradaki hiçbir şey finansal, yasal, vergi ya da başka bir tavsiye olarak yorumlanmamalıdır."
   },
   "disclaimer.7": {
     "en": "Your use of the Website is at your own risk. The Website, together with all content, information and materials contained therein, is provided \"as is\" and \"as available\", without any representations or warranties of any kind. Any materials, information or content accessed, downloaded or otherwise obtained through the use of the Website is done at your own risk and Foundation is not responsible for any damage to your computer systems or loss of data that results from the download of such material.",
@@ -1631,11 +1631,11 @@
   },
   "disclaimer.8": {
     "en": "To the fullest extent permitted by law, in no event shall Foundation or our affiliates, or any of our directors, employees, contractors, service providers or agents have any liability whatsoever to any person for any direct or indirect loss, liability, cost, claim, expense or damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or part of the Website, or any links to third party websites.",
-    "tr": "Vakfın izin verdiği ölçüde, hiçbir şekilde Vakıf veya iştiraklerimiz veya yöneticilerimiz, çalışanlarımız, yüklenicilerimiz, hizmet sağlayıcılarımız veya acentelerimizden herhangi birinin doğrudan veya dolaylı olarak zarar görmemesi durumunda hiçbir sorumluluk üstlenmez. Web Sitesinin tamamının veya bir kısmının kullanımından doğacak veya üçüncü tarafların web sitelerine bağlanmasından kaynaklanan veya ihmal dahil olmak üzere herhangi bir şekilde, sözleşmedeki veya sözleşmedeki tüm sorumluluk, maliyet, hak talebi, gider veya zararlar bunalra dahildir."
+    "tr": "Foundation izin verdiği ölçüde, hiçbir şekilde Vakıf veya iştiraklerimiz veya yöneticilerimiz, çalışanlarımız, yüklenicilerimiz, hizmet sağlayıcılarımız veya acentelerimizden herhangi birinin doğrudan veya dolaylı olarak zarar görmemesi durumunda hiçbir sorumluluk üstlenmez. Web Sitesinin tamamının veya bir kısmının kullanımından doğacak veya üçüncü tarafların web sitelerine bağlanmasından kaynaklanan veya ihmal dahil olmak üzere herhangi bir şekilde, sözleşmedeki veya sözleşmedeki tüm sorumluluk, maliyet, hak talebi, gider veya zararlar bunalra dahildir."
   },
   "disclaimer.9": {
     "en": "Foundation shall not be liable to you or anybody else for any damages incurred in connection with any messages sent to Foundation using ordinary E-mail or any other electronic messaging system.",
-    "tr": "Vakıf, normal E-posta veya başka bir elektronik mesajlaşma sistemi kullanarak Vakfa gönderilen herhangi bir mesajla ilgili olarak doğabilecek zararlardan dolayı size veya başka birine karşı sorumlu tutulamaz."
+    "tr": "Foundation, normal E-posta veya başka bir elektronik mesajlaşma sistemi kullanarak Foundation'a gönderilen herhangi bir mesajla ilgili olarak doğabilecek zararlardan dolayı size veya başka birine karşı sorumlu tutulamaz."
   },
   "dot.meta.title": {
     "en": "DOT Token | Polkadot",
@@ -1796,7 +1796,7 @@
   },
   "dot.faq.7.answer.2": {
     "en": "Of the remaining 5 million DOTs in the Polkadot genesis block, it is intended that 2 million DOTs will be sold or otherwise distributed prior to genesis. The remaining 3 million DOTs will be allocated to the Web3 Foundation and retained or distributed at its sole discretion.",
-    "tr": "Geriye kalan 5 milyon DOT için ise 2 milyon adetinin dağıtılacağı ya da satılacağı, geriye kalan 3 milyon DOT'un ise Web3 Vakfı tarafından verilecek karara göre saklanacak ya da dağıtılacak."
+    "tr": "Geriye kalan 5 milyon DOT için ise 2 milyon adetinin dağıtılacağı ya da satılacağı, geriye kalan 3 milyon DOT'un ise Web3 Foundation tarafından verilecek karara göre saklanacak ya da dağıtılacak."
   },
   "dot.faq.8.question": {
     "en": "Are DOTs transferable ERC20 tokens?",
@@ -1954,7 +1954,7 @@
     "ko": "통합된 상태 기계들의 네트워크들",
     "ru": "Создание нового децентрализованного Web 3.0 ",
     "es": "United Networks of State Machines",
-    "tr": "Durum Makinelerinin Birleşmiş Ağı"
+    "tr": "Durum Makineleri Birleşik Ağı"
   },
   "home.2.text": {
     "en": "Polkadot is a platform with low barriers to entry for flexible, autonomous economies acting together within Polkadot’s shared security umbrella. Polkadot is a revolution, not just in blockchain technology but also towards enabling fairer peer-to-peer digital jurisdictions.",
@@ -2150,7 +2150,7 @@
     "ko": "연결",
     "ru": "Связывание ",
     "es": "Vinculación",
-    "tr": "Bağlama"
+    "tr": "Bağlanma"
   },
   "home.4.2.text": {
     "en": "New parachains are added by bonding tokens. Outdated or non-useful parachains are removed by removing bonded tokens. This is a form of proof of stake.",
@@ -2204,14 +2204,14 @@
     "ko": "DOT 토큰에 대해 더 알아보세요",
     "ru": "Узнайте больше о токене DOT Узнать больше",
     "es": "Más información sobre el token DOT",
-    "tr": "DOT tokeni hakkında daha fazlasını öğren"
+    "tr": "DOT tokeni hakkında daha fazla bilgi edinin"
   },
   "home.4.learn_more_link": {
     "en": "Discover DOTs",
     "ja": "詳細はこちら",
     "ru": "Узнать больше",
     "es": "Conozca más",
-    "tr": "Daha Fazla"
+    "tr": "Daha fazla bilgi edinin"
   },
   "home.5": {
     "en": "An open-source protocol built for everyone",
@@ -2233,7 +2233,7 @@
   },
   "home.5.1.web3_link": {
     "en": "Web3 Foundation",
-    "tr": "Web3 Vakfı"
+    "tr": "Web3 Foundation"
   },
   "home.5.2": {
     "en": "Web3 Foundation has commissioned five teams and over 100 developers to build Polkadot, including:",
@@ -2242,7 +2242,7 @@
     "ko": "Web3 재단은 전세계의 5개의 팀, 100명이 넘는 개발자들과 함께 하며 폴카닷을 개발해왔습니다.",
     "ru": "Web3 Foundation заключил контракт с пятью командами и более 100 разработчиками, чтобы создать Polkadot, в том числе:",
     "es": "La Fundación Web3 ha encomendado a cinco equipos y más de 100 desarrolladores la construcción de Polkadot, entre ellos:",
-    "tr": "Web3 Vakfı, Polkadotun oluşturulması için 100'den fazla kullanıcıyı ve 5 takımı görevlendirdi, bu isimler içerisinde:"
+    "tr": "Web3 Foundation, Polkadotun oluşturulması için 100'den fazla kullanıcıyı ve 5 takımı görevlendirdi, bu isimler içerisinde:"
   },
   "home.founded": {
     "en": "Founded by some of the blockchain industry’s foremost builders",
@@ -2382,7 +2382,7 @@
   },
   "jobs.meta.title": {
     "en": "Jobs | Polkadot",
-    "tr": "İş İmkanları | Polkadot"
+    "tr": "Kariyer | Polkadot"
   },
   "jobs.1": {
     "en": "Build a better web: build on Polkadot",
@@ -2390,7 +2390,7 @@
   },
   "jobs.2": {
     "en": "Join the mission to build a serverless, decentralized web where users are in control of their own identity, money and data.",
-    "tr": "Sunucusunuz, merkeziyetsiz; kullanıcılarının kendi kimliklerini,paralarını ve verilerini kontrol edebildiği web'i oluşturma görevine katıl. "
+    "tr": "Sunucusuz, merkeziyetsiz; kullanıcılarının kendi kimliklerini,paralarını ve verilerini kontrol edebildiği web'i oluşturma görevine katıl. "
   },
   "jobs.3": {
     "en": "Polkadot is being built by many teams, businesses and stakeholders. Polkadot is an open-source project and the community is inclusive. You - and everyone - are invited to contribute!",
@@ -2410,7 +2410,7 @@
   },
   "jobs.5.codebase_link": {
     "en": "contribute to the codebase",
-    "tr": "codebase'ye katkı sağla"
+    "tr": "codebase'te katkıda bulun"
   },
   "mediakit.meta.title": {
     "en": "Media kit | Polkadot",
@@ -2447,7 +2447,7 @@
   },
   "memorandum.2": {
     "en": "Web 3.0 technologies foundation.",
-    "tr": "Web 3.0 Teknolojileri Vakfı"
+    "tr": "Web 3.0 Technologies Foundation"
   },
   "memorandum.3": {
     "en": "This DOT Sale Information Memorandum provides further information on the status and characteristics of DOTs, the functions attaching to them, their intended use within Polkadot. In particular, please see the section entitled ‘RISK FACTORS’ for more information on the risks associated with participating in the first general sale of DOTs (the DOT Sale). This DOT Sale Information Memorandum should be read in conjunction with the information set out on the Foundation’s website (www.polkadot.network), as well as the Terms and Conditions for the DOT Sale (the Terms and Conditions).",
@@ -2471,11 +2471,11 @@
   },
   "memorandum.8": {
     "en": "Foundation overview",
-    "tr": "Vakıf Hakkında"
+    "tr": "Foundation Hakkında"
   },
   "memorandum.9": {
     "en": "Foundation council members",
-    "tr": "Varlık kurul üyeleri"
+    "tr": "Foundation kurul üyeleri"
   },
   "memorandum.10": {
     "en": "Polkadot overview",
@@ -2495,15 +2495,15 @@
   },
   "memorandum.14": {
     "en": "Foundation overview",
-    "tr": "Vakıf genel bakış"
+    "tr": "Foundation'a genel bakış"
   },
   "memorandum.15": {
     "en": "The Web 3.0 Technologies Foundation (the Foundation) is a Swiss Stiftung established under Article 80 et seqq. Swiss Civil Code founded by Dr. Gavin Wood and is predominantly focused on the development, deployment and maintenance of “Web 3.0” – a project aiming to promote the development of innovative technologies and applications in the field of cryptographically-enabled decentralised software protocols.",
-    "tr": "Web 3.0 Teknolojileri Vakfı (Vakıf) İsviçre medeni hukuk madde 80 altında Dr. Gavin Wood tarafından kurulmuş bir Swiss Stiftung'dur. Hedeflenen amaçlar: Web 3.0'ın gelişimi, başlatımı ve sürdürülmesidir, aynı zamanda kriptografik- merkeziyetsiz yazılım protokolleri ve inovatif teknolojilerin geliştirilmesini hedeflemektedir."
+    "tr": "Web 3.0 Technologies Foundation İsviçre medeni hukuk madde 80 altında Dr. Gavin Wood tarafından kurulmuş bir Swiss Stiftung'dur. Hedeflenen amaçlar: Web 3.0'ın gelişimi, başlatımı ve sürdürülmesidir, aynı zamanda kriptografik- merkeziyetsiz yazılım protokolleri ve inovatif teknolojilerin geliştirilmesini hedeflemektedir."
   },
   "memorandum.16": {
     "en": "The Foundation’s statutory purpose is nurturing and stewarding cutting-edge technologies and applications in the field of cryptographically-powered decentralized software protocols. The Foundation’s principal focus is research, development, deployment and maintenance of Web 3.0 technologies, comprising the \"Polkadot\" multichain protocol, the “Webchain” smart-contract platform and the \"Shh\" messaging protocols and their various support technologies, in addition to advocacy and education, developer-adoption, support of middleware and base-layer/demonstration applications relating to this protocol set (Web 3.0 Technologies). The founder, Dr. Gavin Wood, has reserved his right to change the statutory purpose of the Foundation in accordance with Article 86a of the Swiss Civil Code.",
-    "tr": "Vakfın belirlenen amacı kriptografik merkeziyetsiz protokoller alanındaki önde gelen  teknolojilerin ve uygulamaların geliştirilmesi ve sürdürülmesidir. Vakfın asıl odağı Web 3.0 teknolojinilerinin araştırma,geliştirme, üretme ve sürdürülmesi; \"Polkadot\" çoklu-zincir protokolünün içerildiği, “Webchain“ akıllı kontrat platformu ve \"Shh\" mesajlaşma protokolü ve çeşitli teknolojileri, eğitime ve desteklere ek olarak; geliştirici-adaptasyonu, özel yazılım desteği ve temel zemin / gösterim uygulamaları. Kurucu Dr. Gavin Wood, İsviçre medenin hukuku madde 86.a gereğince vakfın asıl amaçları değiştirme hakkını saklı tutar.  "
+    "tr": "Foundation'ın belirlenen amacı kriptografik merkeziyetsiz protokoller alanındaki önde gelen  teknolojilerin ve uygulamaların geliştirilmesi ve sürdürülmesidir. Foundation'ın asıl odağı Web 3.0 teknolojinilerinin araştırma,geliştirme, üretme ve sürdürülmesi; \"Polkadot\" çoklu-zincir protokolünün içerildiği, “Webchain“ akıllı kontrat platformu ve \"Shh\" mesajlaşma protokolü ve çeşitli teknolojileri, eğitime ve desteklere ek olarak; geliştirici-adaptasyonu, özel yazılım desteği ve temel zemin / gösterim uygulamaları. Kurucu Dr. Gavin Wood, İsviçre medenin hukuku madde 86.a gereğince vakfın asıl amaçları değiştirme hakkını saklı tutar.  "
   },
   "memorandum.17": {
     "en": "Swiss foundations are subject to a mandatory supervision by a federal or cantonal authority. The Foundation’s application for approval by Eidgenössische Stiftungsaufsicht (Federal Foundation Supervisory Authority) has been submitted and is currently pending.",
@@ -2515,15 +2515,15 @@
   },
   "memorandum.19": {
     "en": "Foundation council members",
-    "tr": "Vakıf kurul üyeleri"
+    "tr": "Foundation kurul üyeleri"
   },
   "memorandum.20": {
     "en": "The Foundation Council is the governing body responsible for the management of the Foundation. The current members of the Foundation Council are Dr. Gavin Wood (President and Founder), Dr. Aeron Buchanan (Vice President), Peter Czaban, Mathias Bucher and Reto Trinkler.",
-    "tr": "Vakıf kurulu, vakfın yönetim işleri ile ilgilenen organdır. Şuanda Vakfın meclis üyeleri Dr. Gavin Wood (Kurucu ve Başkan), Dr. Aeron Buchanan (Başkan Yardımcısı), Peter Czaban, Mathias Bucher ve Reto Trinkler'dir."
+    "tr": "Foundation'ın kurulu, vakfın yönetim işleri ile ilgilenen organdır. Şu anda Foundation meclis üyeleri Dr. Gavin Wood (Kurucu ve Başkan), Dr. Aeron Buchanan (Başkan Yardımcısı), Peter Czaban, Mathias Bucher ve Reto Trinkler'dir."
   },
   "memorandum.21": {
     "en": "Polkadot overview",
-    "tr": "Polkadot genel bakış"
+    "tr": "Polkadot'a genel bakış"
   },
   "memorandum.22": {
     "en": "The Polkadot protocol is intended to be a scalable heterogeneous multi-chain technology (Polkadot). Unlike previous blockchain implementations that have focused on providing a single chain of varying degrees of generality over potential applications, Polkadot itself will not provide any inherent application functionality at all. Rather, Polkadot will provide the bedrock relay-chain upon which a large number of validatable, globally-coherent dynamic data-structures may be hosted. We call these data-structures “parallelized” chains or parachains, though there is no specific need for them to be blockchain in nature.",
@@ -2535,7 +2535,7 @@
   },
   "memorandum.24": {
     "en": "These points are why the Foundation considers Polkadot to be “scalable” in its design. In principle, a problem to be deployed on Polkadot may be substantially parallelized - scaled out - over a large number of parachains. Since all aspects of each parachain may be conducted in parallel by a different segment of the network, the system has some ability to scale.",
-    "tr": "Bu unsurlar sayesinde Vakıf, Polkadot'un tasarım itibari ile “ölçeklenebilir“ olduğunu düşünmektedir. Prensipte, Polkadot üzerinde oluşacak bir problem çok sayıda yan zincire yayılabilir - ölçeklenebilir -. Yan zincirler her açıdan farklı seviyelerde kopyalanabileceği için sistemin ölçeklenebilir olduğu söylenebilir."
+    "tr": "Bu unsurlar sayesinde Foundation, Polkadot'un tasarım itibari ile “ölçeklenebilir“ olduğunu düşünmektedir. Prensipte, Polkadot üzerinde oluşacak bir problem çok sayıda yan zincire yayılabilir - ölçeklenebilir -. Yan zincirler her açıdan farklı seviyelerde kopyalanabileceği için sistemin ölçeklenebilir olduğu söylenebilir."
   },
   "memorandum.25": {
     "en": "Polkadot is intended to provide a bare-bones piece of infrastructure leaving much of the complexity to be addressed at the middleware level. This is a conscious decision intended to reduce development risk, enabling the requisite software to be developed within a short time span and with a good level of confidence over its security and robustness.",
@@ -2647,7 +2647,7 @@
   },
   "memorandum.52": {
     "en": "The initial development cycle for Polkadot is expected to be at least two years following the completion of the first general sale. This estimated time period anticipates a research phase culminating in a set of technology proofs-of-concept, a series of prototypes with an eventual formal protocol specification, the deployment of a testnet, a fully refined implementation, an external auditing process and a bounty programme. To the extent that these phases are successful in developing Polkadot, the Foundation will proceed to make the Polkadot genesis block available for deployment such that participants in the first general sale can access DOTs allocated to them.",
-    "tr": "Polkadot için geliştirme döngüsünün başlangıcının ilk genel satışın tamamlanmasından sonra en az iki yıl olması bekleniyor. Bu tahmini süre, bir dizi teknoloji kanıtı, nihai bir resmi protokol şartnamesine sahip bir dizi prototip, bir testnet'in dağıtılması, tamamen rafine bir uygulama, bir dış denetim süreci ve bir ödül programı ile sonuçlanan bir araştırma aşamalarını öngörmektedir. Bu aşamaların Polkadot'u geliştirmede başarılı olması durumunda, Vakıf, Polkadot genesis bloğunu ilk genel satıştaki katılımcıların kendilerine tahsis edilen DOT'lara erişebilmeleri için konuşlandırmaya açık hale getirmeye devam edecektir."
+    "tr": "Polkadot için geliştirme döngüsünün başlangıcının ilk genel satışın tamamlanmasından sonra en az iki yıl olması bekleniyor. Bu tahmini süre, bir dizi teknoloji kanıtı, nihai bir resmi protokol şartnamesine sahip bir dizi prototip, bir testnet'in dağıtılması, tamamen rafine bir uygulama, bir dış denetim süreci ve bir ödül programı ile sonuçlanan bir araştırma aşamalarını öngörmektedir. Bu aşamaların Polkadot'u geliştirmede başarılı olması durumunda, Foundation, Polkadot genesis bloğunu ilk genel satıştaki katılımcıların kendilerine tahsis edilen DOT'lara erişebilmeleri için konuşlandırmaya açık hale getirmeye devam edecektir."
   },
   "memorandum.53": {
     "en": "Access to DOTs once allocated",
@@ -2659,7 +2659,7 @@
   },
   "memorandum.55": {
     "en": "Uncapped supply of DOTs",
-    "tr": "Ucu açık DOT tedariği"
+    "tr": "Açık uçlu DOT tedariği"
   },
   "memorandum.56": {
     "en": "It is intended that the Polkadot genesis block will contain 10 million DOTs. The overall supply of DOTs over time will not be fixed, nor will it be subject to a pre-determined upper limit. DOTs will be subject to an as yet determined inflation model which envisages that the supply of DOTs will increase each year and are likely to be designed to incentivise participants such that a sufficient proportion (yet to be determined, but perhaps as high as 50%) of all DOTs in issue at any point in time will be bonded for the purposes of supporting the proof of stake consensus mechanism that underpins Polkadot.",
@@ -2671,7 +2671,7 @@
   },
   "memorandum.58": {
     "en": "As detailed in this DOT Sale Information Memorandum, it is intended that DOTs perform certain functions within Polkadot, one of which is to act as a value mechanism. However, the Foundation can make no comment at this stage as to the value of any DOTs sold.",
-    "tr": "DOT Satış Bilgi Notunda ayrıntılı olarak belirtildiği gibi, DOT'ların Polkadot içinde bir değer mekanizması olarak işlev görecek bazı işlevleri yerine getirmesi amaçlanmıştır. Ancak, Vakıf bu aşamada satılan hiçbir DOT'un değeri hakkında yorumda bulunamaz."
+    "tr": "DOT Satış Bilgi Notunda ayrıntılı olarak belirtildiği gibi, DOT'ların Polkadot içinde bir değer mekanizması olarak işlev görecek bazı işlevleri yerine getirmesi amaçlanmıştır. Ancak, Foundation bu aşamada satılan hiçbir DOT'un değeri hakkında yorumda bulunamaz."
   },
   "memorandum.59": {
     "en": "Ability to trade DOTs",
@@ -2715,11 +2715,11 @@
   },
   "memorandum.69": {
     "en": "Polkadot is at a very early stage of development. The Foundation may have to make changes to the specifications of Polkadot or DOTs for any number of legitimate reasons or the Foundation may be unable to develop Polkadot in a way that realizes those specifications or any form of a functioning network. To the extent that Polkadot is successfully developed and the Polkadot genesis block is deployed, Polkadot and/or DOTs, may not meet participant expectations at the time of participating in the DOT Sale and may be different from those set out in the White Paper. Furthermore, despite the Foundations efforts to develop and deploy the Polkadot genesis block and subsequently to develop and maintain Polkadot, it is still possible that Polkadot will experience malfunctions or otherwise fail to be adequately developed or maintained, which may negatively impact Polkadot and/or DOTs.",
-    "tr": "Polkadot çok erken bir gelişim aşamasındadır.Vakıf Polkadot'un veya DOT'ların spesifikasyonlarında herhangi bir meşru sebeple değişiklik yapmak zorunda kalabilir veya Vakıf, Polkadot'u bu spesifikasyonları veya işleyen bir ağın herhangi bir formunu gerçekleştirecek şekilde geliştiremez. Polkadot'un başarıyla geliştirildiği ve Polkadot genesis bloğunun konuşlandırıldığı ölçüde, Polkadot ve / veya DOT'lar, DOT Satışı'na katılım sırasında katılımcının beklentilerini karşılayamayabilir ve Whitepaper'da belirtilenlerden farklı olabilir. Ayrıca, Vakıfların Polkadot genesis bloğunu geliştirip konuşlandırmasının ve dağıtmasının ardından Polkadot'u geliştirmek ve sürdürmek için çaba göstermesine rağmen, Polkadot ve / veya DOT'ları olumsuz yönde etkileyebilecek arızalarla karşılaşabilir. Bu arızalar sebebiyle Polkador'un sürdürülememesi olasıdır."
+    "tr": "Polkadot çok erken bir gelişim aşamasındadır. Foundation Polkadot'un veya DOT'ların spesifikasyonlarında herhangi bir meşru sebeple değişiklik yapmak zorunda kalabilir veya Foundation, Polkadot'u bu spesifikasyonları veya işleyen bir ağın herhangi bir formunu gerçekleştirecek şekilde geliştiremez. Polkadot'un başarıyla geliştirildiği ve Polkadot genesis bloğunun konuşlandırıldığı ölçüde, Polkadot ve / veya DOT'lar, DOT Satışı'na katılım sırasında katılımcının beklentilerini karşılayamayabilir ve Whitepaper'da belirtilenlerden farklı olabilir. Ayrıca, Foundation'ın Polkadot genesis bloğunu geliştirip konuşlandırmasının ve dağıtmasının ardından Polkadot'u geliştirmek ve sürdürmek için çaba göstermesine rağmen, Polkadot ve / veya DOT'ları olumsuz yönde etkileyebilecek arızalarla karşılaşabilir. Bu arızalar sebebiyle Polkador'un sürdürülememesi olasıdır."
   },
   "memorandum.70": {
     "en": "The development of Polkadot will require significant capital funding, expertise and the Foundation’s time and effort. Polkadot may fail to attract sufficient interest from key stakeholders or require significantly more funding or time in development than the Foundation currently envisages, which may result in suspension or cancellation of development of Polkadot. If the Foundation is not successful in its efforts to demonstrate to users the utility and value of Polkadot, there may not be sufficient demand for DOTs for the Foundation to proceed with the deployment of the Polkadot genesis block. As a result, or if the deployment of the Polkadot genesis block does not occur, participants may lose all of the funds provided in connection with the DOT Sale.",
-    "tr": "Polkadot'un gelişimi, Vakfın zaman ve çabası yanında önemli miktarda sermaye finansmanı ve uzmanlık gerektirecektir. Polkadot kilit paydaşlarından yeterince ilgi göremekte başarısız olabilir veya öngörülenden çok daha fazla fon veya zaman gerektirebilir. Bu da Polkadot'un geliştirilmesinin askıya alınmasına veya iptal edilmesine neden olabilir. Vakıf, kullanıcılara Polkadot'un yararını ve değerini gösterme çabalarında başarılı olmazsa, DOT'lardan Polkadot genesis bloğunun konuşlandırılmasına devam etmek için yeterli DOT talebi olmayabilir. Sonuç olarak Polkadot genesis bloğunun konuşlandırılması gerçekleşmezse katılımcılar DOT Satışı ile bağlantılı olarak sağlanan tüm fonlarını kaybedebilir."
+    "tr": "Polkadot'un gelişimi, Foundation'ın zaman ve çabası yanında önemli miktarda sermaye finansmanı ve uzmanlık gerektirecektir. Polkadot kilit paydaşlarından yeterince ilgi göremekte başarısız olabilir veya öngörülenden çok daha fazla fon veya zaman gerektirebilir. Bu da Polkadot'un geliştirilmesinin askıya alınmasına veya iptal edilmesine neden olabilir. Foundation, kullanıcılara Polkadot'un yararını ve değerini gösterme çabalarında başarılı olmazsa, DOT'lardan Polkadot genesis bloğunun konuşlandırılmasına devam etmek için yeterli DOT talebi olmayabilir. Sonuç olarak Polkadot genesis bloğunun konuşlandırılması gerçekleşmezse katılımcılar DOT Satışı ile bağlantılı olarak sağlanan tüm fonlarını kaybedebilir."
   },
   "memorandum.71": {
     "en": "Polkadot may not be deployed as intended at all",
@@ -2735,7 +2735,7 @@
   },
   "memorandum.74": {
     "en": "The Foundation may not have or may not be able to obtain the technical skills and expertise needed to successfully develop Polkadot and progress it to deploy the Polkadot Genesis Block. There is a general scarcity of management, technical, scientific, research and marketing personnel with appropriate training to develop and maintain Polkadot.",
-    "tr": "Vakıf Polkadot'u başarılı bir şekilde geliştirmek ve Polkadot Genesis Bloğunu konuşlandırmak ve ilerletmek için gerekli teknik beceri ve uzmanlığı elde edememiş ya da etmemiş olabilir. Polkadot'u geliştirmek ve sürdürmek için uygun eğitime sahip yönetim, teknik, bilimsel, araştırma ve pazarlama personeli konusunda genel bir kıtlık vardır."
+    "tr": "Foundation Polkadot'u başarılı bir şekilde geliştirmek ve Polkadot Genesis Bloğunu konuşlandırmak ve ilerletmek için gerekli teknik beceri ve uzmanlığı elde edememiş ya da etmemiş olabilir. Polkadot'u geliştirmek ve sürdürmek için uygun eğitime sahip yönetim, teknik, bilimsel, araştırma ve pazarlama personeli konusunda genel bir kıtlık vardır."
   },
   "memorandum.75": {
     "en": "Risks associated with the general sale of DOTs",
@@ -2747,7 +2747,7 @@
   },
   "memorandum.77": {
     "en": "Whilst the Foundation intends to hold the DOT Sale as described on the Foundation’s website, there is no guarantee that the first general sale will be completed or go ahead as is currently envisaged by the Foundation. The Foundation may need to suspend or change the structure of the first general sale, including imposing restrictions on certain aspects of the sale, in a short space of time and may not be able to provide advance notice of such changes. In addition, the Foundation expresses no view as to the expected level of interest in participation in the DOT Sale.",
-    "tr": "Vakıf, DOT Satışını Vakfın web sitesinde tanımlandığı şekilde tutmayı amaçlasa da, ilk genel satışın, Vakfın öngördüğü şekilde tamamlanacağına ya da devam edeceğine dair hiçbir garanti yoktur. Vakıf, ilk genel satışı askıya almak veya satışın belirli yönlerine kısıtlama getirmek de dahil olmak üzere değişiklikler yapabilir. Kısa bir zaman diliminde gerçekleşecek bu işlemler için önceden bildirimde bulunmak mümkün olmayabilir. Ayrıca, Vakıf, DOT Satışına beklenen ilgi seviyesine dair hiçbir görüş belirtmemektedir."
+    "tr": "Foundation, DOT Satışını Foundation'ın web sitesinde tanımlandığı şekilde tutmayı amaçlasa da, ilk genel satışın, Foundation'ın öngördüğü şekilde tamamlanacağına ya da devam edeceğine dair hiçbir garanti yoktur. Foundation, ilk genel satışı askıya almak veya satışın belirli yönlerine kısıtlama getirmek de dahil olmak üzere değişiklikler yapabilir. Kısa bir zaman diliminde gerçekleşecek bu işlemler için önceden bildirimde bulunmak mümkün olmayabilir. Ayrıca Foundation DOT Satışına beklenen ilgi seviyesine dair hiçbir görüş belirtmemektedir."
   },
   "memorandum.78": {
     "en": "No guarantee of that participants will benefit from discount to the price per DOT offered in the first hour of the DOT Sale",
@@ -2763,7 +2763,7 @@
   },
   "memorandum.81": {
     "en": "Participants participating in the first 24 hours following commencement of the first general sale (other than those participating in the first hour) may receive up to a maximum 15% discount on the final price per DOT in the first general sale, which will be awarded at the sole discretion of the Foundation and calculated pursuant to the DOT Sale smart contract protocol. For the avoidance of doubt, this means that (i) there is no guarantee that there will be any discount offered after the expiry of the first hour following commencement of the DOT Sale; and (ii) to the extent that any discount is offered after the expiry of the first hour following commencement of the DOT Sale, the period during which such discount is offered may be significantly shorter than 24 hours following the commencement of the DOT Sale and/or the level of discount offered may be significantly lower than 15% on the final price per DOT in the DOT Sale.",
-    "tr": "İlk genel satışın başlamasından sonraki ilk 24 saate katılan katılımcılar (ilk saatin dışında katılımda bulunanların dışındakiler), Vakfın takdir yetkisine göre ödüllendirilecek ve DOT satışı akıllı kontratı ile hesaplanacak ilk genel satışta DOT başına nihai fiyattan maksimum %15 indirim alabilirler. Şüpheleri dağıtmak adına, bu (i) DOT Satışı'nın başlatılmasından sonraki ilk saatin bitiminden sonra herhangi bir indirim yapılmasının garanti edilmeyeceği anlamına gelir; ve (ii) DOT Satışı başladıktan sonraki ilk saatin bitiminden sonra herhangi bir indirim yapılması durumunda, DOT Satışı başladıktan sonraki 24 saatten daha az olabilir. Veya sunulan indirimin seviyesi, DOT Satışı’ndaki DOT başına nihai fiyattan %15 daha düşük olabilir."
+    "tr": "İlk genel satışın başlamasından sonraki ilk 24 saate katılan katılımcılar (ilk saatin dışında katılımda bulunanların dışındakiler), Foundation takdir yetkisine göre ödüllendirilecek ve DOT satışı akıllı kontratı ile hesaplanacak ilk genel satışta DOT başına nihai fiyattan maksimum %15 indirim alabilirler. Şüpheleri dağıtmak adına, bu (i) DOT Satışı'nın başlatılmasından sonraki ilk saatin bitiminden sonra herhangi bir indirim yapılmasının garanti edilmeyeceği anlamına gelir; ve (ii) DOT Satışı başladıktan sonraki ilk saatin bitiminden sonra herhangi bir indirim yapılması durumunda, DOT Satışı başladıktan sonraki 24 saatten daha az olabilir. Veya sunulan indirimin seviyesi, DOT Satışı’ndaki DOT başına nihai fiyattan %15 daha düşük olabilir."
   },
   "memorandum.82": {
     "en": "Participants in the DOT Sale may lose up to the entire value of funds contributed",
@@ -2779,11 +2779,11 @@
   },
   "memorandum.85": {
     "en": "The applicable law relevant to the Foundation and / or DOTs may change",
-    "tr": "Vakıf ve / veya DOT’larla ilgili yürürlükteki kanun değişebilir"
+    "tr": "Foundation ve / veya DOT’larla ilgili yürürlükteki kanun değişebilir"
   },
   "memorandum.86": {
     "en": "The law applicable to the Foundation and / or the DOTs, including the DOT Sale, may change in a manner that means the Foundation is no longer permitted to complete the first general or second sale of DOTs or allocate the DOTs as intended.",
-    "tr": "DOT Satışı da dahil olmak üzere Vakıf ve / veya DOT’lar için geçerli olan kanun, Vakfın artık DOT’ların birinci genel veya ikinci satışını tamamlamasına veya DOT’ları amaçlandığı şekilde tahsis etmesine izin verilmeyeceği şekilde değişebilir."
+    "tr": "DOT Satışı da dahil olmak üzere Foundation ve / veya DOT’lar için geçerli olan kanun, Foundation artık DOT’ların birinci genel veya ikinci satışını tamamlamasına veya DOT’ları amaçlandığı şekilde tahsis etmesine izin verilmeyeceği şekilde değişebilir."
   },
   "memorandum.87": {
     "en": "DOTs may have no economic value and any value may be subject to extreme volatility",
@@ -2791,7 +2791,7 @@
   },
   "memorandum.88": {
     "en": "The Foundation expresses no view as to the economic value of DOTs and it is possible that DOTs will have no economic value at all. Any economic value that DOTs do have, whether such value arises solely in the context of the use of DOTs in Polkadot or otherwise, may be subject to extreme volatility resulting in a total loss of all economic value, which shall be borne solely by holders of DOTs.",
-    "tr": "Vakıf, DOT’ların ekonomik değeri ile ilgili hiçbir görüş belirtmemektedir ve DOT’ların hiçbir ekonomik değeri olmayabilir. DOT'ların sahip olduğu herhangi bir ekonomik değer, bu değerin yalnızca Polkadot'taki DOT'ların kullanımı veya başka bir şekilde kullanılması durumunda, tüm ekonomik değerin tamamen kaybedilmesiyle sonuçlanan aşırı uçuculuğa maruz kalabilir ve yanlızca DOT sahiplerince karşılanır."
+    "tr": "Foundation, DOT’ların ekonomik değeri ile ilgili hiçbir görüş belirtmemektedir ve DOT’ların hiçbir ekonomik değeri olmayabilir. DOT'ların sahip olduğu herhangi bir ekonomik değer, bu değerin yalnızca Polkadot'taki DOT'ların kullanımı veya başka bir şekilde kullanılması durumunda, tüm ekonomik değerin tamamen kaybedilmesiyle sonuçlanan aşırı uçuculuğa maruz kalabilir ve yanlızca DOT sahiplerince karşılanır."
   },
   "memorandum.89": {
     "en": "The inflation model will cause material dilution in the percentage holdings of DOTs for passive participants",
@@ -3151,11 +3151,11 @@
   },
   "privacy.39": {
     "en": "If you are not satisfied with our use of your personal information or our response to any exercise of these rights you have the right to complain to your data protection authority.",
-    "tr": "Kişisel bilgilerinizi kullanımımızdan veya bu hakların herhangi bir şekilde kullanılmasına verdiğimiz yanıttan memnun değilseniz, veri koruma makamınıza şikayette bulunma hakkınız vardır."
+    "tr": "Kişisel bilgilerinizi kullanımımızdan veya bu hakların herhangi bir şekilde kullanılmasına verdiğimiz yanıttan memnun değilseniz, veri koruma makamınıza şikayette bulunma hakkınız bulunmaktadır."
   },
   "privacy.40": {
     "en": "Web 3.0 Foundation is responsible for and is the “data controller” of your personal information processed by us under this Privacy Policy.",
-    "tr": "Web 3.0 Vakfı bu Gizlilik Sözleşmesi kapsamında tarafımızca işlenen verilerinizin “veri kontrolörü”dür ve bu hususta sorumludur."
+    "tr": "Web 3.0 Foundation bu Gizlilik Sözleşmesi kapsamında tarafımızca işlenen verilerinizin “veri kontrolörü”dür ve bu hususta sorumludur."
   },
   "privacy.41": {
     "en": "We can be contacted in relation to your rights, or if you want to update, delete, or change any personal data we hold, or any questions you may have in respect of this Privacy Policy or our processing of your personal information at the following addresses:<br>By email: hello@web3.foundation<br>By mail: Web 3.0 Technologies Stiftung, Reiffergässli 4, 6300 Zug, Switzerland",
@@ -3247,7 +3247,7 @@
     "ja": "いかなるタイプのブロックチェーンにおけるいかなるデータ",
     "ru": "Любой тип данных через любой тип блокчейна",
     "es": "Cualquier tipo de datos a través de cualquier tipo de blockchain",
-    "tr": "Herhangi bir blokzincir için herhangi bir veri tipi"
+    "tr": "Herhangi bir blokzincirde için herhangi bir veri tipi"
   },
   "tech.5.1": {
     "en": "Polkadot is a network protocol that allows arbitrary data—not just tokens—to be transferred across blockchains.",
@@ -3378,7 +3378,7 @@
     "ja": "パラチェーンはPolkadotネットワークを構成する並列化されたチェーンです。各々のパラチェーンはアプリケーションに最適化した独自のアーキテクチャーを持っています。パラチェーンはトランザクションの並列処理を行うことでスケーラビリティをもたらします。パラチェーンはリレーチェーンにつながり安全性を得ることができます。",
     "ru": "Parachains - это параллельные блокчейны («парачейны»), которые составляют сеть Polkadot. Каждый parachain может иметь уникальную архитектуру, которая лучше всего подходит для его применения. Parachain также используются для распараллеливания транзакций и достижения масштабируемости. Parachain связаны и защищены Relay chain.",
     "es": "Las Parachains son los blockchains paralelizables (“para-chains“) que componen la red Polkadot. Cada parachain puede tener una arquitectura única que mejor se adapte a su aplicación. Las parachains también se utilizan para paralelizar transacciones y lograr escalabilidad. Las parachains están conectadas y aseguradas por la relay chain.",
-    "tr": "Parachain'ler Polkadot ağını oluşturan paralelleştirilebilir (“para-chains”) blokzincirlerdir. Her parachain kendine özgü bir yapıya sahiptir ve kendi kullanım amacına hizmet eder. Parachain'ler parasal işemleri paralel hale getirir ve ölçeklenebilirliği sağlar. Röle zincirler tarafından birbirlerine bağlanır ve güvenliği sağlanır."
+    "tr": "Parachain'ler Polkadot ağını oluşturan paralelleştirilebilir (“para-chains”) blokzincirlerdir. Her parachain kendine özgü bir yapıya sahiptir ve kendi kullanım amacına hizmet eder. Parachain'ler finansal işemleri paralel hale getirir ve ölçeklenebilirliği sağlar. Röle zincirler tarafından birbirlerine bağlanır ve güvenliği sağlanır."
   },
   "tech.6.2": {
     "en": "<strong>Relay chain:</strong> connects and validates parachains",
@@ -3394,7 +3394,7 @@
     "ja": "リレーチェーンがPolkadotネットワークを接合します。これは、パラチェーンやリレーチェーン内のメッセージを保護ています。メッセージは、トランザクションまたは任意のデータを扱うこともできます。",
     "ru": "Relay chain - это связующее звено сети Polkadot. Он защищает parachain и передает информацию между ними. Сообщения могут быть транзакциями или любыми произвольными данными.",
     "es": "La relay chain conecta los componentes de la red Polkadot. Proporciona seguridad a las parachains y transmite mensajes entre ellos, así como a las cadenas de puentes. Los mensajes pueden ser transacciones o cualquier dato arbitrario.",
-    "tr": "Relay (Röle) zincirler Polkadot ağı bileşenlerini birbirine bağlamaya yarar. Bridge(Köprü) zincirler gibi Parachain'lere güvenlik sağlar ve birbirleri arasında mesaj iletimini sağlar. Bu mesajlar parasal işlemler veya herhangi bir veri olabilir."
+    "tr": "Relay Chain'ler Polkadot ağı bileşenlerini birbirine bağlamaya yarar. Bridge Chain'ler gibi Parachain'lere güvenlik sağlar ve birbirleri arasında mesaj iletimini sağlar. Bu mesajlar parasal işlemler veya herhangi bir veri olabilir."
   },
   "tech.6.3": {
     "en": "<strong>Bridges chains:</strong> connect Polkadot to external blockchains",
@@ -3402,7 +3402,7 @@
     "ja": "ブリッジ：Polkadotを外部のブロックチェーンに接続する",
     "ru": "<strong>Bridges:</strong> соединяют Polkadot с внешними блокчейнами",
     "es": "<strong>Bridges chains:</strong> conecta Polkadot con blockchains externas",
-    "tr": "<strong>Bridge (Köprü) zincirler:</strong> Polkadot'u dış blokzincirlere bağlar"
+    "tr": "<strong>Bridge chain'ler:</strong> Polkadot'u dış blokzincirlere bağlar"
   },
   "tech.6.3.text": {
     "en": "Bridges are special parachains that allow communication to independent blockchains that are not secured by Polkadot's relay chain and instead use their own security, like Bitcoin or Ethereum.",
@@ -3672,7 +3672,7 @@
     "ja": "プロトコルのアップデートは透明なオンチェーン投票によってチェーンの分岐なしに行うことができます。なので、プロトコルの開発はプロセスが明確でないことによる失速が起こりえません。リレーチェーンは衝突を解決しネットワークをアップデートするために透明性が高く、ルールが守られる洗練されたガバナンスを用いています。",
     "ru": "Обновления протокола происходят без форков посредством прозрачного ончейн голосования, поэтому разработка протокола никогда не останавливается из-за отсутствия четкого плана. Relay chain использует сложный механизм управления, предназначенный для создания прозрачного, подотчетного и обязательного процесса для разрешения споров и модернизации сети.",
     "es": "Las actualizaciones del protocolo se realizan sin bifurcaciones a través de una votación transparente en cadena, por lo que el desarrollo del protocolo nunca se detiene debido a la falta de un proceso claro. La cadena de retransmisión utiliza un sofisticado mecanismo de gobernanza diseñado para establecer un proceso transparente, responsable y vinculante para resolver disputas y mejorar la red.",
-    "tr": "Protokoldeki güncellemeler fork gerektirmeden zincir üzerindeki şeffaf oylama yöntemi ile gerçekleşir, böylece protokol geliştirmeleri nihai takas gerçekleşmemesi sebebiyle aksamaz. İtirazların çözüme ulaşması ve ağın yükseltilmesi için Röle Zincirler (Relay Chain) şeffaf, güvenilir ve bağlayıcı şekilde dizayn edilmiş sofistike bir yönetişim mekanizması kullanır."
+    "tr": "Protokoldeki güncellemeler fork gerektirmeden zincir üzerindeki şeffaf oylama yöntemi ile gerçekleşir, böylece protokol geliştirmeleri nihai takas gerçekleşmemesi sebebiyle aksamaz. İtirazların çözüme ulaşması ve ağın yükseltilmesi için Relay Chain'ler şeffaf, güvenilir ve bağlayıcı şekilde dizayn edilmiş sofistike bir yönetişim mekanizması kullanır."
   },
   "tech.11.2": {
     "en": "DOT tokens are used to participate in governance decisions, including tabling proposals, voting, and bonding.",
@@ -4053,7 +4053,7 @@
     "en": "It must have the ability to form compact and fast light-client proofs over the finality and validity of its blocks and state change information (this would include new UTXOs in a Bitcoin-like chain or logs in an Ethereum-like chain).",
     "zh-cn": "必须能够对区块和状态变化信息的确定性和合法性形成简短而快速的 轻客户端证明（这包括在类似比特币链中的新UTXO和以太坊类似链中的日志）。",
     "es": "Debe tener la capacidad de formar pruebas de clientes ligeros, compactas y rápidas sobre la finalidad y validez de sus bloques e información de cambio de estado (esto incluiría nuevos UTXOs en una cadena tipo Bitcoin o logs en una cadena tipo Ethereum).",
-    "tr": "Bloklarının ve durum değişikliği bilgilerinin kesinliği ve geçerliliği hakkında kompakt ve hızlı ışık istemcisi provaları oluşturma yeteneğine sahip olmalıdır (Bitcoin benzeri zincirdeki yeni UTXO'lar veya Ethereum benzeri zincirdeki kayıtlar dahil)."
+    "tr": "Blokların ve durum değişikliği bilgilerinin netliği ve geçerliliği hakkında kompakt ve ışık hızında istemci doğrulaması yapabilme yeteneğine sahip olmalıdır (Bitcoin benzeri zincirdeki yeni UTXO'lar veya Ethereum benzeri zincirdeki kayıtlar dahil)."
   },
   "faq.16": {
     "en": "There must be a means by which a large set of independent authorities (perhaps up to one thousand) can authorise a transaction. This could include recognition of threshold signatures, such as the Schnorr scheme, or a smart contract able to structure logic against a multi-signature condition.",
@@ -4147,7 +4147,7 @@
     "en": "Web3 Foundation's <a href=\"https://wiki.polkadot.network/docs/en/learn-implementations\" target=\"_blank\">Polkadot Wiki</a>.",
     "zh-cn": "<a href=\"https://wiki.polkadot.network/docs/en/learn-implementations\" target=\"_blank\">Web3基金会的Polkadot百科全书</a>",
     "es": "<a href=\"https://wiki.polkadot.network/docs/en/learn-implementations\" target=\"_blank\">wiki de Polkadot</a>.",
-    "tr": "Web3 Vakfının <a href=\"https://wiki.polkadot.network/docs/en/learn-implementations\" target=\"_blank\">Polkadot Wiki Sayfası</a>."
+    "tr": "Web3 Foundation'ın <a href=\"https://wiki.polkadot.network/docs/en/learn-implementations\" target=\"_blank\">Polkadot Wiki Sayfası</a>."
   },
   "faq.32": {
     "en": "At what stage is development now?",
@@ -4159,7 +4159,7 @@
     "en": "The Polkadot network's first Proof of Concept, POC-1, was released in May of 2018. The bulk of this release focuses on the development of the Relay Chain, the central nervous system of the Polkadot network.",
     "zh-cn": "Polkadot网络的第一个可行性验证，POC-1，已于2018年5月发布。 发布的主题是中继链的开发，也是Polkadot的神经中枢。",
     "es": "La primera prueba de concepto de la red Polkadot, POC-1, se publicó en mayo de 2018. La mayor parte de esta publicación se centra en el desarrollo de la relay chain, el sistema nervioso central de la red Polkadot.",
-    "tr": "Polkadot ağının ilk Konsept İspatı, POC-1, Mayıs 2018'de yayınlandı. Bu ilk sürüm Polkadot ağının merkezi sinir sistemi olan Relay Chain(Aktarım Zinciri)'e odaklanıldı."
+    "tr": "Polkadot ağının ilk Konsept İspatı, POC-1, Mayıs 2018'de yayınlandı. Bu ilk sürümde Polkadot ağının merkezi sinir sistemi olan Relay Chain'e odaklanıldı."
   },
   "faq.34": {
     "en": "Proof of Concept 2, POC-2, followed in July 2018 as the first real-world on-chain protocol upgrade, where owners of testnet DOTs voted to approve a Referendum to upgrade the testnet from POC-1 to POC-2. POC-2 introduced the ability to develop parachains, staking rewards and slashing for validators, and the first real-world use of the Rust implementation of <a href=\"https://github.com/libp2p/rust-libp2p\" target=\"_blank\">Libp2p</a>.",
@@ -4243,7 +4243,7 @@
     "en": "Web3 Foundation contracted Parity Technologies to develop the first implementations of Polkadot in Rust and JavaScript.",
     "zh-cn": "Web3基金会让Parity技术公司承包了Polkadot的Rust和Javascript版本的开发。",
     "es": "La Fundación Web3 contrató a Parity Technologies para desarrollar las primeras implementaciones de Polkadot en Rust y JavaScript.",
-    "tr": "Web3 Vakfı, Polkadot'un Rust ve JavaScript'teki ilk uygulamalarını geliştirmeleri için Parity Technologies ile sözleşme yapmıştır."
+    "tr": "Web3 Foundation, Polkadot'un Rust ve JavaScript'teki ilk uygulamalarını geliştirmeleri için Parity Technologies ile sözleşme yapmıştır."
   },
   "faq.48": {
     "en": "Dr. Gavin Wood, Co-Founder of Ethereum and Robert Habermeier, 2018 Thiel Fellow, are Co-Founders of Polkadot and Core Developers of the project. Additional contributors can be found by viewing the “Commits” on Parity Technologies <a href=\"https://github.com/paritytech/polkadot\" target=\"_blank\">Polkadot GitHub repository</a>.",
@@ -4255,13 +4255,13 @@
     "en": "Web3 Foundation is coordinating with teams interested in developing additional implementations of the platform, core-polkadot (e.g. collator nodes, validator nodes, Relay Chain) and ecosystem building (e.g. block explorers, node explorers, wallets).",
     "zh-cn": "Web3基金会正在和其他感兴趣的团队合作开发平台的其他版本， 核心Polkadot（比如校对者节点，验证人节点，中继链）和生态系统 建设（比如区块浏览器，节点浏览器，钱包等）",
     "es": "La Fundación Web3 está coordinando con equipos interesados en desarrollar implementaciones adicionales de la plataforma, core-polkadot (por ejemplo, nodos de collators, nodos de validador, Relay Chain) y desarrollo de ecosistemas (por ejemplo, exploradores de bloques, exploradores de nodos, carteras).",
-    "tr": "Web3 Vakfı platformun core-polkadot (düzenleyici ve doğrulayıcı node'lar, röle zincir vb.) ve ekosistem inşaası (blok ve node kaşifi, cüzdanlar vb.) gibi yeni implementasyonları ile ilgilenen takımlarla koordinasyon halindedir."
+    "tr": "Web3 Foundation patformun core-polkadot (düzenleyici ve doğrulayıcı node'lar, röle zincir vb.) ve ekosistem inşaası (blok ve node kaşifi, cüzdanlar vb.) gibi yeni implementasyonları ile ilgilenen takımlarla koordinasyon halindedir."
   },
   "faq.50": {
     "en": "Please reach out to Web3 Foundation via Riot if you are interested in contributing.",
     "zh-cn": "如果有兴趣为社区做贡献，请在Riot上联系Web3基金会",
     "es": "Por favor, póngase en contacto con la Fundación Web3 a través de Riot si está interesado en contribuir.",
-    "tr": "Katkıda bulunmak isterseniz Web3 Vakfına, Riot üzerinden ulaşabilirsiniz."
+    "tr": "Katkıda bulunmak isterseniz Web3 Foundation'a, Riot üzerinden ulaşabilirsiniz."
   },
   "faq.51": {
     "en": "Who is working on behalf of Polkadot?",
@@ -4297,31 +4297,31 @@
     "en": "What is the Web3 Foundation?",
     "zh-cn": "Web3基金会是什么？",
     "es": "¿Qué es la fundación Web3?",
-    "tr": "Web3 Vakfı nedir?"
+    "tr": "Web3 Foundation nedir?"
   },
   "faq.57": {
     "en": "Web3 Foundation is a Swiss Stiftung established under Article 80 et seqq. of the Swiss Civil Code. The Web3 Foundation was founded by Dr. Gavin Wood and has as its focus the development, deployment and maintenance of “Web3”. Web3 Foundation promotes the development of innovative technologies and applications in the field of cryptographically-enabled decentralised software protocols.",
     "zh-cn": "Web3基金会是一个瑞士的基金会，根据瑞士民法第80条建立。 Web3基金会由Gavin Wood博士建立，专注于开发，部署和维护Web3。 Web3基金会促进在密码学赋能的去中心化软件协议方面创新技术和应用的开发。",
     "es": "La Fundación Web3 es una fundación suiza creada en virtud de los artículos 80 y siguientes del Código Civil suizo. La Fundación Web3 fue fundada por el Dr. Gavin Wood y tiene como objetivo el desarrollo, despliegue y mantenimiento de ”Web3”. La Fundación Web3 promueve el desarrollo de tecnologías y aplicaciones innovadoras en el campo de los protocolos de software descentralizados que permiten la criptografía.",
-    "tr": "Web3 Vakfı, İsviçre Medeni Kanunu'nun 80. Maddesi uyarınca kurulmuş bir İsviçre Vakfıdır(Swiss Stiftung). Web3 Vakfı, Dr. Gavin Wood tarafından kurulmuş ve odak noktası Web3'ün geliştirilmesi, dağıtılması ve sürdürülmesidir. Web3 Foundation, kriptografi tabanlı merkezi olmayan yazılım protokolleri alanında yenilikçi teknolojilerin ve uygulamaların geliştirilmesini desteklemektedir."
+    "tr": "Web3 Foundation, İsviçre Medeni Kanunu'nun 80. Maddesi uyarınca kurulmuş bir İsviçre Vakfıdır(Swiss Stiftung). Web3 Foundation, Dr. Gavin Wood tarafından kurulmuş ve odak noktası Web3'ün geliştirilmesi, dağıtılması ve sürdürülmesidir. Web3 Foundation, kriptografi tabanlı merkezi olmayan yazılım protokolleri alanında yenilikçi teknolojilerin ve uygulamaların geliştirilmesini desteklemektedir."
   },
   "faq.58": {
     "en": "Web3 Foundation’s purpose is to nurture and steward cutting-edge technologies and applications at all levels of the Web3 technology stack. Web3’s principal focus is research, development, deployment, funding, and maintenance of Web3 technologies, plus advocacy and education, developer-adoption, support of middleware, and base-layer/demonstration applications.",
     "zh-cn": "Web3基金会的目标是在Web3技术栈的各个层面培养和服务最先进的 技术和应用。Web3的核心是研究，开发，部署，资助和维护Web3技术 ，并支持，教育，使开发者接受，支持中间件和底层的演示应用。",
     "es": "El propósito de la Fundación Web3 es fomentar y administrar tecnologías y aplicaciones de vanguardia en todos los niveles de la pila de tecnología Web3. El enfoque principal de Web3 es la investigación, el desarrollo, la implementación, la financiación y el mantenimiento de las tecnologías Web3, además de la promoción y la educación, la adopción por parte de los desarrolladores, el soporte de middleware y las aplicaciones de capa base/demostración.",
-    "tr": "Web3 Vakfının amacı, Web3 teknoloji yığınının tüm seviyelerinde en son teknolojileri ve uygulamaları geliştirmek ve yönetmektir. Web3’ün ana odağı, Web3 teknolojilerinin araştırılması, geliştirilmesi, dağıtılması, finansmanı, bakımı, yasal olarak savunulması, eğitimi, geliştirici adaptasyonu, ara katman yazılımların ve taban-katman uygulamalarının kanıtlanmasının desteklenmesidir."
+    "tr": "Web3 Foundation'ın amacı, Web3 teknoloji yığınının tüm seviyelerinde en son teknolojileri ve uygulamaları geliştirmek ve yönetmektir. Web3’ün ana odağı, Web3 teknolojilerinin araştırılması, geliştirilmesi, dağıtılması, finansmanı, bakımı, yasal olarak savunulması, eğitimi, geliştirici adaptasyonu, ara katman yazılımların ve taban-katman uygulamalarının kanıtlanmasının desteklenmesidir."
   },
   "faq.59": {
     "en": "The Web3 Foundation Council is Web3’s governing body, responsible for the management of the Web3 Foundation. The current members of the Web3 Foundation Council are Dr. Gavin Wood (President and Founder), Dr. Aeron Buchanan (Vice President) and Reto Trinkler.",
     "zh-cn": "Web3基金会的理事会使Web3的治理实体，负责Web3基金会的管理。 Web3基金会理事会的现有成员有Gavin Wood博士(主席和创始人)， Aeron Buchanan博士(副主席)和Reto Trinkler",
     "es": "El Consejo de la Fundación Web3 es el órgano de gobierno de Web3, responsable de la gestión de la Fundación Web3. Los miembros actuales del Consejo de la Fundación Web3 son el Dr. Gavin Wood (Presidente y Fundador), el Dr. Aeron Buchanan (Vicepresidente) y Reto Trinkler.",
-    "tr": "Web3 Vakfının yönetişim organı olan Vakfı Konseyi, Web3'ün idaresinden sorumludur. Web3 Vakfı Konseyi'nin mevcut üyeleri Dr. Gavin Wood (Başkan ve Kurucu), Dr. Aeron Buchanan (Başkan Yardımcısı) ve Reto Trinkler'dir."
+    "tr": "Web3 Foundation yönetişim organı olan Foundation Konseyi, Web3'ün idaresinden sorumludur. Web3 Foundation Konseyi'nin mevcut üyeleri Dr. Gavin Wood (Başkan ve Kurucu), Dr. Aeron Buchanan (Başkan Yardımcısı) ve Reto Trinkler'dir."
   },
   "faq.60": {
     "en": "Swiss foundations are subject to a mandatory supervision by a federal or cantonal authority. The Web3 Foundation’s application for approval by Eidgenössische Stiftungsaufsicht (Federal Foundation Supervisory Authority) was approved July 2018.",
     "zh-cn": "瑞士基金会受到联邦或州的强制监管。Web3基金会的申请被瑞士联邦基金监管局于2018年7月批准。",
     "es": "Las fundaciones suizas están sujetas a una supervisión obligatoria por parte de una autoridad federal o cantonal. La solicitud de aprobación de la Fundación Web3 por parte del Eidgenössische Stiftungsaufsicht (Organismo Federal de Supervisión de Fundaciones) fue aprobada en julio de 2018.",
-    "tr": "İsviçre vakıfları federal veya kanton otoritesi tarafından zorunlu denetime tabidir. Web3 Vakfı’nın başvurusu Eidgenössische Stiftungsaufsicht (Federal Vakıf Denetleme Kurumu) tarafından Temmuz 2018’de onaylanmıştır. "
+    "tr": "İsviçre vakıfları federal veya kanton otoritesi tarafından zorunlu denetime tabidir. Web3 Foundation'ın başvurusu Eidgenössische Stiftungsaufsicht (Federal Vakıf Denetleme Kurumu) tarafından Temmuz 2018’de onaylanmıştır. "
   },
   "faq.61": {
     "en": "What is Web3’s role in relation to Polkadot?",
@@ -4333,25 +4333,25 @@
     "en": "The Web3 Foundation intends to use a substantial amount of the proceeds from the sale of DOTs to finance the development of Web3 technologies, including Polkadot.",
     "zh-cn": "Web3基金会有意使用大部分出售DOT得到的资金来资助Web3技术的开发，包括Polkadot",
     "es": "La Fundación Web3 tiene la intención de utilizar una parte sustancial de los ingresos procedentes de la venta de los DOT para financiar el desarrollo de las tecnologías Web3, incluido Polkadot.",
-    "tr": "Web3 Vakfı DOT satışında elde edilecek gelirlerin önemli bir kısmını Polkadot dahil olmak üzere Web3 teknolojilerini geliştmek için kullanmayı amaçlamaktadır."
+    "tr": "Web3 Foundation DOT satışında elde edilecek gelirlerin önemli bir kısmını Polkadot dahil olmak üzere Web3 teknolojilerini geliştmek için kullanmayı amaçlamaktadır."
   },
   "faq.63": {
     "en": "Web3 Foundation is not a software development house or development shop, so it works closely with third party builders. The Web3 Foundation has entered a software development agreement with Parity Technologies under which Parity Technologies will undertake research and develop the Polkadot platform. There is, however, no group relationship between the Web3 Foundation and Parity Technologies, and robust measures are in place to ensure probity in decision making.",
     "zh-cn": "Web3基金会不是一个软件开发公司，所以会和第三方开发者合作。 Web3基金会和Parity Technologies达成了软件开发合约。然而， Web3基金会和Parity Techonologies之间没有直接关联，而且有可靠的手段保证决策的公允。",
     "es": "La Fundación Web3 no es una casa de desarrollo de software ni una tienda de desarrollo, por lo que trabaja en estrecha colaboración con terceros. La Fundación Web3 ha firmado un acuerdo de desarrollo de software con Parity Technologies en virtud del cual Parity Technologies llevará a cabo la investigación y el desarrollo de la plataforma Polkadot. Sin embargo, no existe una relación de grupo entre la Fundación Web3 y Parity Technologies, y existen medidas sólidas para asegurar la probidad en la toma de decisiones.",
-    "tr": "Web3 Vakfı bir yazılım geliştirme kurumu veya geliştirme atölyesi değildir, dolayısıyla üçüncü taraf geliştiricilerle çalışır. Web3 Vakfı, Parity Technologies ile Polkadot platformunun araştırma ve geliştirmesi için anlaşma yapmıştır. Bununla birlikte Web3 Vakfı ve Parity Technologies arasında hiç bir grup ilişkisi bulunmamaktadır, dürüst kararlar verilebilmesi için güçlü önlemler alınmıştır."
+    "tr": "Web3 Foundation bir yazılım geliştirme kurumu veya geliştirme atölyesi değildir, dolayısıyla üçüncü taraf geliştiricilerle çalışır. Web3 Foundation, Parity Technologies ile Polkadot platformunun araştırma ve geliştirmesi için anlaşma yapmıştır. Bununla birlikte Web3 Foundation ve Parity Technologies arasında hiç bir grup ilişkisi bulunmamaktadır, dürüst kararlar verilebilmesi için güçlü önlemler alınmıştır."
   },
   "faq.64": {
     "en": "How is the Web3 Foundation impacted by the 2017 Parity multi-signature contact freeze?",
     "zh-cn": "Web3基金会受到2017年Parity多签钱包冻结的影响有多大？",
     "es": "¿Cómo se ve afectada la Fundación Web3 por la congelación de contactos multi-firma de Parity en 2017?",
-    "tr": "Web3 Vakfı 2017'deki Parity multi-signature kontak dondurma olayından nasıl etkilendi?"
+    "tr": "Web3 Foundation 2017'deki Parity multi-signature kontak dondurma olayından nasıl etkilendi?"
   },
   "faq.65": {
     "en": "The affected multi-sig wallet did not contain all of Web3’s funds. Its ability to build Polkadot as planned and to the original timetable has not been affected. For a full statement, see the Web3 Foundation blog posts on the issue here:",
     "zh-cn": "受到影响的多签钱包并没有存放所有Web3的资金。基金会按照原有 时间线建设Polkadot，并没有受到影响。关于这个信息， 请参照Web3基金会下面相关的博客。",
     "es": "La cartera multi-sig afectada no contenía todos los fondos de Web3. Su capacidad para construir Polkadot según lo previsto y según el calendario original no se ha visto afectada. Para obtener una declaración completa, consulte las entradas del blog de la Fundación Web3 sobre el tema aquí:",
-    "tr": "Etkilenen multi-sig cüzdanı Web3'ün fonlarının tamamını içermemektedir. Web3'ün Polkadot'u planlandığı gibi geliştirme gücü ve orjinal takvimi etkilenmemiştir. Detaylı beyan için Web3 Vakfı'nın konuyla ilgili blog yazısını buradan okuyabilirsiniz:"
+    "tr": "Etkilenen multi-sig cüzdanı Web3'ün fonlarının tamamını içermemektedir. Web3'ün Polkadot'u planlandığı gibi geliştirme gücü ve orjinal takvimi etkilenmemiştir. Detaylı beyan için Web3 Foundation'ın konuyla ilgili blog yazısını buradan okuyabilirsiniz:"
   },
   "faq.66": {
     "en": "Web3 Multi-Sig Wallet Update",
@@ -4363,7 +4363,7 @@
     "en": "Update on the Web3 Foundation",
     "zh-cn": "Update on the Web3 Foundation",
     "es": "Update on the Web3 Foundation",
-    "tr": "Web3 Vakfı ile igli gelişme"
+    "tr": "Web3 Foundation ile igili güncelleme"
   },
   "faq.68": {
     "en": "Risk factors",
@@ -4399,13 +4399,13 @@
     "en": "Polkadot is still at a very early stage of development. The Web3 Foundation may have to make changes to the specifications of Polkadot or DOTs for any number of legitimate reasons or the Web3 Foundation may be unable to develop Polkadot in a way that realizes those specifications or any form of a functioning network. To the extent that Polkadot is successfully developed and the Polkadot genesis block is deployed, Polkadot and/or DOTs may not meet participant expectations, and may be different from those set out in the White Paper. Furthermore, despite the Web3 Foundation’s efforts to develop and deploy the Polkadot genesis block and subsequently to develop and maintain Polkadot, it is still possible that Polkadot will experience malfunctions or otherwise fail to be adequately developed or maintained, which may negatively impact Polkadot and/or DOTs.",
     "zh-cn": "Polkadot还在非常早期的开发阶段。Web3基金会可能会因为某种合法的 理由改变Polkadot或者DOT的规格，或Web基金会无法在开发中实现 这些规格，或开发的网络功能不全。根据Polkadot成功开发和创世区块 部署的状况，Polakdot和DOT，或两者之一可能和预期的不一样，或者 和白皮书里描述的不符。此外，即使Web3基金会全力以赴，Polkadot的 创世区块成功部署，并持续开发和维护Polkadot，Polkadot也可能会 出现功能障碍，或者开发或维护不完全，这些情况会对Polkadot和DOT产生负面影响。",
     "es": "Polkadot se encuentra todavía en una fase muy temprana de desarrollo. La Fundación Web3 puede tener que hacer cambios en las especificaciones de Polkadot o de los DOTs por cualquier número de razones legítimas o la Fundación Web3 puede ser incapaz de desarrollar Polkadot de una manera que realice esas especificaciones o cualquier forma de red que funcione. En la medida en la que Polkadot se desarrolle con éxito y se despliegue el bloque génesis de Polkadot, es posible que Polkadot y/o los DOTs no satisfagan las expectativas de los participantes y puedan ser diferentes de los establecidos en el white paper. Además, a pesar de los esfuerzos de la Fundación Web3 para desarrollar y desplegar el bloque génesis de Polkadot y, posteriormente, para desarrollar y mantener Polkadot, es posible que Polkadot experimente fallos de funcionamiento o que de otro modo no se desarrolle o mantenga adecuadamente, lo que podría tener un impacto negativo en Polkadot y/o DOTs.",
-    "tr": "Polkadot henüz çok erken bir geliştirme aşamasındadır. Web3 Vakfı Polkadot veya DOT'ların spesifikasyonları ile ilgili olarak gerektiği kadar yasal değişiklik yapabilir, Web3 Vakfı spesifikasyonları gerçekleştiremeyebilir veya fonksiyonel bir ağ geliştiremeyebilir."
+    "tr": "Polkadot henüz çok erken bir geliştirme aşamasındadır. Web3 Foundation Polkadot veya DOT'ların spesifikasyonları ile ilgili olarak gerektiği kadar yasal değişiklik yapabilir, Web3 Foundation spesifikasyonları gerçekleştiremeyebilir veya fonksiyonel bir ağ geliştiremeyebilir."
   },
   "faq.74": {
     "en": "The development of Polkadot will require significant capital funding, expertise and the Web3 Foundation’s time and effort. Polkadot may require significantly more funding or time in development than the Web3 Foundation currently envisages, which may result in suspension or cancellation of development of Polkadot. If the Web3 Foundation is not successful in its efforts to demonstrate to users the utility and value of Polkadot, there may not be sufficient demand for DOTs for the Web3 Foundation to proceed with the deployment of the Polkadot genesis block. As a result, or if the deployment of the Polkadot genesis block does not occur, participants may lose all of the funds provided in connection with the DOT Sale.",
     "zh-cn": "Polkadot的开发需要大量的资金支持，专业知识以及Web3基金会的时间和精力。 Polkadot也许需要超过Web3基金会现在预期的资金和时间来完成开发， 因此可能会造成开发停止甚至取消。如果Web3基金会未成功开发Polkadot， 给用户演示足够的应用价值，对于DOT的需求可能不足以让Web3基金 会完成创世区块的部署。Polkadot创世区块如果不出现，参与者可能会损失跟DOT发售相关的所有资金。",
     "es": "El desarrollo de Polkadot requerirá una importante financiación de capital, experiencia y el tiempo y esfuerzo de la Fundación Web3. Polkadot puede requerir una financiación o tiempo de desarrollo significativamente mayor de lo que la Fundación Web3 prevé actualmente, lo que puede resultar en la suspensión o cancelación del desarrollo de Polkadot. Si la Fundación Web3 no tiene éxito en sus esfuerzos por demostrar a los usuarios la utilidad y el valor de Polkadot, puede que no haya suficiente demanda de DOTs para que la Fundación Web3 proceda con el despliegue del bloque génesis de Polkadot. Como resultado, o si no se produce el despliegue del bloque genesis de Polkadot, los participantes pueden perder todos los fondos proporcionados en relación con la venta DOTs.",
-    "tr": "Polkadot'un geliştirmesi, önemli ölçüde sermaye fonu, uzmanlık ve Web3 Vakfı'nın zaman ve eforunu gerektirmektedir. Polkadot, Web3 Vakfının şu anki öngörülerinden daha fazla fon ve geliştirme gerektirebileceği için Polkadot'un geliştirmelerinin duraksamasına veya durdurulmasına sebep olabilir. Web3 Vakfı'nı Polkadot'un kullanışlılığını ve değerini gösterme konusunda başarısız olursa, Polkadot genesis bloğunun oluşturulması için gerekli talep oluşmayabilir. Yetersiz talep sonucunda veya Polkadot genesis bloğunun oluşturulamaması durumunda katılımcılar DOT satışıyla alakalı tüm fonlarını kaybedebilirler."
+    "tr": "Polkadot'un geliştirmesi, önemli ölçüde sermaye fonu, uzmanlık ve Web3 Foundation'ın zaman ve eforunu gerektirmektedir. Polkadot, Web3 Foundation'ın şu anki öngörülerinden daha fazla fon ve geliştirme gerektirebileceği için Polkadot'un geliştirmelerinin duraksamasına veya durdurulmasına sebep olabilir. Web3 Foundation'ı Polkadot'un kullanışlılığını ve değerini gösterme konusunda başarısız olursa, Polkadot genesis bloğunun oluşturulması için gerekli talep oluşmayabilir. Yetersiz talep sonucunda veya Polkadot genesis bloğunun oluşturulamaması durumunda katılımcılar DOT satışıyla alakalı tüm fonlarını kaybedebilirler."
   },
   "faq.75": {
     "en": "Polkadot may not be deployed as intended at all",
@@ -4428,7 +4428,7 @@
     "en": "The Web3 Foundation may not have or may not be able to obtain the technical skills and expertise needed to successfully develop Polkadot and progress it to deploy the Polkadot genesis block. There is a general scarcity of management, technical, scientific, research and marketing personnel with appropriate training to develop and maintain Polkadot.",
     "zh-cn": "Web3基金会也许不具备或者不能获得成功开发Polkadot和推进到部署 Polkadot创世区块阶段的技术能力和专业知识。有足够资历管理， 技术，科学，研究和市场开发人员匮乏也可能导致无法开发和维护Polkadot",
     "es": "La Fundación Web3 puede no tener o no ser capaz de obtener las habilidades técnicas y la experiencia necesarias para desarrollar con éxito Polkadot y progresar en el despliegue del bloque de génesis de Polkadot. Existe una escasez general de personal de gestión, técnico, científico, de investigación y de marketing con la formación adecuada para desarrollar y mantener Polkadot.",
-    "tr": "Web3 Vakfı, Polkadot'u başarılı bir şekilde geliştirmeye ve Polkadot genesis bloğunu oluşturmak için gerekli uzmanlığa ve teknik becerilere sahip olmayabilir veya elde edemeyebilir. Polkadot'u geliştirmek ve sürdürmek için uygun eğitime sahip yönetim, teknik, bilimsel, araştırma ve pazarlama personelinde genel bir azlık vardır."
+    "tr": "Web3 Foundation, Polkadot'u başarılı bir şekilde geliştirmeye ve Polkadot genesis bloğunu oluşturmak için gerekli uzmanlığa ve teknik becerilere sahip olmayabilir veya elde edemeyebilir. Polkadot'u geliştirmek ve sürdürmek için uygun eğitime sahip yönetim, teknik, bilimsel, araştırma ve pazarlama personelinde genel bir azlık vardır."
   },
   "faq.79": {
     "en": "Risks associated with DOTs",
@@ -4476,7 +4476,7 @@
     "en": "Web3 foundation",
     "zh-cn": "Web3基金会",
     "es": "Fundación Web3",
-    "tr": "Web3 Vakfı"
+    "tr": "Web3 Foundation"
   },
   "tag.meta.title": {
     "en": "{{tag}} | Blog | Polkadot"
