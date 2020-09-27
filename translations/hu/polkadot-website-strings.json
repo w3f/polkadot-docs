@@ -27,10 +27,10 @@
     "tr": "filter=\"id:-{{id}}+tags:hash-tr\""
   },
   "global.footer.from_the_blog": {
-    "en": "Dal blog"
+    "en": "From the blog"
   },
   "global.footer.get_involved": {
-    "en": "Come partecipare?",
+    "en": "Want to get involved?",
     "ru": "Заинтересован?",
     "ko": "폴카닷과 함께 하고 싶으신가요?",
     "es": "¿Quiere colaborar?",
@@ -66,7 +66,7 @@
     "tr": "Polkadot üzerinde geliştirmeyle ilgili bir sorun var mı?"
   },
   "global.ask_question": {
-    "en": "Chiedi nella chat di Polkadot",
+    "en": "Ask in the Polkadot Chat",
     "zh-cn": "有关建立在Polkadot上的问题?",
     "ja": "Polkadotチャットで聞きましょう。",
     "ru": "Спросите в чате Polkadot",
