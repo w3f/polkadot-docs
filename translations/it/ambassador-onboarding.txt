@@ -23,17 +23,17 @@ Progetti: Polkadot e Kusama
 Città: Berlino, Germania
 Dipendenti: ~140
 Organizzazione: principalmente sviluppo - Substrate, Kusama e Polkadot
-Focus: Coding, Communications, Business Development
+Focus: Coding, Comunicazioni, Sviluppo Aziendale
 Progetti: Parity Substrate, Polkadot/Kusama, esperienza passata con Parity Ethereum e altre tecnologie
 
 Che cos’è Polkadot?
 ...e Kusama?	
 Rivoluziona la governance online e il processo decisionale aperto e guidato dalla comunità
 Abilita piattaforme personalizzate per applicazioni specifiche
-Self-upgrades allowing it to be future-proof
-Handles heavy traffic at scale
-Connects networks together
-Industry-
+Aggiornamenti automatici che consentono di essere a prova di futuro
+Gestisce il traffico pesante su larga scala
+Collega le reti insieme
+Industria-
 Leading plug-and-play security
 
 Chi vogliamo coinvolgere?	
@@ -42,21 +42,21 @@ Tecnologi e sviluppatori
 Passionate community members
 Open-source contributors or maintainers
 Contributors to the evolution of governance in public blockchain systems
-University Students
-Creatives & Makers
-People from all backgrounds! Most likely yourself if you’re here :)
+Studenti universitari
+Creativi & Creatori
+Persone di ogni provenienza! Molto probabilmente te stesso se sei qui :)
 
 Ambasciatori in carica
 
 Esempi di ambasciatori Polkadot che hanno apportato contributi significativi:
-Sota Watanabe - Tokyo, Japan
-CEO of Plasm Network, a scaling solution built on Substrate
-Alex Siman - Kiev, Ukraine
-Building SubSocial, a Substrate- based social network platform
-Katie and Nate - Boston, USA
-Validating Kusama and building Substrate projects at PureStake
-Hyungsuk Kang - Seoul, South Korea
-Building a Substrate certification program at Korea University
+Sota Watanabe - Tokyo, Giappone
+CEO di Plasm Network, una soluzione scalabile basata su Substrate
+Alex Siman - Kiev, Ucraina
+Building SubSocial, un social network basato su Substrate
+Katie e Nate - Boston, USA
+Validando su Kusama e costruendo progetti Substrate a PureStake
+Hyungsuk Kang - Seoul, Corea Del Sud
+Costruendo un programma di certificazione Substrate per la Korea University
 
 Quali sono le sue responsabilità?
 
@@ -65,38 +65,38 @@ These are some examples as you’ll likely set your own path to success! We will
 Being a representative of your region for the Polkadot project
 Identifying opportunities for Polkadot to be involved in together
 If interested, author blog posts and other writing in relation to the future of the web and how Polkadot relates to the vision of Web 3.0
-Assistance with response management & keeping the community engaged with solid and correct answers
-Speaking about Polkadot at an event or hosting a workshop & meetups
-Contributing code to a repository related to the ecosystem & or improving documentation related to Polkadot
-Participate in calls & tasks for driving forward the ecosystem
-Mentor newcomers into the platform
+Assistendo nella gestione delle risposte & mantenendo la comunità impegnata con risposte solide e corrette
+Parlando di Polkadot in un evento o ospitando un workshop & un meeting
+Contribuire al codice di un repository relativo all'ecosistema & o a migliorare la documentazione relativa a Polkadot
+Partecipare alle call e alle attività per portare avanti l'ecosistema
+Seguire i nuovi arrivati nella piattaforma
 
-Program Path
+Percorso del programma
 
-To become an official ambassador you must have contributed to the trello board and joined two official calls. You also must define which working group you intend on joining as an Ambassador. 
-ApprenticeAt this stage in your journey you’re getting to know the community and establishing relationships. As well as working on tasks.
-Phase 1
-Phase 2
-AmbassadorYou’ve now officially recognized  as an ambassador! You’ll have all the opportunities afforded to you as your fellow team members.
+Per diventare un ambasciatore ufficiale devi aver contribuito alla bacheca del trello e unirti a due chiamate ufficiali. È inoltre necessario definire a quale gruppo di lavoro si intende aderire come ambasciatore. 
+Un apprendista in questa fase del percorso sta per conoscere la comunità e stabilire relazioni. Oltre a lavorare su attività.
+Fase 1
+Fase 2
+Ambasciatore! Ora sei ufficialmente riconosciuto come ambasciatore! Avrai tutte le opportunità che ti sono state offerte come membro del team.
 
-What’s in it for Me?
-Playing a key role in Polkadot’s historic launch
-Access to the ambassador Riot channel
-Developer access to bounties (first call)
-Event participation & exclusive invitations
-Participation in calls with core-team members of Polkadot
-Funding for Meetups & Workshops
+Cosa c'è in serbo per te?
+Giocare un ruolo chiave nel lancio storico di Polkadot
+Accesso al canale Riot per gli ambasciatori
+Accesso degli sviluppatori ai bounty (prima chiamata)
+Partecipazione a eventi & inviti esclusivi
+Partecipazione alle call con i membri del core-team di Polkadot
+Finanziamento per Meetup e workshop
 Polkadot swag
-Friendships & team building
+Amicizie e team building
 
 
-Do you think you have what it takes?
+Pensate di avere quello che serve?
 
-Next steps:
+Prossimi passi:
 
-      Working Group Decision
-     Joining the Trello Board
-      We will send a follow up email with a Code of Conduct and other links for your review
+      Scelta del gruppo di lavoro
+     Entrare nella bacheca di Trello
+      Invieremo una email di follow-up con un Codice di Condotta e altri link per la tua recensione
 
-If you are wanting to organize a meetup / workshop use this form 
+Se hai intenzione di organizzare un meetup /workshop compila questo form 
  
