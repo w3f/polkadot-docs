@@ -1,0 +1,102 @@
+Welcome to 
+Polkadot Ambassador Onboarding
+
+Agenda
+Welcome and Introductions (15 mins)
+Team Members
+New Ambassadors introduce themselves
+Where you live
+What brought you to applying to the Polkadot Ambassador Program
+What are you interested in contributing
+Overview of Ambassador Program and Q&A (15 mins)
+Review Trello: Tasks you can do immediately (10 mins)
+Post-call
+Look for the welcome email
+Join all the Ambassador groups
+We’ll add you to the Trello
+
+City: Zug, Switzerland
+Employees: ~50
+Organization: Non-profit foundation housing the cryptographic research
+Focus: Economic & Viability research, Grants, Technical Education, Community & Growth, Business Development, Communications
+Projects: Polkadot and Kusama
+City: Berlin, Germany
+Employees: ~140
+Organization: Mostly developers - building Substrate, Kusama and Polkadot
+Focus: Coding, Communications, Business Development
+Projects: Parity Substrate, Polkadot/Kusama, past experience with Parity Ethereum and other technologies
+
+What is Polkadot?
+...and Kusama?	
+Revolutionizes online governance thru open, community-driven decision-making
+Enables custom-made platforms built for specific apps
+Self-upgrades allowing it to be future-proof
+Handles heavy traffic at scale
+Connects networks together
+Industry-
+Leading plug-and-play security
+
+Who do we want involved?	
+
+Technologists and developers
+Passionate community members
+Open-source contributors or maintainers
+Contributors to the evolution of governance in public blockchain systems
+University Students
+Creatives & Makers
+People from all backgrounds! Most likely yourself if you’re here :)
+
+Current Ambassadors
+
+Examples of Polkadot Ambassadors who have made significant contributions:
+Sota Watanabe - Tokyo, Japan
+CEO of Plasm Network, a scaling solution built on Substrate
+Alex Siman - Kiev, Ukraine
+Building SubSocial, a Substrate- based social network platform
+Katie and Nate - Boston, USA
+Validating Kusama and building Substrate projects at PureStake
+Hyungsuk Kang - Seoul, South Korea
+Building a Substrate certification program at Korea University
+
+What are your Responsibilities?
+
+The road to becoming a Polkadot ambassador is proving your commitment to our ecosystem we share. Some tasks may be dependent upon your relative work groups.
+These are some examples as you’ll likely set your own path to success! We will help you get there alongside us.
+Being a representative of your region for the Polkadot project
+Identifying opportunities for Polkadot to be involved in together
+If interested, author blog posts and other writing in relation to the future of the web and how Polkadot relates to the vision of Web 3.0
+Assistance with response management & keeping the community engaged with solid and correct answers
+Speaking about Polkadot at an event or hosting a workshop & meetups
+Contributing code to a repository related to the ecosystem & or improving documentation related to Polkadot
+Participate in calls & tasks for driving forward the ecosystem
+Mentor newcomers into the platform
+
+Program Path
+
+To become an official ambassador you must have contributed to the trello board and joined two official calls. You also must define which working group you intend on joining as an Ambassador. 
+ApprenticeAt this stage in your journey you’re getting to know the community and establishing relationships. As well as working on tasks.
+Phase 1
+Phase 2
+AmbassadorYou’ve now officially recognized  as an ambassador! You’ll have all the opportunities afforded to you as your fellow team members.
+
+What’s in it for Me?
+Playing a key role in Polkadot’s historic launch
+Access to the ambassador Riot channel
+Developer access to bounties (first call)
+Event participation & exclusive invitations
+Participation in calls with core-team members of Polkadot
+Funding for Meetups & Workshops
+Polkadot swag
+Friendships & team building
+
+
+Do you think you have what it takes?
+
+Next steps:
+
+      Working Group Decision
+     Joining the Trello Board
+      We will send a follow up email with a Code of Conduct and other links for your review
+
+If you are wanting to organize a meetup / workshop use this form 
+ 
