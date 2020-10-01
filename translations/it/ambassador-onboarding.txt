@@ -33,15 +33,15 @@ Abilita piattaforme personalizzate per applicazioni specifiche
 Aggiornamenti automatici che consentono di essere a prova di futuro
 Gestisce il traffico pesante su larga scala
 Collega le reti insieme
-Industria-
-Leading plug-and-play security
+ 
+Leader nella sicurezza plug-and-play
 
 Chi vogliamo coinvolgere?	
 
 Tecnologi e sviluppatori
-Passionate community members
-Open-source contributors or maintainers
-Contributors to the evolution of governance in public blockchain systems
+Appassionati appartenenti alla community
+Collaboratori o mainteners open source
+Collaboratori nell'evoluzione della governance nei sistemi pubblici della blockchain
 Studenti universitari
 Creativi & Creatori
 Persone di ogni provenienza! Molto probabilmente te stesso se sei qui :)
@@ -60,11 +60,11 @@ Costruendo un programma di certificazione Substrate per la Korea University
 
 Quali sono le sue responsabilità?
 
-The road to becoming a Polkadot ambassador is proving your commitment to our ecosystem we share. Some tasks may be dependent upon your relative work groups.
-These are some examples as you’ll likely set your own path to success! We will help you get there alongside us.
-Being a representative of your region for the Polkadot project
-Identifying opportunities for Polkadot to be involved in together
-If interested, author blog posts and other writing in relation to the future of the web and how Polkadot relates to the vision of Web 3.0
+La strada per diventare un ambasciatore di Polkadot sta dimostrando il tuo impegno per il nostro ecosistema che condividiamo. Alcune attività potrebbero dipendere dai tuoi gruppi di lavoro.
+Questi sono solo alcuni esempi potrei impostare per il tuo percorso verso il successo! Ti aiuteremo ad arrivare lì accanto a noi.
+Essere un rappresentante della tua regione per il progetto Polkadot
+Individuando insieme le opportunità in cui Polkadot può essere coinvolto
+Se interessato, autore di post sul blog e altri scritti in relazione al futuro del web e a come Polkadot si relaziona alla visione del Web 3.0
 Assistendo nella gestione delle risposte & mantenendo la comunità impegnata con risposte solide e corrette
 Parlando di Polkadot in un evento o ospitando un workshop & un meeting
 Contribuire al codice di un repository relativo all'ecosistema & o a migliorare la documentazione relativa a Polkadot
