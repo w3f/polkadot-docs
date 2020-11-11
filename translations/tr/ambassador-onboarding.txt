@@ -1,55 +1,55 @@
-Welcome to 
-Polkadot Ambassador Onboarding
+Polkadot Temsilcilik Programına 
+Hoş Geldiniz
 
-Agenda
-Welcome and Introductions (15 mins)
-Team Members
-New Ambassadors introduce themselves
-Where you live
-What brought you to applying to the Polkadot Ambassador Program
-What are you interested in contributing
-Overview of Ambassador Program and Q&A (15 mins)
-Review Trello: Tasks you can do immediately (10 mins)
-Post-call
-Look for the welcome email
-Join all the Ambassador groups
-We’ll add you to the Trello
+Ajanda
+Açılış ve Tanıtımlar (15 dakika)
+Takım Üyeleri
+Yeni Temsilcilerin kendini tanıtması
+Yaşadığın yer
+Seni Polkadot Temsilcilik Programına başvurmaya teşvik eden etkenler
+Hangi konularda katkı sağlamak istiyorsun
+Temsilcilik Programı hakkında genel değerlendirme ve soru cevap bölümü (15 dakika)
+Trello: Hemen yapabileceğin görevler (10 dakika)
+Görüşme sonrası
+Hoş geldin e-postasını bekle
+Temsilci gruplarına katıl
+Trello'ya ekleneceksin
 
-City: Zug, Switzerland
-Employees: ~50
-Organization: Non-profit foundation housing the cryptographic research
-Focus: Economic & Viability research, Grants, Technical Education, Community & Growth, Business Development, Communications
-Projects: Polkadot and Kusama
-City: Berlin, Germany
-Employees: ~140
-Organization: Mostly developers - building Substrate, Kusama and Polkadot
-Focus: Coding, Communications, Business Development
-Projects: Parity Substrate, Polkadot/Kusama, past experience with Parity Ethereum and other technologies
+Şehir: Zug, İsviçre
+Çalışan Sayısı: ~50
+Çalıştığı Organizasyon: Kâr amacı gütmeyen ve kriptografik araştırmaları barındıran vakıf
+Odaklanılan alanlar: Ekonomik ve Canlılık araştırması, Hibeler, Teknik Eğitim, Topluluk ve Büyüme, İş Geliştirme, İletişim
+Projeler: Polkadot ve Kusama
+Şehir: Berlin, Almanya
+Çalışan Sayısı: ~140
+Çalıştığı Organizasyon: Çoğunlukla Substrate, Kusama ve Polkadot geliştiren geliştirici/yazılım evi
+Odaklanılan alanlar: Kodlama, İletişim, İş Geliştirme
+Projeler: Parity Substrate, Polkadot/Kusama, Parity Ethereum ve diğer teknolojiler hakkında geçmiş tecrübeler
 
-What is Polkadot?
-...and Kusama?	
-Revolutionizes online governance thru open, community-driven decision-making
-Enables custom-made platforms built for specific apps
-Self-upgrades allowing it to be future-proof
-Handles heavy traffic at scale
-Connects networks together
-Industry-
-Leading plug-and-play security
+Polkadot ve Kusama
+... Nedir?	
+Açık, topluluk odaklı karar alma yöntemiyle, çevrimiçi yönetişimde devrim yaratır
+Özel amaçlara uygun uygulamalar için oluşturulmuş özel yapım platformları mümkün kılar
+Ağın kendi kendini yükseltmesi ve geleceğe dönük olmasını sağlar
+Yoğun işlem trafiğini ölçekleyebilir
+Ağları birbirine bağlar
+Alanında lider
+tak-çalıştır sistemler güvenliği
 
-Who do we want involved?	
+Kimin katılmasını istiyoruz?	
 
-Technologists and developers
-Passionate community members
-Open-source contributors or maintainers
-Contributors to the evolution of governance in public blockchain systems
-University Students
-Creatives & Makers
-People from all backgrounds! Most likely yourself if you’re here :)
+Teknoloji meraklıları ve geliştiricilerin
+Tutkulu topluluk üyelerinin
+Açık kaynak süreçleri yönetecek ve katkı verecek kişilere
+Halka açık blokzincirde yönetişimin evrimine katkı vereceklere
+Üniversite Öğrencileri
+Yaratıcılar ve Yapıcılar
+Tecrübeniz hangi alandan olursa olsun herkes katılabilir! Önemli olan senin bize katılman :)
 
-Current Ambassadors
+Mevcut Temsilcilerimiz
 
-Examples of Polkadot Ambassadors who have made significant contributions:
-Sota Watanabe - Tokyo, Japan
+Önemli katkılarda bulunan Polkadot Temsilcisi örnekleri:
+Sota Watanabe - Tokyo, Japonya
 CEO of Plasm Network, a scaling solution built on Substrate
 Alex Siman - Kiev, Ukraine
 Building SubSocial, a Substrate- based social network platform
