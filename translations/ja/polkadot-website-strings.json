@@ -1,12 +1,12 @@
 {
   "language_shorthand": {
-    "en": "en",
-    "ru": "ru",
-    "ja": "ja",
-    "zh-cn": "zh-cn",
-    "ko": "ko",
-    "es": "es",
-    "tr": "tr"
+    "en": "英語",
+    "ru": "ロシア語",
+    "ja": "日本語",
+    "zh-cn": "中国語",
+    "ko": "韓国語",
+    "es": "スペイン語",
+    "tr": "トルコ語"
   },
   "get_filter": {
     "en": "filter=\"tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko,hash-es,hash-tr]\"",
@@ -27,31 +27,31 @@
     "tr": "filter=\"id:-{{id}}+tags:hash-tr\""
   },
   "global.footer.from_the_blog": {
-    "en": "From the blog"
+    "en": "新着ブログ"
   },
   "global.footer.get_involved": {
-    "en": "Want to get involved?",
+    "en": "一緒にプロジェクトに参加しませんか？",
     "ru": "Заинтересован?",
     "ko": "폴카닷과 함께 하고 싶으신가요?",
     "es": "¿Quiere colaborar?",
     "tr": "Katılmak ister misin?"
   },
   "global.footer.join_community": {
-    "en": "Join the Community",
+    "en": "コミュニティに参加する",
     "ru": "Присоединяйтесь к сообществу",
     "ko": "폴카닷 커뮤니티에 합류하시고,",
     "es": "Únase a la comunidad",
     "tr": "Topluluğa Katıl"
   },
   "global.footer.learn": {
-    "en": "or learn about how to {{build_link}}.",
+    "en": "もしくは、 {{build_link}} を詳しく知る。",
     "ru": "или узнайте, как {{build_link}}",
     "ko": "{{build_link}}",
     "es": "o aprenda sobre cómo {{build_link}}.",
     "tr": "veya geliştirmeyi öğren {{build_link}}."
   },
   "global.footer.learn.build_link": {
-    "en": "build on Polkadot",
+    "en": "Polkadotで開発",
     "ru": "работать с Polkadot",
     "ko": "폴카닷을 어떻게 개발에 활용할 수 있는지 확인해보세요.",
     "es": "desarrolle en Polkadot",
