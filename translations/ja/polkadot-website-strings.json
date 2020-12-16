@@ -51,22 +51,22 @@
     "tr": "veya geliştirmeyi öğren {{build_link}}."
   },
   "global.footer.learn.build_link": {
-    "en": "Polkadotで開発",
+    "en": "Polkadotを使って開発を始める",
     "ru": "работать с Polkadot",
     "ko": "폴카닷을 어떻게 개발에 활용할 수 있는지 확인해보세요.",
     "es": "desarrolle en Polkadot",
     "tr": "Polkadot üzerinde geliştir"
   },
   "global.question_building": {
-    "en": "Have a question about building on Polkadot?",
+    "en": "Polkadotを使った開発の質問をする",
     "zh-cn": "有关建立在Polkadot上的问题?",
-    "ja": "Polkadot上の構築について質問がありますか？",
+    "ja": "Polkadotを使った開発の質問をする",
     "ru": "У вас есть вопрос о разработке на Polkadot? Спросите в чате Polkadot",
     "es": "¿Tiene alguna pregunta sobre cómo desarrollar en Polkadot?",
     "tr": "Polkadot üzerinde geliştirmeyle ilgili bir sorun var mı?"
   },
   "global.ask_question": {
-    "en": "Ask in the Polkadot Chat",
+    "en": "Polkadotチャットで質問する",
     "zh-cn": "有关建立在Polkadot上的问题?",
     "ja": "Polkadotチャットで聞きましょう。",
     "ru": "Спросите в чате Polkadot",
