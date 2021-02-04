@@ -36,9 +36,9 @@ Connects networks together
 Industry-
 Leading plug-and-play security
 
-Who do we want involved?	
+Quem nós queremos envolvidos?	
 
-Technologists and developers
+Tecnólogos e desenvolvedores
 Passionate community members
 Open-source contributors or maintainers
 Contributors to the evolution of governance in public blockchain systems
