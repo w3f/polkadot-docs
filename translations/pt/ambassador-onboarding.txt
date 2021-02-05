@@ -1,102 +1,102 @@
-Welcome to 
-Polkadot Ambassador Onboarding
+Bem Vindo a 
+Integração de Embaixadores Polkadot
 
 Agenda
-Welcome and Introductions (15 mins)
-Team Members
-New Ambassadors introduce themselves
-Where you live
-What brought you to applying to the Polkadot Ambassador Program
-What are you interested in contributing
-Overview of Ambassador Program and Q&A (15 mins)
-Review Trello: Tasks you can do immediately (10 mins)
-Post-call
-Look for the welcome email
-Join all the Ambassador groups
-We’ll add you to the Trello
+Boas-vindas e Introduções
+Membros da equipe
+Apresentação de Novos Embaixadores
+Onde você mora
+O que o levou a se candidatar ao Programa de Embaixadores Polkadot
+Com o que você está interessado em contribuir
+Visão geral do Programa de Embaixador e Q&A (15 minutos)
+Revisar Trello: Tarefas que você pode fazer imediatamente (10 minutos)
+Pós-chamada
+Procure o email de boas-vindas
+Junte-se a todos os grupos de embaixadores
+Adicionaremos você ao Trello
 
-City: Zug, Switzerland
-Employees: ~50
-Organization: Non-profit foundation housing the cryptographic research
-Focus: Economic & Viability research, Grants, Technical Education, Community & Growth, Business Development, Communications
-Projects: Polkadot and Kusama
-City: Berlin, Germany
-Employees: ~140
-Organization: Mostly developers - building Substrate, Kusama and Polkadot
-Focus: Coding, Communications, Business Development
-Projects: Parity Substrate, Polkadot/Kusama, past experience with Parity Ethereum and other technologies
+Cidade: Zug, Suíça
+Empregados: ~50
+Organização: Fundação sem fins lucrativos alojando a pesquisa criptográfica
+Foco: Pesquisa econômica e de viabilidade, concessões, educação técnica, comunidade e crescimento, desenvolvimento de negócios, comunicações
+Projetos: Polkadot e Kusama
+Cidade: Berlim, Alemanha
+Empregados: ~140
+Organização: Principalmente desenvolvedores - construindo Substrate, Kusama e Polkadot
+Foco: Programação, Comunicações, Desenvolvimento de Negócios
+Projetos: Parity Substrate, Polkadot/Kusama, experiência anterior com Parity Ethereum e outras tecnologias
 
-What is Polkadot?
-...and Kusama?	
-Revolutionizes online governance thru open, community-driven decision-making
-Enables custom-made platforms built for specific apps
-Self-upgrades allowing it to be future-proof
-Handles heavy traffic at scale
-Connects networks together
-Industry-
-Leading plug-and-play security
+O que é Polkadot?
+...e Kusama?	
+Revoluciona a governança online por meio da tomada de decisões aberta e voltada para a comunidade
+Habilita plataformas personalizadas criadas para aplicativos específicos
+Atualizações automáticas permitindo que seja à prova de futuro
+Lida com tráfego pesado em grande escala
+Conecta redes
+Industria
+Segurança plug-and-play
 
 Quem nós queremos envolvidos?	
 
 Tecnólogos e desenvolvedores
-Passionate community members
-Open-source contributors or maintainers
-Contributors to the evolution of governance in public blockchain systems
-University Students
-Creatives & Makers
-People from all backgrounds! Most likely yourself if you’re here :)
+Membros da comunidade apaixonados
+Contribuidores ou mantenedores de código aberto
+Contribuidores para a evolução da governança em sistemas públicos de blockchain
+Estudantes Universitários
+Criativos e criadores
+Pessoas de todas as origens! Provavelmente você mesmo, se está aqui :)
 
-Current Ambassadors
+Embaixadores Atuais
 
-Examples of Polkadot Ambassadors who have made significant contributions:
-Sota Watanabe - Tokyo, Japan
-CEO of Plasm Network, a scaling solution built on Substrate
-Alex Siman - Kiev, Ukraine
-Building SubSocial, a Substrate- based social network platform
-Katie and Nate - Boston, USA
-Validating Kusama and building Substrate projects at PureStake
-Hyungsuk Kang - Seoul, South Korea
-Building a Substrate certification program at Korea University
+Exemplos de Embaixadores Polkadot que deram contribuições significativas:
+Sota Watanabe - Tokyo, Japão
+CEO da Plasm Network, uma solução de escalonamento baseada no Substrate
+Alex Siman - Kiev, Ucrânia
+Construindo SubSocial, uma plataforma de rede social baseada em substrato
+Katie e Nate - Boston, EUA
+Validar Kusama e construir projetos de substrato no PureStake
+Hyungsuk Kang - Seul, Coreia do Sul
+Construindo um programa de certificação de substrato na Universidade da Coreia
 
-What are your Responsibilities?
+Quais são as suas responsabilidades?
 
-The road to becoming a Polkadot ambassador is proving your commitment to our ecosystem we share. Some tasks may be dependent upon your relative work groups.
-These are some examples as you’ll likely set your own path to success! We will help you get there alongside us.
-Being a representative of your region for the Polkadot project
-Identifying opportunities for Polkadot to be involved in together
-If interested, author blog posts and other writing in relation to the future of the web and how Polkadot relates to the vision of Web 3.0
-Assistance with response management & keeping the community engaged with solid and correct answers
-Speaking about Polkadot at an event or hosting a workshop & meetups
-Contributing code to a repository related to the ecosystem & or improving documentation related to Polkadot
-Participate in calls & tasks for driving forward the ecosystem
-Mentor newcomers into the platform
+O caminho para se tornar um embaixador Polkadot é provando seu compromisso com o nosso ecossistema. Algumas tarefas podem depender de seus grupos de trabalho.
+Estes são alguns exemplos de como você provavelmente definirá seu próprio caminho para o sucesso! Vamos ajudá-lo a chegar lá ao nosso lado.
+Ser um representante da sua região para o projeto Polkadot
+Identificando oportunidades para Polkadot participar
+Se estiver interessado, crie postagens em blogs e outros textos relacionados ao futuro da web e de como Polkadot se relaciona com a visão da Web 3.0
+Assistência com gerenciamento de resposta e mantendo a comunidade engajada com respostas sólidas e corretas
+Falando sobre Polkadot em um evento ou organizando um workshop e encontros
+Contribuir com código para um repositório relacionado ao ecossistema e ou melhorar a documentação relacionada ao Polkadot
+Participe de chamadas e tarefas para impulsionar o ecossistema
+Mentor dos recém-chegados à plataforma
 
-Program Path
+Caminho do programa
 
-To become an official ambassador you must have contributed to the trello board and joined two official calls. You also must define which working group you intend on joining as an Ambassador. 
-ApprenticeAt this stage in your journey you’re getting to know the community and establishing relationships. As well as working on tasks.
-Phase 1
-Phase 2
-AmbassadorYou’ve now officially recognized  as an ambassador! You’ll have all the opportunities afforded to you as your fellow team members.
+Para se tornar um embaixador oficial, é preciso ter contribuído para o conselho de trello e ter participado em duas chamadas oficiais. Você também deve definir em qual grupo de trabalho pretende ingressar como Embaixador. 
+Aprendiz Nesta fase da sua jornada você está conhecendo a comunidade e estabelecendo relacionamentos. E também trabalhando em tarefas.
+Fase 1
+Fase 2
+Embaixador Você agora é reconhecido oficialmente como embaixador! Você terá todas as oportunidades oferecidas a você e a seus colegas de equipe.
 
-What’s in it for Me?
-Playing a key role in Polkadot’s historic launch
-Access to the ambassador Riot channel
-Developer access to bounties (first call)
-Event participation & exclusive invitations
-Participation in calls with core-team members of Polkadot
-Funding for Meetups & Workshops
-Polkadot swag
-Friendships & team building
+O quê tem nisso pra mim?
+Desempenhando um papel fundamental no lançamento histórico de Polkadot
+Acesso ao canal do embaixador Riot
+Acesso do desenvolvedor a recompensas (primeira chamada)
+Participação em eventos e convites exclusivos
+Participação em chamadas com membros da equipe principal do Polkadot
+Financiamento para Reuniões & Workshops
+Estilo Polkadot
+Amizades e formação de equipes
 
 
-Do you think you have what it takes?
+Você acha que tem o necessário?
 
-Next steps:
+Próximas etapas:
 
-      Working Group Decision
-     Joining the Trello Board
-      We will send a follow up email with a Code of Conduct and other links for your review
+      Decisão do Grupo de Trabalho
+     Juntando-se ao Trello Board
+      Enviaremos um e-mail de acompanhamento com um Código de Conduta e outros links para sua avaliação
 
-If you are wanting to organize a meetup / workshop use this form 
+Se você deseja organizar um encontro / workshop, use este formulário 
  
