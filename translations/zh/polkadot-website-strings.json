@@ -27,10 +27,10 @@
     "tr": "filter=\"id:-{{id}}+tags:hash-tr\""
   },
   "global.footer.from_the_blog": {
-    "en": "From the blog"
+    "en": "博客文章"
   },
   "global.footer.get_involved": {
-    "en": "Want to get involved?",
+    "en": "如何参与",
     "ru": "Заинтересован?",
     "ko": "폴카닷과 함께 하고 싶으신가요?",
     "es": "¿Quiere colaborar?",
@@ -75,7 +75,7 @@
   },
   "global.subscribe_newsletter_footer": {
     "en": "Subscribe to the newsletter to hear about Polkadot updates and events.",
-    "zh-cn": "订阅我们的电子报，接收Polkadot最新消息和活动。",
+    "zh-cn": "订阅我们的电子报接收Polkadot最新消息和活动。",
     "ja": "Polkadotのアップデートとイベントについてのニュースレターを購読する。",
     "ko": "폴카닷 뉴스를 구독하여 업데이트 및 이벤트 소식을 팔로우 하세요",
     "ru": "Подписывайтесь на рассылку, и оставайтесь в курсе последних новостей Polkadot и мероприятий сообщества",
