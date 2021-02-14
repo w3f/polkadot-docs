@@ -1,4 +1,4 @@
-Present-day blockchain architectures all suffer from a number of issues
+Las arquitecturas actuales de blockchain sufren todas un numero de problemas
 not least practical means of extensibility and scalability. We believe
 this stems from tying two very important parts of the consensus
 architecture, namely *canonicality* and *validity*, too closely
