@@ -1,42 +1,42 @@
-Welcome to 
-Polkadot Ambassador Onboarding
+Witaj na 
+Spotkaniu organizacyjnym dla Ambasadorów Polkadot
 
-Agenda
-Welcome and Introductions (15 mins)
-Team Members
-New Ambassadors introduce themselves
-Where you live
-What brought you to applying to the Polkadot Ambassador Program
-What are you interested in contributing
-Overview of Ambassador Program and Q&A (15 mins)
-Review Trello: Tasks you can do immediately (10 mins)
-Post-call
-Look for the welcome email
-Join all the Ambassador groups
-We’ll add you to the Trello
+Plan spotkania
+Powitanie i przedstawienie się (15 minut)
+Członkowie zespołu
+Nowi ambasadorzy opowiadają o sobie
+Gdzie mieszkasz?
+Co skłoniło Cię do zgłoszenia się do Programu dla Ambasadorów Polkadota?
+Co chcesz wnieść?
+Przegląd programu dla Ambasadorów oraz Q&A (15 minut)
+Przegląd Trello: Zadania, które możesz wykonać natychmiast (10 minut)
+Po spotkaniu
+Oczekuj na powitalną wiadomość e-mail
+Dołącz do wszystkich grup ambasadorów
+Dodamy Cię do Trello
 
-City: Zug, Switzerland
-Employees: ~50
-Organization: Non-profit foundation housing the cryptographic research
-Focus: Economic & Viability research, Grants, Technical Education, Community & Growth, Business Development, Communications
-Projects: Polkadot and Kusama
-City: Berlin, Germany
-Employees: ~140
-Organization: Mostly developers - building Substrate, Kusama and Polkadot
-Focus: Coding, Communications, Business Development
-Projects: Parity Substrate, Polkadot/Kusama, past experience with Parity Ethereum and other technologies
+Miasto: Zug, Szwajcaria
+Pracownicy: ok. 50
+Organizacja: fundacja non-profit zajmująca się badaniami kryptograficznymi
+Obszary działania: badania dotyczące gospodarki i rentowności, dotacje, edukacja techniczna, społeczność i wzrost gospodarczy, rozwój przedsiębiorczości, komunikacja
+Projekty: Polkadot i Kusama
+Miasto: Berlin, Niemcy
+Pracownicy: ok. 140
+Organizacja: Głównie programiści - rozwój projektów Substrate, Kusama i Polkadot
+Obszary działania: programowanie, komunikacja, rozwój biznesu
+Projekty: Parity Substrate, Polkadot/Kusama, doświadczenie związane z Parity Ethereum i innymi technologiami
 
-What is Polkadot?
-...and Kusama?	
-Revolutionizes online governance thru open, community-driven decision-making
-Enables custom-made platforms built for specific apps
+Co to jest Polkadot?
+...i Kusama?	
+Rewolucjonizuje zarządzanie online poprzez otwarte i kierowane przez społeczność procesy decyzyjne
+Umożliwia tworzenie platform, które są dostosowane do konkretnych aplikacji
 Self-upgrades allowing it to be future-proof
 Handles heavy traffic at scale
-Connects networks together
+Łączy sieci
 Industry-
 Leading plug-and-play security
 
-Who do we want involved?	
+Jakich ludzi potrzebujemy?	
 
 Technologists and developers
 Passionate community members
@@ -46,19 +46,19 @@ University Students
 Creatives & Makers
 People from all backgrounds! Most likely yourself if you’re here :)
 
-Current Ambassadors
+Nasi ambasadorzy
 
-Examples of Polkadot Ambassadors who have made significant contributions:
-Sota Watanabe - Tokyo, Japan
-CEO of Plasm Network, a scaling solution built on Substrate
-Alex Siman - Kiev, Ukraine
-Building SubSocial, a Substrate- based social network platform
-Katie and Nate - Boston, USA
-Validating Kusama and building Substrate projects at PureStake
-Hyungsuk Kang - Seoul, South Korea
-Building a Substrate certification program at Korea University
+Niektórzy z ambasadorów Polkadota, którzy wnieśli znaczący wkład:
+Sota Watanabe - Tokyo, Japonia
+Prezes Plasm Network, skalowalnego rozwiązania zbudowanego na Substrate
+Alex Siman – Kijów, Ukraina
+Tworzy platformę społecznościową SubSocial opartej na Substrate
+Katie i Nate - Boston, USA
+Weryfikują projekt Kusama i budują projekty oparte o Substrate na PureStake
+Hyungsuk Kang - Seul, Korea Południowa
+Tworzy program certyfikacji Substrate na Uniwersytecie Koreańskim
 
-What are your Responsibilities?
+Jakie są Twoje obowiązki?
 
 The road to becoming a Polkadot ambassador is proving your commitment to our ecosystem we share. Some tasks may be dependent upon your relative work groups.
 These are some examples as you’ll likely set your own path to success! We will help you get there alongside us.
