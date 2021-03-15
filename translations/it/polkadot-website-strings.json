@@ -14,7 +14,7 @@
     "ja": "filter=\"tags:hash-ja\"",
     "zh-cn": "filter=\"tags:hash-zh-cn\"",
     "ko": "filter=\"tags:hash-ko\"",
-    "es": "filter=\"tags:hash-es\"",
+    "es": "filter=\"tags:hash-it\"",
     "tr": "filter=\"tags:hash-tr\""
   },
   "get_related_filter": {
