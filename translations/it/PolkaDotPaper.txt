@@ -1,13 +1,13 @@
 Tutte le architetture di Blockchain odierne soffrono di numerose problematiche
 not least practical means of extensibility and scalability. We believe
-this stems from tying two very important parts of the consensus
-architecture, namely *canonicality* and *validity*, too closely
-together. This paper introduces an architecture, the *heterogeneous
-multi-chain*, which fundamentally sets the two apart.
+questo deriva dall'unione di due parti molto importanti del consenso
+l'architettura, vale a dire * canonicality * e * validity *, troppo strettamente
+insieme. Questo documento introduce un'architettura, quella eterogenea
+multi-chain*, che fondamentalmente distingue i due.
 
-In compartmentalising these two parts, and by keeping the overall
-functionality provided to an absolute minimum of *security* and
-*transport*, we introduce practical means of core extensibility in situ.
+Nel compartimentare queste due parti e nel mantenere il complessivo
+funzionalità fornite ad un minimo assoluto di *sicurezza* e
+*trasporto*, introduciamo mezzi pratici di estensibilità del nucleo in situ.
 Scalability is addressed through a divide-and-conquer approach to these
 two functions, scaling out of its bonded core through the
 incentivisation of untrusted public nodes.
