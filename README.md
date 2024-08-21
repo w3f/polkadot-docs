@@ -1,2 +1,3 @@
-# polkadot-docs
-translation management
+# Polkadot Docs
+
+Polkadot Developer Documentation
